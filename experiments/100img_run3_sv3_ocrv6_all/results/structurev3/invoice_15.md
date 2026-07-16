@@ -1,0 +1,5 @@
+
+<div style="text-align: center;"><html><body><table border="1"><tbody><tr><td></td><td colspan="2">TOTAL DUE</td><td rowspan="3"></td></tr><tr><td></td><td colspan="2">SHIPPING & HANDLING</td></tr><tr><td></td><td colspan="2">SALES TAX</td></tr><tr><td></td><td colspan="2">SUBTOTAL</td><td>Special Notes and Terms:</td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td>DESCRIPTION</td><td>QUANTITY</td><td>TOTAL</td><td>PRICE UNIT</td><td></td></tr></tbody></table></body></html></div>
+
+
+## Thank you for your business!

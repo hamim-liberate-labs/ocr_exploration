@@ -1,0 +1,95 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_23.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1895,
+    "height": 2200,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Last Name: Smith\\n(Same as on SIN card)</td><td>First Name: John\\n(Same as on SIN card)</td></tr><tr><td>Gender: ☐ F\\n☑ M\\n☐ Other: ________</td><td>Date of Birth: (mm/dd/yyyy) 01/01/2020</td></tr><tr><td>Home phone :</td><td>Cell phone :</td></tr><tr><td>Paystub in: French ☐ English ☐</td><td>Email: JSMITH@UBishops.ca</td></tr><tr><td colspan=\"2\">Social Insurance Number (SIN) $ ^{{*}} $ :</td></tr><tr><td colspan=\"2\">$ ^{{*}} $If the SIN starts with a 9, then you must present a valid work or study permit prior to the start date to HR</td></tr><tr><td>Primary address</td><td>Secondary address</td></tr><tr><td>Address 2600 Rue College</td><td>Address :</td></tr><tr><td>Apt number :</td><td>Apt number :</td></tr><tr><td>City: Sherbrooke</td><td>City:</td></tr><tr><td>Province: Quebec</td><td>Province :</td></tr><tr><td>Postal code: J1M 1P7</td><td>Postal code :</td></tr><tr><td colspan=\"2\">Section 2: EMERGENCY CONTACT</td></tr><tr><td>Last Name: Smith</td><td>First name: Jane</td></tr><tr><td>Relationship: Mother</td><td>Email: JSMITH@UBishops.ca</td></tr><tr><td>Home phone:</td><td>Cell phone :</td></tr><tr><td colspan=\"2\">Section 3: AUTHORIZATION</td></tr><tr><td colspan=\"2\">☐ I confirm the information above is correct and that I am including all required hiring documents (see page 1 of Contract for details). OR\\n☐ I confirm the information above is correct and I hereby declare that my required documents have previously been provided, including banking information, and that it has not changed.</td></tr><tr><td>Employee signature :\\nPerson&#x27;s Name</td><td>Date :</td></tr></table>",
+            "block_bbox": [
+                105,
+                254,
+                1775,
+                1972
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    105.0,
+                    254.0
+                ],
+                [
+                    1775.0,
+                    254.0
+                ],
+                [
+                    1775.0,
+                    1972.0
+                ],
+                [
+                    105.0,
+                    1972.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9175475835800171,
+                "coordinate": [
+                    105,
+                    254,
+                    1775,
+                    1972
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        105.0,
+                        254.0
+                    ],
+                    [
+                        1775.0,
+                        254.0
+                    ],
+                    [
+                        1775.0,
+                        1972.0
+                    ],
+                    [
+                        105.0,
+                        1972.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

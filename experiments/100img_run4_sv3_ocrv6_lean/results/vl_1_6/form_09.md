@@ -1,0 +1,34 @@
+# Application for Employment
+
+Position You Are Applying For _____
+
+Desired Salary _____
+
+
+
+Date Available for Work: ___
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="5">PERSONAL INFORMATION</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Last Name</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>First Name</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Middle</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Address</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>City</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>State</td></tr><tr><td colspan="5">Home Phone: ________ Cell Phone: ________ Email address: ________</td></tr><tr><td colspan="5">Social Security Number: ________</td></tr><tr><td colspan="5">Are you a U.S. Citizen? [ ] Yes [ ] No</td></tr><tr><td colspan="5">Have you ever been convicted of a felony? [ ] Yes [ ] No</td></tr><tr><td colspan="5">If selected for employment are you willing to submit to a pre-employment drug screening test? [ ] Yes [ ] No</td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="5">EDUCATION</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>School Name</td><td style='text-align: center; word-wrap: break-word;'>Location</td><td style='text-align: center; word-wrap: break-word;'>Years Attended</td><td style='text-align: center; word-wrap: break-word;'>Degree Received</td><td style='text-align: center; word-wrap: break-word;'>Major</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+
+Other training, certifications or licenses held:
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="6">EMPLOYMENT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Employer:</td><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'>Dates Employed:</td><td colspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Work Phone:</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Pay Rate:</td><td style='text-align: center; word-wrap: break-word;'>$</td><td style='text-align: center; word-wrap: break-word;'>to</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Address:</td><td colspan="5"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>City:</td><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'>State:</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Zip:</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Position:</td><td colspan="5"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Duties Performed:</td><td colspan="5"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Supervisors Name and Title:</td><td colspan="5"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Reason for leaving:</td><td colspan="5"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>May we contact them?</td><td colspan="5">[ ] Yes [ ] No</td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Name</td><td style='text-align: center; word-wrap: break-word;'>Title</td><td style='text-align: center; word-wrap: break-word;'>Company</td><td style='text-align: center; word-wrap: break-word;'>Phone</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+
+## Acknowledgement and Authorization
+
+I certify that all answers given herein are true and complete to the best of my knowledge.
+
+I authorize investigation of all statements contained in this application for employment as may be necessary in arriving at an employment decision.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_103_1892_175_1928.jpg" alt="Image" width="4%" /></div>
+
+
+In the event of employment, I understand that false or misleading information given in my application or interview(s) may result in discharge.

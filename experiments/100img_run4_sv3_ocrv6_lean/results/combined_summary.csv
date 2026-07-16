@@ -1,0 +1,4 @@
+model,avg_regions,avg_chars,mean_conf,avg_latency,word_P,word_R,word_F1,char_sim,table_recall
+PP-OCRv6_medium,66.63,909.31,0.989,0.805,0.8251,0.9154,0.8493,0.6647,0.0
+PP-OCRv6_small,65.81,899.19,0.984,0.492,0.8175,0.904,0.8397,0.6552,0.0
+"PP-StructureV3 (lean, OCRv6-medium)",66.59,697.04,0.986,2.086,0.819,0.6933,0.7089,0.5758,0.7449

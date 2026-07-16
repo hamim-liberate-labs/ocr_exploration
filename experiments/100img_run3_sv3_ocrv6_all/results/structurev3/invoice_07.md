@@ -1,0 +1,2 @@
+
+<div style="text-align: center;"><html><body><table border="1"><tbody><tr><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">Comments & Instructions:</td><td>Sub Total</td><td></td></tr><tr><td rowspan="4">Tax</td><td rowspan="4"></td><td>Freight</td><td></td></tr><tr><td>Total</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table></body></html></div>

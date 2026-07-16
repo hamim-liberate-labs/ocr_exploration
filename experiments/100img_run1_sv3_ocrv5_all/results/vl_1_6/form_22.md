@@ -1,0 +1,39 @@
+## Mortgage Application Form
+
+Instructions: Please complete and tick the applicable checkbox. DBS Staff Home Loan Application (under HR Terms) ☐ Yes ☐ No
+
+Access to credit report. You may obtain a free credit report within 30 days from the date of approval or rejection of this application. There are two ways to obtain a free credit report. You can go to the credit bureau website listed below or bring your approval or rejection letter and your original NRC to the credit bureau's registered office. Credit Bureau (Singapore) Pte Ltd is located at 2 Shenton Way #20-02 SGX Centre 1 Singapore 068804, Tel: (66) 6662 6163 Website: www.creditbureau.com.sg
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="5">1. Personal Participants</td></tr><tr><td colspan="2">Main Applicant</td><td colspan="3">Joint Applicant</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Salary
+☐ ☐ ☐ Ms ☐ Mdn ☐ Ms ☐ Ms</td><td style='text-align: center; word-wrap: break-word;'>Date of Birth</td><td style='text-align: center; word-wrap: break-word;'>Salary
+☐ ☐ ☐ Ms ☐ Mdn ☐ Ms ☐ Ms</td><td colspan="2">Date of Birth</td></tr><tr><td colspan="2">Full Name as in NRIC/Passport/undlline surname</td><td style='text-align: center; word-wrap: break-word;'>NRIC/Passport No.</td><td colspan="2">Full Name as in NRIC/Passport/undlline surname</td></tr><tr><td rowspan="2">Nationality/Citizenship
+☐ Singapore
+☐ Singapore PR/Foreigner $ ^{{*}} $
+Nationality</td><td rowspan="2">Marital Status
+☐ Single
+☐ Married
+☐ Others</td><td style='text-align: center; word-wrap: break-word;'>Nationality/Citizenship
+☐ Singapore PR/Foreigner $ ^{{*}} $
+Nationality</td><td colspan="2">Marital Status
+☐ Single
+☐ Married
+☐ Others</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Relationship with Main Applicant
+☐ Spouse ☐ Fiancé/Fiancée</td><td colspan="2">Parent ☐ Sibling ☐ Child ☐ Others</td></tr><tr><td colspan="2">Residential Address (P.O. Box, V-Box &amp; C/O/dresses-are not allowed)</td><td colspan="3">Residential Address (P.O. Box, V-Box &amp; C/O/dresses-are not allowed)</td></tr><tr><td colspan="2">Mailing Address (complete if different from Residential Address)</td><td colspan="3">Mailing Address (complete if different from Residential Address)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Residential Status
+☐ Self-owned and fully paid
+☐ Self-owned without and/or loan</td><td style='text-align: center; word-wrap: break-word;'>☐ Live with family
+☐ Rented</td><td style='text-align: center; word-wrap: break-word;'>Residential Status
+☐ Self-owned and fully paid
+☐ Self-owned without and/or loan</td><td colspan="2">☐ Live with family
+☐ Rented</td></tr><tr><td colspan="2">☐ Others</td><td style='text-align: center; word-wrap: break-word;'>☐ Others</td><td colspan="2">☐ Others</td></tr><tr><td colspan="2">Contact Details (please provide at least one contact na.)</td><td colspan="3">Contact Details (please provide at least one contact na.)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>H.</td><td style='text-align: center; word-wrap: break-word;'>HP.</td><td style='text-align: center; word-wrap: break-word;'>H.</td><td style='text-align: center; word-wrap: break-word;'>O.</td><td style='text-align: center; word-wrap: break-word;'>HP.</td></tr><tr><td colspan="2">Email:</td><td colspan="3">Email:</td></tr><tr><td colspan="5">2. Employment</td></tr><tr><td colspan="2">Employment Status</td><td style='text-align: center; word-wrap: break-word;'>Length of Service</td><td style='text-align: center; word-wrap: break-word;'>Employment Status</td><td style='text-align: center; word-wrap: break-word;'>Length of Service</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>☐ Employee ☐ Self-Employed ☐ Others</td><td style='text-align: center; word-wrap: break-word;'>years</td><td style='text-align: center; word-wrap: break-word;'>months</td><td style='text-align: center; word-wrap: break-word;'>☐ Employee ☐ Self-Employed ☐ Others</td><td style='text-align: center; word-wrap: break-word;'>years</td></tr><tr><td colspan="2">Name of Company</td><td style='text-align: center; word-wrap: break-word;'>Occupation</td><td style='text-align: center; word-wrap: break-word;'>Name of Company</td><td style='text-align: center; word-wrap: break-word;'>Occupation</td></tr><tr><td colspan="2">Company Address</td><td colspan="3">Company Address</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Monthly Fixed Income
+Ss</td><td style='text-align: center; word-wrap: break-word;'>Other Monthly Income</td><td style='text-align: center; word-wrap: break-word;'>Source of Other Income</td><td style='text-align: center; word-wrap: break-word;'>Monthly Fixed Income</td><td style='text-align: center; word-wrap: break-word;'>Other Monthly Income</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ss</td><td style='text-align: center; word-wrap: break-word;'>Ss</td><td style='text-align: center; word-wrap: break-word;'>Ss</td><td style='text-align: center; word-wrap: break-word;'>Ss</td><td style='text-align: center; word-wrap: break-word;'>Source of Other Income</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Previous Occupation</td><td style='text-align: center; word-wrap: break-word;'>Previous Company (if current in a 2-year)</td><td style='text-align: center; word-wrap: break-word;'>Length of Service with Previous Company</td><td style='text-align: center; word-wrap: break-word;'>Previous Occupation</td><td style='text-align: center; word-wrap: break-word;'>Previous Company (if current in a 2-year)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Previous Occupation</td><td style='text-align: center; word-wrap: break-word;'>years</td><td style='text-align: center; word-wrap: break-word;'>months</td><td style='text-align: center; word-wrap: break-word;'>years</td><td style='text-align: center; word-wrap: break-word;'>Previous Occupation</td></tr><tr><td colspan="5">8. Property Information</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Approval in the Property Request?
+☐ Yes ☐ No</td><td colspan="2">Address of Property to be Financed</td><td style='text-align: center; word-wrap: break-word;'>Usage of Property
+☐ Parents/Occupation ☐ Investment</td><td style='text-align: center; word-wrap: break-word;'>Main Applicant
+☐ Property Owner &amp; Borrower</td></tr><tr><td colspan="2">Postal code:</td><td style='text-align: center; word-wrap: break-word;'>Type of Residential Property
+☐ New Landed
+☐ E�. Cands ☐ Conds ☐ HUDC
+☐ Northern ☐ Cluster/Townhouse</td><td colspan="2">Type of Commercial Property
+☐ Office
+☐ Shop
+☐ Shamp
+☐ Other</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>☐ Full Type ______</td><td style='text-align: center; word-wrap: break-word;'>☐ Other</td><td style='text-align: center; word-wrap: break-word;'>☐ Home/Inter. Terrace $ ^{{*}} $</td><td colspan="2">☐ Other</td></tr></table>

@@ -1,0 +1,278 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_08.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1926,
+    "height": 1442,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"2\">Income</td><td colspan=\"5\">Monthly Balance</td></tr><tr><td>Items</td><td>Amount</td><td>No.</td><td>Date</td><td>Items</td><td colspan=\"2\">Amount</td></tr><tr><td>sales</td><td>3248</td><td>2</td><td>11/24/21</td><td>Expense on material</td><td colspan=\"2\">4253</td></tr><tr><td>sales</td><td>3</td><td>3</td><td>11/25/21</td><td>Expense on material</td><td colspan=\"2\">4253</td></tr><tr><td>sales</td><td>4</td><td>4</td><td>11/26/21</td><td>Expense on material</td><td colspan=\"2\">4253</td></tr><tr><td>sales</td><td>3248</td><td>5</td><td>11/27/21</td><td>Expense on material</td><td colspan=\"2\">4253</td></tr></table>",
+            "block_bbox": [
+                2,
+                1,
+                1298,
+                417
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    2.0,
+                    1.0
+                ],
+                [
+                    1298.0,
+                    1.0
+                ],
+                [
+                    1298.0,
+                    417.0
+                ],
+                [
+                    2.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "Nov. 2021",
+            "block_bbox": [
+                191,
+                423,
+                323,
+                460
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    191.0,
+                    423.0
+                ],
+                [
+                    323.0,
+                    423.0
+                ],
+                [
+                    323.0,
+                    460.0
+                ],
+                [
+                    191.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "Monthly Financial Report (Auto-Caculation)",
+            "block_bbox": [
+                451,
+                484,
+                1511,
+                550
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    451.0,
+                    484.0
+                ],
+                [
+                    1511.0,
+                    484.0
+                ],
+                [
+                    1511.0,
+                    550.0
+                ],
+                [
+                    451.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"4\">Income</td><td colspan=\"4\">Expense</td></tr><tr><td>No.</td><td>Date</td><td>Items</td><td>Amount</td><td>No.</td><td>Date</td><td>Items</td><td>Amount</td></tr><tr><td>1</td><td>11/23/21</td><td>sales</td><td>3248</td><td>1</td><td>11/23/21</td><td>Expense on model</td><td>5555</td></tr><tr><td>2</td><td>11/24/21</td><td>sales</td><td>3248</td><td>2</td><td>11/24/21</td><td>Expense on material</td><td>4253</td></tr><tr><td>3</td><td>11/25/21</td><td>sales</td><td>3248</td><td>3</td><td>11/25/21</td><td>Expense on material</td><td>4253</td></tr><tr><td>4</td><td>11/26/21</td><td>sales</td><td>3248</td><td>4</td><td>11/26/21</td><td>Expense on material</td><td>4253</td></tr><tr><td>5</td><td>11/27/21</td><td>sales</td><td>3248</td><td>5</td><td>11/27/21</td><td>Expense on material</td><td>4253</td></tr></table>",
+            "block_bbox": [
+                193,
+                659,
+                1767,
+                1030
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    193.0,
+                    659.0
+                ],
+                [
+                    1767.0,
+                    659.0
+                ],
+                [
+                    1767.0,
+                    1030.0
+                ],
+                [
+                    193.0,
+                    1030.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.5654871463775635,
+                "coordinate": [
+                    2,
+                    1,
+                    1298,
+                    417
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        2.0,
+                        1.0
+                    ],
+                    [
+                        1298.0,
+                        1.0
+                    ],
+                    [
+                        1298.0,
+                        417.0
+                    ],
+                    [
+                        2.0,
+                        417.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.3423731029033661,
+                "coordinate": [
+                    191,
+                    423,
+                    323,
+                    460
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        191.0,
+                        423.0
+                    ],
+                    [
+                        323.0,
+                        423.0
+                    ],
+                    [
+                        323.0,
+                        460.0
+                    ],
+                    [
+                        191.0,
+                        460.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8443924784660339,
+                "coordinate": [
+                    451,
+                    484,
+                    1511,
+                    550
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        451.0,
+                        484.0
+                    ],
+                    [
+                        1511.0,
+                        484.0
+                    ],
+                    [
+                        1511.0,
+                        550.0
+                    ],
+                    [
+                        451.0,
+                        550.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.7375379800796509,
+                "coordinate": [
+                    193,
+                    659,
+                    1767,
+                    1030
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        193.0,
+                        659.0
+                    ],
+                    [
+                        1767.0,
+                        659.0
+                    ],
+                    [
+                        1767.0,
+                        1030.0
+                    ],
+                    [
+                        193.0,
+                        1030.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

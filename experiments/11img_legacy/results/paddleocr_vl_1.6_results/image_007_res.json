@@ -1,0 +1,186 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/images/images/image_007.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 736,
+    "height": 750,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                5,
+                4,
+                34,
+                41
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    5.0,
+                    4.0
+                ],
+                [
+                    33.0,
+                    4.0
+                ],
+                [
+                    33.0,
+                    40.0
+                ],
+                [
+                    5.0,
+                    40.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>File</td><td>Edit</td><td>View</td><td>Insert</td><td>Format</td><td>Data</td><td>Tools</td><td>Add-ons</td><td>Help</td><td colspan=\"3\">All changes saved in Drive</td></tr><tr><td></td><td></td><td>100%</td><td></td><td>$</td><td>%</td><td>.00</td><td>123</td><td></td><td>12</td><td></td><td>B</td></tr><tr><td colspan=\"12\">New Teacher Induction at RESA</td></tr><tr><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td>D</td><td></td></tr><tr><td>1</td><td colspan=\"2\">Date</td><td colspan=\"9\">Task</td></tr><tr><td>2</td><td colspan=\"2\">6/28</td><td colspan=\"9\">Faculty/Staff List due to Central Office</td></tr><tr><td>3</td><td colspan=\"2\">7/12</td><td colspan=\"9\">Send Welcome Back Letter to Faculty/Staff</td></tr><tr><td>4</td><td colspan=\"2\">7/12</td><td colspan=\"9\">Send Welcome Back Email to Faculty Staff</td></tr><tr><td>5</td><td colspan=\"2\">7/26</td><td colspan=\"9\">New Teacher Induction at RESA</td></tr><tr><td>6</td><td colspan=\"2\">7/27</td><td colspan=\"9\">New Teacher Induction at BOE</td></tr><tr><td>7</td><td colspan=\"2\">2/8</td><td colspan=\"9\">Letter of Intent given to teachers</td></tr><tr><td>8</td><td colspan=\"2\">2/20</td><td colspan=\"9\">Letter of Intent due to Principal</td></tr><tr><td>9</td><td colspan=\"2\">2/22</td><td colspan=\"9\">Letter of Intent due to the Central Office (due by noon)</td></tr><tr><td>10</td><td colspan=\"2\">2/22</td><td colspan=\"9\">Determine Filled &amp; Vacant Positions</td></tr><tr><td>11</td><td colspan=\"2\">2/22</td><td colspan=\"9\">Identify anyone wanting to Move/Change Positions</td></tr><tr><td>12</td><td colspan=\"2\">2/15</td><td colspan=\"9\">Deadline: Recommend AP to BOE for re-hire</td></tr><tr><td>13</td><td colspan=\"2\">2/25</td><td colspan=\"9\">Principals and AP recommended to BOE</td></tr><tr><td>14</td><td colspan=\"2\">2/27</td><td colspan=\"9\">Personnel Budget Meeting with Central Office</td></tr><tr><td>15</td><td colspan=\"2\">3/11</td><td colspan=\"9\">List of Teachers Recommended (Round 1) due to Central Office</td></tr><tr><td>+</td><td colspan=\"3\">Personnel</td><td colspan=\"8\">New Hire Checklist</td></tr></table>",
+            "block_bbox": [
+                0,
+                15,
+                734,
+                750
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    -2.0,
+                    15.0
+                ],
+                [
+                    734.0,
+                    15.0
+                ],
+                [
+                    734.0,
+                    760.0
+                ],
+                [
+                    -2.0,
+                    760.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.42804133892059326,
+                "coordinate": [
+                    5,
+                    4,
+                    34,
+                    41
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        5.0,
+                        4.0
+                    ],
+                    [
+                        33.0,
+                        4.0
+                    ],
+                    [
+                        33.0,
+                        40.0
+                    ],
+                    [
+                        5.0,
+                        40.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.42611783742904663,
+                "coordinate": [
+                    53,
+                    29,
+                    673,
+                    48
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        57.0,
+                        29.0
+                    ],
+                    [
+                        672.0,
+                        29.0
+                    ],
+                    [
+                        672.0,
+                        47.0
+                    ],
+                    [
+                        57.0,
+                        47.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9193979501724243,
+                "coordinate": [
+                    0,
+                    15,
+                    734,
+                    750
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        -2.0,
+                        15.0
+                    ],
+                    [
+                        734.0,
+                        15.0
+                    ],
+                    [
+                        734.0,
+                        760.0
+                    ],
+                    [
+                        -2.0,
+                        760.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

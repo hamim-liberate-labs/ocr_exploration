@@ -1,0 +1,156 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_07.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 947,
+    "height": 808,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "CORPORATE FINANCIAL ACCOUNTING MONTHLY REPORT ATTACHED INDICATOR TABLE",
+            "block_bbox": [
+                95,
+                86,
+                857,
+                178
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    95.0,
+                    86.0
+                ],
+                [
+                    857.0,
+                    86.0
+                ],
+                [
+                    857.0,
+                    178.0
+                ],
+                [
+                    95.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td></td><td>Revenue</td><td></td><td></td></tr><tr><td>Sales</td><td>$100,000</td><td></td><td></td></tr><tr><td>Cost of Goods Sold</td><td>$40,000</td><td></td><td></td></tr><tr><td>Gross Profit</td><td>$60,000</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Expenses</td><td></td><td></td><td></td></tr><tr><td>Salaries</td><td>$20,000</td><td></td><td></td></tr><tr><td>Rent</td><td>$5,000</td><td></td><td></td></tr><tr><td>Utilities</td><td>$2,000</td><td></td><td></td></tr><tr><td>Marketing</td><td>$10,000</td><td></td><td></td></tr><tr><td>Total Expenses</td><td>$37,000</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Net Income</td><td></td><td></td><td>$23,000</td></tr></table>",
+            "block_bbox": [
+                148,
+                235,
+                765,
+                691
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    148.0,
+                    235.0
+                ],
+                [
+                    765.0,
+                    235.0
+                ],
+                [
+                    765.0,
+                    691.0
+                ],
+                [
+                    148.0,
+                    691.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.30326440930366516,
+                "coordinate": [
+                    95,
+                    86,
+                    857,
+                    178
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        95.0,
+                        86.0
+                    ],
+                    [
+                        857.0,
+                        86.0
+                    ],
+                    [
+                        857.0,
+                        178.0
+                    ],
+                    [
+                        95.0,
+                        178.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9727222919464111,
+                "coordinate": [
+                    148,
+                    235,
+                    765,
+                    691
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        148.0,
+                        235.0
+                    ],
+                    [
+                        765.0,
+                        235.0
+                    ],
+                    [
+                        765.0,
+                        691.0
+                    ],
+                    [
+                        148.0,
+                        691.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

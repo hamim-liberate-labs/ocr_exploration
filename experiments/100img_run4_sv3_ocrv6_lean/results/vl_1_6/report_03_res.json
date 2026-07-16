@@ -1,0 +1,461 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_03.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 2048,
+    "height": 1488,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "figure_title",
+            "block_content": "CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+            "block_bbox": [
+                602,
+                39,
+                1432,
+                69
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    602.0,
+                    39.0
+                ],
+                [
+                    1432.0,
+                    39.0
+                ],
+                [
+                    1432.0,
+                    69.0
+                ],
+                [
+                    602.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "AT 31 DECEMBER, 2010",
+            "block_bbox": [
+                867,
+                86,
+                1165,
+                116
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    867.0,
+                    86.0
+                ],
+                [
+                    1165.0,
+                    86.0
+                ],
+                [
+                    1165.0,
+                    116.0
+                ],
+                [
+                    867.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>ASSETS</td><td>2010</td><td>2009</td><td>2008</td></tr><tr><td></td><td colspan=\"3\">$ million $ million $ million</td></tr><tr><td>ASSETS</td><td></td><td></td><td></td></tr><tr><td>Non-current assets</td><td></td><td></td><td></td></tr><tr><td>Property, plant and equipment</td><td>28,781</td><td>25,053</td><td>19,405</td></tr><tr><td>Deposits for acquisition of property, plant and equipment</td><td>1,198</td><td>1,597</td><td>916</td></tr><tr><td>Lease prepayments</td><td>6,946</td><td>6,216</td><td>6,106</td></tr><tr><td>Deposits for land use rights</td><td>121</td><td>87</td><td>14</td></tr><tr><td>Deposits for investment</td><td>141</td><td>-</td><td>-</td></tr><tr><td>Investment properties</td><td>1,705</td><td>1,568</td><td>890</td></tr><tr><td>Intangible assets</td><td>19,923</td><td>15,309</td><td>8,804</td></tr><tr><td>Mining assets</td><td>2,254</td><td>1,342</td><td>47</td></tr><tr><td>Interests in jointly controlled entities</td><td>935</td><td>742</td><td>639</td></tr><tr><td>Interests in associates</td><td>3,680</td><td>3,679</td><td>3,362</td></tr><tr><td>Goodwill</td><td>836</td><td>836</td><td>897</td></tr><tr><td>Available-for-sale financial assets</td><td>4,661</td><td>4,887</td><td>1,807</td></tr><tr><td>Other loans and receivables</td><td>3,502</td><td>884</td><td>1,336</td></tr><tr><td>Deferred income tax assets</td><td>2,794</td><td>2,273</td><td>1,905</td></tr><tr><td>Other prepayments</td><td>57</td><td>40</td><td>37</td></tr><tr><td>Trade and other receivables</td><td>1,895</td><td>614</td><td>62</td></tr><tr><td></td><td>79,429</td><td>65,127</td><td>46,227</td></tr><tr><td>Current assets</td><td></td><td></td><td></td></tr><tr><td>Lease prepayments</td><td>162</td><td>108</td><td>121</td></tr><tr><td>Properties held for sale</td><td>4,133</td><td>1,977</td><td>620</td></tr><tr><td>Properties under development for sale</td><td>27,103</td><td>20,343</td><td>14,779</td></tr><tr><td>Inventories</td><td>26,158</td><td>21,349</td><td>14,643</td></tr><tr><td>Trade and other receivables</td><td>109,178</td><td>80,782</td><td>67,420</td></tr><tr><td>Amounts due from customers for contract work</td><td>39,076</td><td>36,630</td><td>36,169</td></tr><tr><td>Other loans and receivables</td><td>1,709</td><td>949</td><td>394</td></tr><tr><td>Held-for-trading financial assets</td><td>124</td><td>101</td><td>160</td></tr><tr><td>Restricted cash</td><td>2,239</td><td>2,808</td><td>2,115</td></tr><tr><td>Cash and cash equivalents</td><td>45,490</td><td>51,651</td><td>51,400</td></tr><tr><td></td><td>255,372</td><td>216,698</td><td>187,821</td></tr><tr><td>Total assets</td><td>334,801</td><td>281,825</td><td>234,048</td></tr></table>",
+            "block_bbox": [
+                33,
+                124,
+                1013,
+                1333
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    33.0,
+                    124.0
+                ],
+                [
+                    1013.0,
+                    124.0
+                ],
+                [
+                    1013.0,
+                    1333.0
+                ],
+                [
+                    33.0,
+                    1333.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Equity and Liabilities</td><td>2010</td><td>2009</td><td>2008</td></tr><tr><td></td><td colspan=\"3\">$ million $ million $ million</td></tr><tr><td colspan=\"4\">EQUITY</td></tr><tr><td>Equity attributable to owners of the Company</td><td>62,489</td><td>59,352</td><td>56,546</td></tr><tr><td>Non-controlling interests</td><td>6,000</td><td>4,988</td><td>4,173</td></tr><tr><td>Total equity</td><td>68,489</td><td>64,340</td><td>60,719</td></tr><tr><td colspan=\"4\">LIABILITIES</td></tr><tr><td colspan=\"4\">Non-current liabilities</td></tr><tr><td>Other payables</td><td>204</td><td>1,158</td><td>475</td></tr><tr><td>Borrowings</td><td>35,347</td><td>20,676</td><td>13,648</td></tr><tr><td>Obligations under finance lease</td><td>118</td><td>394</td><td>391</td></tr><tr><td>Financial guarantee contracts</td><td>32</td><td>35</td><td>77</td></tr><tr><td>Retirement and other supplemental benefit obligations</td><td>6,519</td><td>6,421</td><td>8,323</td></tr><tr><td>Provisions</td><td>46</td><td>48</td><td>0</td></tr><tr><td>Deferred income government grant</td><td>406</td><td>157</td><td>215</td></tr><tr><td>Deferred income tax liabilities</td><td>482</td><td>453</td><td>162</td></tr><tr><td></td><td>43,154</td><td>29,342</td><td>23,291</td></tr><tr><td colspan=\"4\">Current liabilities</td></tr><tr><td>Trade and other payables</td><td>181,255</td><td>136,756</td><td>112,913</td></tr><tr><td>Amounts due to customers for contract work</td><td>13,985</td><td>10,194</td><td>2,484</td></tr><tr><td>Current income tax liabilities</td><td>612</td><td>583</td><td>589</td></tr><tr><td>Borrowings</td><td>26,110</td><td>39,409</td><td>33,665</td></tr><tr><td>Obligations under finance lease</td><td>296</td><td>258</td><td>60</td></tr><tr><td>Financial guarantee contracts</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Retirement and other supplemental benefit obligations</td><td>777</td><td>856</td><td>325</td></tr><tr><td>Held-for-trading financial liabilities</td><td>121</td><td>86</td><td>0</td></tr><tr><td></td><td>223,158</td><td>188,143</td><td>150,038</td></tr><tr><td>Total liabilities</td><td>266,312</td><td>217,485</td><td>173,329</td></tr><tr><td>Total equity and liabilities</td><td>334,801</td><td>281,825</td><td>234,048</td></tr><tr><td>Net current assets</td><td>32,214</td><td>28,555</td><td>37,783</td></tr><tr><td>Total assets less current liabilities</td><td>111,643</td><td>93,682</td><td>84,010</td></tr></table>",
+            "block_bbox": [
+                1039,
+                123,
+                2003,
+                1331
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    1039.0,
+                    123.0
+                ],
+                [
+                    2003.0,
+                    123.0
+                ],
+                [
+                    2003.0,
+                    1331.0
+                ],
+                [
+                    1039.0,
+                    1331.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Created by",
+            "block_bbox": [
+                733,
+                1389,
+                923,
+                1433
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    733.0,
+                    1389.0
+                ],
+                [
+                    923.0,
+                    1389.0
+                ],
+                [
+                    923.0,
+                    1433.0
+                ],
+                [
+                    733.0,
+                    1433.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "",
+            "block_bbox": [
+                944,
+                1364,
+                1026,
+                1452
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    944.0,
+                    1364.0
+                ],
+                [
+                    1026.0,
+                    1364.0
+                ],
+                [
+                    1026.0,
+                    1452.0
+                ],
+                [
+                    944.0,
+                    1452.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "FineReport\nMost Powerful and Efficient Reporting Tool",
+            "block_bbox": [
+                1031,
+                1371,
+                1336,
+                1447
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    1031.0,
+                    1371.0
+                ],
+                [
+                    1336.0,
+                    1371.0
+                ],
+                [
+                    1336.0,
+                    1447.0
+                ],
+                [
+                    1031.0,
+                    1447.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6979262828826904,
+                "coordinate": [
+                    602,
+                    39,
+                    1432,
+                    69
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        602.0,
+                        39.0
+                    ],
+                    [
+                        1432.0,
+                        39.0
+                    ],
+                    [
+                        1432.0,
+                        69.0
+                    ],
+                    [
+                        602.0,
+                        69.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8099949359893799,
+                "coordinate": [
+                    867,
+                    86,
+                    1165,
+                    116
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        867.0,
+                        86.0
+                    ],
+                    [
+                        1165.0,
+                        86.0
+                    ],
+                    [
+                        1165.0,
+                        116.0
+                    ],
+                    [
+                        867.0,
+                        116.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9506607055664062,
+                "coordinate": [
+                    33,
+                    124,
+                    1013,
+                    1333
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        33.0,
+                        124.0
+                    ],
+                    [
+                        1013.0,
+                        124.0
+                    ],
+                    [
+                        1013.0,
+                        1333.0
+                    ],
+                    [
+                        33.0,
+                        1333.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9516776204109192,
+                "coordinate": [
+                    1039,
+                    123,
+                    2003,
+                    1331
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        1039.0,
+                        123.0
+                    ],
+                    [
+                        2003.0,
+                        123.0
+                    ],
+                    [
+                        2003.0,
+                        1331.0
+                    ],
+                    [
+                        1039.0,
+                        1331.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.698600709438324,
+                "coordinate": [
+                    733,
+                    1389,
+                    923,
+                    1433
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        733.0,
+                        1389.0
+                    ],
+                    [
+                        923.0,
+                        1389.0
+                    ],
+                    [
+                        923.0,
+                        1433.0
+                    ],
+                    [
+                        733.0,
+                        1433.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.4928218126296997,
+                "coordinate": [
+                    944,
+                    1364,
+                    1026,
+                    1452
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        944.0,
+                        1364.0
+                    ],
+                    [
+                        1026.0,
+                        1364.0
+                    ],
+                    [
+                        1026.0,
+                        1452.0
+                    ],
+                    [
+                        944.0,
+                        1452.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.4513363242149353,
+                "coordinate": [
+                    1031,
+                    1371,
+                    1336,
+                    1447
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        1031.0,
+                        1371.0
+                    ],
+                    [
+                        1336.0,
+                        1371.0
+                    ],
+                    [
+                        1336.0,
+                        1447.0
+                    ],
+                    [
+                        1031.0,
+                        1447.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

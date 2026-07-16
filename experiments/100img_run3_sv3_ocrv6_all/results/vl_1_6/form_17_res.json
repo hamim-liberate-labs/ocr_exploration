@@ -1,0 +1,278 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_17.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1240,
+    "height": 1754,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "CREATED BY TemplateLAB",
+            "block_bbox": [
+                982,
+                11,
+                1223,
+                61
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    982.0,
+                    11.0
+                ],
+                [
+                    1223.0,
+                    11.0
+                ],
+                [
+                    1223.0,
+                    61.0
+                ],
+                [
+                    982.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "GENERAL EMPLOYEMENT APPLICATION",
+            "block_bbox": [
+                342,
+                129,
+                895,
+                163
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    342.0,
+                    129.0
+                ],
+                [
+                    895.0,
+                    129.0
+                ],
+                [
+                    895.0,
+                    163.0
+                ],
+                [
+                    342.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"6\">PERSONAL INFORMATION</td></tr><tr><td colspan=\"2\">NAME\nJohn Smith</td><td>DATE OF BIRTH\nmm/dd/yyyy</td><td colspan=\"3\">SOCIAL SECURITY NUMBER\n&lt;Social Security Number&gt;</td></tr><tr><td colspan=\"6\">ADDRESS (number, street, building)\n8213 Lakeview Drive</td></tr><tr><td colspan=\"2\">CITY\nSchenectady</td><td colspan=\"2\">STATE\nNew York</td><td colspan=\"2\">ZIP CODE\n12302</td></tr><tr><td>PHONE 1\n&lt;Phone Number&gt;</td><td>PHONE 2\n&lt;Phone Number&gt;</td><td colspan=\"4\">EMAIL ADDRESS\njohnsmith@domain.com</td></tr><tr><td colspan=\"6\">Have you ever been convicted of a crime other than a minor traffic incident? ☐ Yes ☑ No\nIf Yes, please explain:\nNot applicable</td></tr><tr><td colspan=\"6\">DESIRED EMPLOYMENT</td></tr><tr><td>EMPLOYMENT TYPE\n☑ Full Time ☐ Part Time</td><td colspan=\"2\">POSITION APPLYING FOR\nGraphic Designer</td><td>DESIRED SALARY\n$800/month</td><td colspan=\"2\">DATE YOU CAN START\nmm/dd/yyyy</td></tr><tr><td colspan=\"6\">EDUCATION (starting from the latest)</td></tr><tr><td>School</td><td colspan=\"2\">Location</td><td>Date Graduated</td><td colspan=\"2\">Attainment</td></tr><tr><td>&lt;School&gt;</td><td colspan=\"2\">&lt;Location&gt;</td><td>mm/dd/yyyy</td><td colspan=\"2\">&lt;Attainment&gt;</td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"6\">WORK EXPERIENCE</td></tr><tr><td>Company Name</td><td colspan=\"2\">Period</td><td>Position</td><td colspan=\"2\">Reason for Leaving</td></tr><tr><td>&lt;Company Name&gt;</td><td>&lt;YYYY&gt;</td><td>&lt;YYYY&gt;</td><td>&lt;Position&gt;</td><td colspan=\"2\">&lt;Reason for Leaving&gt;</td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"6\">May we contact your present employer? ☑ Yes ☐ No If No, why? ________\nIF Yes, name of Supervisor: Kelly Carter Contact Number: &lt;Telephone No.&gt;</td></tr><tr><td colspan=\"6\">MAJOR SKILLS</td></tr><tr><td colspan=\"6\">- MS Office - AUTOCAD - Adobe Illustrator - Adobe Photoshop - Rendering Pro</td></tr><tr><td colspan=\"6\">I certify that the information contained in this application is accurate and correct. I understand that any omission or erroneous may be ground for dismissal.</td></tr><tr><td colspan=\"2\">SIGNATURE</td><td colspan=\"4\">DATE</td></tr></table>",
+            "block_bbox": [
+                71,
+                155,
+                1164,
+                1645
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    71.0,
+                    155.0
+                ],
+                [
+                    1164.0,
+                    155.0
+                ],
+                [
+                    1164.0,
+                    1645.0
+                ],
+                [
+                    71.0,
+                    1645.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "©  $ \\underline{\\text{templatelab.com}} $",
+            "block_bbox": [
+                979,
+                1652,
+                1167,
+                1679
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    979.0,
+                    1652.0
+                ],
+                [
+                    1167.0,
+                    1652.0
+                ],
+                [
+                    1167.0,
+                    1679.0
+                ],
+                [
+                    979.0,
+                    1679.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8125585913658142,
+                "coordinate": [
+                    982,
+                    11,
+                    1223,
+                    61
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        982.0,
+                        11.0
+                    ],
+                    [
+                        1223.0,
+                        11.0
+                    ],
+                    [
+                        1223.0,
+                        61.0
+                    ],
+                    [
+                        982.0,
+                        61.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7021056413650513,
+                "coordinate": [
+                    342,
+                    129,
+                    895,
+                    163
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        342.0,
+                        129.0
+                    ],
+                    [
+                        895.0,
+                        129.0
+                    ],
+                    [
+                        895.0,
+                        163.0
+                    ],
+                    [
+                        342.0,
+                        163.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8563964366912842,
+                "coordinate": [
+                    71,
+                    155,
+                    1164,
+                    1645
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        71.0,
+                        155.0
+                    ],
+                    [
+                        1164.0,
+                        155.0
+                    ],
+                    [
+                        1164.0,
+                        1645.0
+                    ],
+                    [
+                        71.0,
+                        1645.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7574353218078613,
+                "coordinate": [
+                    979,
+                    1652,
+                    1167,
+                    1679
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        979.0,
+                        1652.0
+                    ],
+                    [
+                        1167.0,
+                        1652.0
+                    ],
+                    [
+                        1167.0,
+                        1679.0
+                    ],
+                    [
+                        979.0,
+                        1679.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

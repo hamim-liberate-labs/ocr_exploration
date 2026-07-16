@@ -1,0 +1,644 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/original_008.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 600,
+    "height": 776,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "SCHOOL AGENDA",
+            "block_bbox": [
+                68,
+                71,
+                320,
+                101
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    68.0,
+                    71.0
+                ],
+                [
+                    320.0,
+                    71.0
+                ],
+                [
+                    320.0,
+                    101.0
+                ],
+                [
+                    68.0,
+                    101.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "NAME: Jane Halloway",
+            "block_bbox": [
+                68,
+                119,
+                194,
+                135
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    68.0,
+                    119.0
+                ],
+                [
+                    193.0,
+                    119.0
+                ],
+                [
+                    193.0,
+                    134.0
+                ],
+                [
+                    68.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "WEEK: March 6, 2022 - March 12, 2022",
+            "block_bbox": [
+                280,
+                119,
+                503,
+                135
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    280.0,
+                    119.0
+                ],
+                [
+                    502.0,
+                    119.0
+                ],
+                [
+                    502.0,
+                    134.0
+                ],
+                [
+                    280.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>PRIORITY TASKS</td><td>DEADLINE</td></tr><tr><td>○ Give group presentation</td><td>March 8, 2022</td></tr><tr><td>○ Finish Math homework</td><td>March 10, 2022</td></tr><tr><td>○ Submit group thesis</td><td>March 11, 2022</td></tr></table>",
+            "block_bbox": [
+                70,
+                171,
+                529,
+                275
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    70.0,
+                    171.0
+                ],
+                [
+                    529.0,
+                    171.0
+                ],
+                [
+                    529.0,
+                    275.0
+                ],
+                [
+                    70.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>DAY</td><td>DATE</td><td>TO DO</td></tr><tr><td>Sunday</td><td>March 6, 2022</td><td>○ Prepare school bag\\n○ Plan tasks for the week</td></tr><tr><td>Monday</td><td>March 7, 2022</td><td>○ Review Science lecture\\n○ Study 20 pages History Lecture</td></tr><tr><td>Tuesday</td><td>March 8, 2022</td><td>○ Science lecture quiz\\n○ Plan tasks for the week</td></tr><tr><td>Wednesday</td><td>March 9, 2022</td><td>○ Review 20 pages History lecture\\n○ Audition for dance troupe</td></tr><tr><td>Thursday</td><td>March 10, 2022</td><td>○ Submit Math homework\\n○ Finalize thesis with group mates</td></tr><tr><td>Friday</td><td>March 11, 2022</td><td>○ History lecture quiz\\n○ Submit group thesis</td></tr><tr><td>Saturday</td><td>March 12, 2022</td><td>○ Volunteer at animal shelter\\n○ Buy school supplies</td></tr></table>",
+            "block_bbox": [
+                70,
+                298,
+                530,
+                597
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    70.0,
+                    298.0
+                ],
+                [
+                    530.0,
+                    298.0
+                ],
+                [
+                    530.0,
+                    597.0
+                ],
+                [
+                    70.0,
+                    597.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "NOTES",
+            "block_bbox": [
+                72,
+                605,
+                117,
+                621
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    72.0,
+                    605.0
+                ],
+                [
+                    116.0,
+                    605.0
+                ],
+                [
+                    116.0,
+                    620.0
+                ],
+                [
+                    72.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. Set the school supply budget to $25.00",
+            "block_bbox": [
+                72,
+                628,
+                282,
+                642
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    71.99998474121094,
+                    627.9999389648438
+                ],
+                [
+                    280.99993896484375,
+                    627.9999389648438
+                ],
+                [
+                    280.99993896484375,
+                    640.9999389648438
+                ],
+                [
+                    71.99998474121094,
+                    640.9999389648438
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. Review the references in thesis",
+            "block_bbox": [
+                73,
+                645,
+                245,
+                659
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "block_polygon_points": [
+                [
+                    73.0,
+                    645.0
+                ],
+                [
+                    244.0,
+                    645.0
+                ],
+                [
+                    244.0,
+                    658.0
+                ],
+                [
+                    73.0,
+                    658.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "3. Confirm the history quiz coverage with Mr. Smith",
+            "block_bbox": [
+                72,
+                662,
+                330,
+                676
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "block_polygon_points": [
+                [
+                    72.0,
+                    662.0
+                ],
+                [
+                    329.0,
+                    662.0
+                ],
+                [
+                    329.0,
+                    675.0
+                ],
+                [
+                    72.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "TOMATO",
+            "block_bbox": [
+                561,
+                763,
+                595,
+                772
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9,
+            "block_polygon_points": [
+                [
+                    561.0,
+                    763.0
+                ],
+                [
+                    594.0,
+                    763.0
+                ],
+                [
+                    594.0,
+                    771.0
+                ],
+                [
+                    561.0,
+                    771.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.899310827255249,
+                "coordinate": [
+                    68,
+                    71,
+                    320,
+                    101
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        68.0,
+                        71.0
+                    ],
+                    [
+                        320.0,
+                        71.0
+                    ],
+                    [
+                        320.0,
+                        101.0
+                    ],
+                    [
+                        68.0,
+                        101.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8374626636505127,
+                "coordinate": [
+                    68,
+                    119,
+                    194,
+                    135
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        68.0,
+                        119.0
+                    ],
+                    [
+                        193.0,
+                        119.0
+                    ],
+                    [
+                        193.0,
+                        134.0
+                    ],
+                    [
+                        68.0,
+                        134.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8614315390586853,
+                "coordinate": [
+                    280,
+                    119,
+                    503,
+                    135
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        280.0,
+                        119.0
+                    ],
+                    [
+                        502.0,
+                        119.0
+                    ],
+                    [
+                        502.0,
+                        134.0
+                    ],
+                    [
+                        280.0,
+                        134.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9496707320213318,
+                "coordinate": [
+                    70,
+                    171,
+                    529,
+                    275
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        70.0,
+                        171.0
+                    ],
+                    [
+                        529.0,
+                        171.0
+                    ],
+                    [
+                        529.0,
+                        275.0
+                    ],
+                    [
+                        70.0,
+                        275.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9504903554916382,
+                "coordinate": [
+                    70,
+                    298,
+                    530,
+                    597
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        70.0,
+                        298.0
+                    ],
+                    [
+                        530.0,
+                        298.0
+                    ],
+                    [
+                        530.0,
+                        597.0
+                    ],
+                    [
+                        70.0,
+                        597.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7633301019668579,
+                "coordinate": [
+                    72,
+                    605,
+                    117,
+                    621
+                ],
+                "order": 4,
+                "polygon_points": [
+                    [
+                        72.0,
+                        605.0
+                    ],
+                    [
+                        116.0,
+                        605.0
+                    ],
+                    [
+                        116.0,
+                        620.0
+                    ],
+                    [
+                        72.0,
+                        620.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6354998350143433,
+                "coordinate": [
+                    72,
+                    628,
+                    282,
+                    642
+                ],
+                "order": 5,
+                "polygon_points": [
+                    [
+                        71.99998474121094,
+                        627.9999389648438
+                    ],
+                    [
+                        280.99993896484375,
+                        627.9999389648438
+                    ],
+                    [
+                        280.99993896484375,
+                        640.9999389648438
+                    ],
+                    [
+                        71.99998474121094,
+                        640.9999389648438
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5565106868743896,
+                "coordinate": [
+                    73,
+                    645,
+                    245,
+                    659
+                ],
+                "order": 6,
+                "polygon_points": [
+                    [
+                        73.0,
+                        645.0
+                    ],
+                    [
+                        244.0,
+                        645.0
+                    ],
+                    [
+                        244.0,
+                        658.0
+                    ],
+                    [
+                        73.0,
+                        658.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.4774945378303528,
+                "coordinate": [
+                    72,
+                    662,
+                    330,
+                    676
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        72.0,
+                        662.0
+                    ],
+                    [
+                        329.0,
+                        662.0
+                    ],
+                    [
+                        329.0,
+                        675.0
+                    ],
+                    [
+                        72.0,
+                        675.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6044684648513794,
+                "coordinate": [
+                    561,
+                    763,
+                    595,
+                    772
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        561.0,
+                        763.0
+                    ],
+                    [
+                        594.0,
+                        763.0
+                    ],
+                    [
+                        594.0,
+                        771.0
+                    ],
+                    [
+                        561.0,
+                        771.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

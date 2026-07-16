@@ -1,0 +1,278 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/original_009.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 585,
+    "height": 650,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                120,
+                67,
+                185,
+                115
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    120.0,
+                    67.0
+                ],
+                [
+                    185.0,
+                    67.0
+                ],
+                [
+                    185.0,
+                    115.0
+                ],
+                [
+                    120.0,
+                    115.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Annual Scientific Conference, 26-27 March 2012",
+            "block_bbox": [
+                284,
+                110,
+                452,
+                119
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    284.0,
+                    110.0
+                ],
+                [
+                    451.0,
+                    110.0
+                ],
+                [
+                    451.0,
+                    118.0
+                ],
+                [
+                    284.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "2. Conference time schedule",
+            "block_bbox": [
+                116,
+                131,
+                245,
+                143
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    131.0
+                ],
+                [
+                    244.0,
+                    131.0
+                ],
+                [
+                    244.0,
+                    142.0
+                ],
+                [
+                    116.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"3\">Scientific Conference (COZcare members)</td></tr><tr><td colspan=\"3\">Monday, March 26, 2012 - 10:00 - 17:55 GMT | Room 1.31 Royal School of Mines</td></tr><tr><td>Time</td><td></td><td>Speaker</td></tr><tr><td>10:00</td><td>Reception and Registration</td><td></td></tr><tr><td>10:30</td><td>Opening and Welcome</td><td>Sevket Durucan\\n(Imperial College)</td></tr><tr><td colspan=\"3\">Regulatory Session</td></tr><tr><td colspan=\"3\">Chairperson: Claus Otto [Shell]</td></tr><tr><td>10:40-11:00</td><td>Review of the international regulatory requirements on  $ CO_2 $ geological storage and site abandonment</td><td>Anna Korre\\n(Imperial College)</td></tr><tr><td>11:00-11:40</td><td>“Implementation of EU Directive 2009/31/EC on the Geological Storage of Carbon Dioxide”</td><td>Jaa N. Breunese\\n(TNO)</td></tr><tr><td colspan=\"3\">Presentations by representatives of the National Authorities</td></tr><tr><td>11:00-11:20</td><td>Italy: GSPRL - Inshuto Superiore per la Protezione e la Ricerca Ambientale</td><td>Domenico Gaudioso (ISPRA)</td></tr><tr><td>11:20-11:40</td><td>The Netherlands:\\nTNO - Geological Survey of the Netherlands</td><td>Jaap N. Breunese (TNO)</td></tr><tr><td colspan=\"3\">Recent Developments at Project Sites</td></tr><tr><td colspan=\"3\">Chairperson: Claus Otto [Shell]</td></tr><tr><td>11:40-12:20</td><td>Presentations by  $ CO_2 $ CARE industry partners and site operators providing an overview of recent activities at each project site:\\nK12-B\\nSleigner</td><td>Vincent Vandeweijler (TNO)\\nRudolf Held [Statoil]</td></tr><tr><td>12:20-13:45</td><td>Lunch break</td><td>Sherfield Building</td></tr></table>",
+            "block_bbox": [
+                117,
+                160,
+                479,
+                558
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    117.0,
+                    160.0
+                ],
+                [
+                    479.0,
+                    160.0
+                ],
+                [
+                    479.0,
+                    558.0
+                ],
+                [
+                    117.0,
+                    558.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.8875158429145813,
+                "coordinate": [
+                    120,
+                    67,
+                    185,
+                    115
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        120.0,
+                        67.0
+                    ],
+                    [
+                        185.0,
+                        67.0
+                    ],
+                    [
+                        185.0,
+                        115.0
+                    ],
+                    [
+                        120.0,
+                        115.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8492616415023804,
+                "coordinate": [
+                    284,
+                    110,
+                    452,
+                    119
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        284.0,
+                        110.0
+                    ],
+                    [
+                        451.0,
+                        110.0
+                    ],
+                    [
+                        451.0,
+                        118.0
+                    ],
+                    [
+                        284.0,
+                        118.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7780507802963257,
+                "coordinate": [
+                    116,
+                    131,
+                    245,
+                    143
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        116.0,
+                        131.0
+                    ],
+                    [
+                        244.0,
+                        131.0
+                    ],
+                    [
+                        244.0,
+                        142.0
+                    ],
+                    [
+                        116.0,
+                        142.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9713807106018066,
+                "coordinate": [
+                    117,
+                    160,
+                    479,
+                    558
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        117.0,
+                        160.0
+                    ],
+                    [
+                        479.0,
+                        160.0
+                    ],
+                    [
+                        479.0,
+                        558.0
+                    ],
+                    [
+                        117.0,
+                        558.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

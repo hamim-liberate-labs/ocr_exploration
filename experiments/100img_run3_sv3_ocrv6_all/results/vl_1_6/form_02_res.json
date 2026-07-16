@@ -1,0 +1,247 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_02.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1300,
+    "height": 937,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Application Form",
+            "block_bbox": [
+                34,
+                109,
+                733,
+                492
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    31.159725189208984,
+                    412.1848449707031
+                ],
+                [
+                    691.3977661132812,
+                    71.0335693359375
+                ],
+                [
+                    733.8272705078125,
+                    153.14840698242188
+                ],
+                [
+                    73.5892333984375,
+                    494.2996826171875
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "alamy",
+            "block_bbox": [
+                43,
+                860,
+                157,
+                921
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    43.0,
+                    860.0
+                ],
+                [
+                    157.0,
+                    860.0
+                ],
+                [
+                    157.0,
+                    921.0
+                ],
+                [
+                    43.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Image ID: GW56EK www.alamy.com",
+            "block_bbox": [
+                1111,
+                868,
+                1256,
+                915
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    1111.0,
+                    868.0
+                ],
+                [
+                    1256.0,
+                    868.0
+                ],
+                [
+                    1256.0,
+                    915.0
+                ],
+                [
+                    1111.0,
+                    915.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4921046197414398,
+                "coordinate": [
+                    34,
+                    109,
+                    733,
+                    492
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        31.159725189208984,
+                        412.1848449707031
+                    ],
+                    [
+                        691.3977661132812,
+                        71.0335693359375
+                    ],
+                    [
+                        733.8272705078125,
+                        153.14840698242188
+                    ],
+                    [
+                        73.5892333984375,
+                        494.2996826171875
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5113111734390259,
+                "coordinate": [
+                    43,
+                    860,
+                    157,
+                    921
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        43.0,
+                        860.0
+                    ],
+                    [
+                        157.0,
+                        860.0
+                    ],
+                    [
+                        157.0,
+                        921.0
+                    ],
+                    [
+                        43.0,
+                        921.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.3194814920425415,
+                "coordinate": [
+                    1118,
+                    868,
+                    1254,
+                    890
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        1118.0,
+                        868.0
+                    ],
+                    [
+                        1253.0,
+                        868.0
+                    ],
+                    [
+                        1253.0,
+                        889.0
+                    ],
+                    [
+                        1118.0,
+                        889.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5191605687141418,
+                "coordinate": [
+                    1111,
+                    868,
+                    1256,
+                    915
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        1111.0,
+                        868.0
+                    ],
+                    [
+                        1256.0,
+                        868.0
+                    ],
+                    [
+                        1256.0,
+                        915.0
+                    ],
+                    [
+                        1111.0,
+                        915.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

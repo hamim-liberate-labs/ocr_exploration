@@ -1,0 +1,20 @@
+## MEETING Agenda
+
+ATTENDEES:
+
+Juliana Silva
+
+Aaron Loeb
+
+• Alfredo Torres
+
+Claudia Alves
+
+DATE: 24 JANUARY 2026
+
+TIME: 8.30 AM - 1:20 PM
+
+PLACE: 123 ANYWHERE ST., ANY CITY
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Agenda</td><td style='text-align: center; word-wrap: break-word;'>Topic</td><td style='text-align: center; word-wrap: break-word;'>Person In Charge</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Welcome and Introductions</td><td style='text-align: center; word-wrap: break-word;'>• Opening remarks\n• Brief introductions of each attendee</td><td style='text-align: center; word-wrap: break-word;'>Aaron Loeb</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Project Overview</td><td style='text-align: center; word-wrap: break-word;'>• Presentation of project goals and objectives\n• Discussion about the project scope and key deliverables</td><td style='text-align: center; word-wrap: break-word;'>Juliana SIlva</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Timeline and Milestones</td><td style='text-align: center; word-wrap: break-word;'>• Review of the project timeline\n• Discussion of major milestones and deadlines</td><td style='text-align: center; word-wrap: break-word;'>Claudia Alves</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Roles and Responsibilities</td><td style='text-align: center; word-wrap: break-word;'>• Outline of team roles and responsibilities\n• Assignment of specific tasks and duties</td><td style='text-align: center; word-wrap: break-word;'>Claudia Alves</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Communication Plan</td><td style='text-align: center; word-wrap: break-word;'>• Explanation of communication channels and protocols\n• Establishing a regular meeting schedule and reporting methods</td><td style='text-align: center; word-wrap: break-word;'>Juliana Silva</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Q&amp;A and Open Discussion</td><td style='text-align: center; word-wrap: break-word;'>• Opportunity for attendees to ask questions and provide feedback\n• Open discussion on any concerns or suggestions</td><td style='text-align: center; word-wrap: break-word;'>Alfredo Torres</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Next Steps and Action Items</td><td style='text-align: center; word-wrap: break-word;'>• Summary of key decisions and action items\n• Confirmation of the next meeting date and time</td><td style='text-align: center; word-wrap: break-word;'>Aaron Loeb</td></tr></table>

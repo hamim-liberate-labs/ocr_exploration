@@ -1,0 +1,156 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_15.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 580,
+    "height": 500,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Financial Report",
+            "block_bbox": [
+                169,
+                29,
+                393,
+                63
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    169.0,
+                    29.0
+                ],
+                [
+                    393.0,
+                    29.0
+                ],
+                [
+                    393.0,
+                    63.0
+                ],
+                [
+                    169.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>€ million</td><td>Subscribed capital</td></tr><tr><td>Balance at Jan. 1, 2014</td><td>1,191</td></tr><tr><td>Profit after tax</td><td>–</td></tr><tr><td>Other comprehensive income, net of tax</td><td>–</td></tr><tr><td>Total comprehensive income</td><td>–</td></tr><tr><td>Capital increase 1</td><td>27</td></tr><tr><td>Dividend payment</td><td>–</td></tr><tr><td>Capital transactions involving a change in ownership interest 2</td><td>–</td></tr><tr><td>Other changes</td><td>–</td></tr><tr><td>Balance at June 30, 2014</td><td>1,218</td></tr><tr><td>Balance at Jan. 1, 2015</td><td>1,218</td></tr><tr><td>Profit after tax</td><td>–</td></tr><tr><td>Other comprehensive income, net of tax</td><td>–</td></tr><tr><td>Total comprehensive income</td><td>–</td></tr><tr><td>Capital increase 1</td><td>0</td></tr><tr><td>Dividend payment</td><td>–</td></tr><tr><td>Capital transactions involving a change in ownership interest</td><td>–</td></tr><tr><td>Other changes</td><td>–</td></tr><tr><td>Balance at June 30, 2015</td><td>1,218</td></tr></table>",
+            "block_bbox": [
+                42,
+                97,
+                541,
+                455
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    42.0,
+                    97.0
+                ],
+                [
+                    541.0,
+                    97.0
+                ],
+                [
+                    541.0,
+                    455.0
+                ],
+                [
+                    42.0,
+                    455.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8236238956451416,
+                "coordinate": [
+                    169,
+                    29,
+                    393,
+                    63
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        169.0,
+                        29.0
+                    ],
+                    [
+                        393.0,
+                        29.0
+                    ],
+                    [
+                        393.0,
+                        63.0
+                    ],
+                    [
+                        169.0,
+                        63.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.7301557660102844,
+                "coordinate": [
+                    42,
+                    97,
+                    541,
+                    455
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        42.0,
+                        97.0
+                    ],
+                    [
+                        541.0,
+                        97.0
+                    ],
+                    [
+                        541.0,
+                        455.0
+                    ],
+                    [
+                        42.0,
+                        455.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

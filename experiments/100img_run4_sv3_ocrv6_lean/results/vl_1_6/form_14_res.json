@@ -1,0 +1,583 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_14.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 770,
+    "height": 1024,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "MORTGAGE APPLICATION",
+            "block_bbox": [
+                34,
+                20,
+                349,
+                46
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    34.0,
+                    20.0
+                ],
+                [
+                    345.0,
+                    20.0
+                ],
+                [
+                    345.0,
+                    45.0
+                ],
+                [
+                    34.0,
+                    45.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Mortgage Brokers.com",
+            "block_bbox": [
+                132,
+                50,
+                275,
+                66
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    132.0,
+                    50.0
+                ],
+                [
+                    274.0,
+                    50.0
+                ],
+                [
+                    274.0,
+                    65.0
+                ],
+                [
+                    132.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                396,
+                17,
+                428,
+                71
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    396.0,
+                    17.0
+                ],
+                [
+                    428.0,
+                    17.0
+                ],
+                [
+                    428.0,
+                    71.0
+                ],
+                [
+                    396.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "MORTGAGE\nBROKERS.COM",
+            "block_bbox": [
+                392,
+                73,
+                433,
+                88
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    392.0,
+                    73.0
+                ],
+                [
+                    432.0,
+                    73.0
+                ],
+                [
+                    432.0,
+                    87.0
+                ],
+                [
+                    392.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Mortgage Financing Request for:",
+            "block_bbox": [
+                519,
+                17,
+                702,
+                32
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    519.0,
+                    17.0
+                ],
+                [
+                    701.0,
+                    17.0
+                ],
+                [
+                    701.0,
+                    31.0
+                ],
+                [
+                    519.0,
+                    31.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "○ Purchase ○ Refinance ○ Transfer",
+            "block_bbox": [
+                500,
+                35,
+                721,
+                48
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    500.0,
+                    34.999996185302734
+                ],
+                [
+                    720.0,
+                    34.999996185302734
+                ],
+                [
+                    720.0,
+                    46.999996185302734
+                ],
+                [
+                    500.0,
+                    46.999996185302734
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "○ Consolidation ○ Equity Take Out",
+            "block_bbox": [
+                516,
+                53,
+                703,
+                66
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    516.0,
+                    53.0
+                ],
+                [
+                    702.0,
+                    53.0
+                ],
+                [
+                    702.0,
+                    65.0
+                ],
+                [
+                    516.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"5\">Principal Borrower</td><td colspan=\"4\">Co-Borrower</td></tr><tr><td>Title</td><td colspan=\"3\">First Name:</td><td>Mid Initial</td><td>Title</td><td colspan=\"2\">First Name:</td><td>Mid Initial</td></tr><tr><td colspan=\"3\">Last Name</td><td>Marital Status</td><td>Dependants</td><td colspan=\"2\">Last Name</td><td>Marital Status</td><td>Dependants</td></tr><tr><td>Home Phone</td><td colspan=\"2\">Work Phone</td><td>Cell Phone</td><td>Home Phone</td><td colspan=\"2\">Work Phone</td><td colspan=\"2\">Cell Phone</td></tr><tr><td colspan=\"3\">Current Address</td><td>Rent/Own (Monthly Amt)</td><td colspan=\"3\">Current Address</td><td colspan=\"2\">Rent/Own (Monthly Amt)</td></tr><tr><td>City</td><td>Province</td><td>Postal code</td><td>Yrs there</td><td>City</td><td>Province</td><td>Postal code</td><td colspan=\"2\">Yrs there</td></tr><tr><td colspan=\"3\">Previous Address</td><td>Rent/Own</td><td colspan=\"3\">Previous Address</td><td colspan=\"2\">Rent/Own</td></tr><tr><td>City</td><td>Province</td><td>Postal code</td><td>Yrs there</td><td>City</td><td>Province</td><td>Postal code</td><td colspan=\"2\">Yrs there</td></tr><tr><td colspan=\"2\">Birth Date: Month / Day / Year</td><td colspan=\"2\">Social Insurance #</td><td colspan=\"2\">Birth Date: Month / Day / Year</td><td colspan=\"3\">Social Insurance #</td></tr><tr><td colspan=\"3\">Borrower</td><td colspan=\"2\">Employment History</td><td colspan=\"4\">Co-Borrower</td></tr><tr><td colspan=\"4\">Present Employer</td><td colspan=\"5\">Present Employer</td></tr><tr><td colspan=\"2\">Job Title</td><td colspan=\"2\">Phone</td><td colspan=\"2\">Job Title</td><td colspan=\"3\">Phone</td></tr><tr><td colspan=\"2\">Annual Income</td><td colspan=\"2\">Years there &amp; years of exp. /</td><td colspan=\"2\">Annual Income</td><td colspan=\"3\">Years there &amp; years of exp. /</td></tr><tr><td colspan=\"3\">Previous Employer</td><td colspan=\"2\">Income</td><td colspan=\"3\">Previous Employer</td><td>Income</td></tr><tr><td>Job Title</td><td>Phone #</td><td colspan=\"2\">Years there</td><td colspan=\"2\">Job Title</td><td colspan=\"2\">Phone #</td><td>Years there</td></tr><tr><td colspan=\"4\">Assets</td><td colspan=\"5\">Liabilities</td></tr><tr><td colspan=\"2\">Asset Type</td><td colspan=\"2\">Asset Value</td><td colspan=\"2\">Liability Type</td><td>Bank Name</td><td>Pymt/Mo.</td><td>Liability Amount</td></tr><tr><td colspan=\"2\">Primary Residence</td><td colspan=\"2\"></td><td colspan=\"2\">Mortgage</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Chequing/Savings Account</td><td colspan=\"2\"></td><td colspan=\"2\">Personal Loan</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Bonds (Market Value)</td><td colspan=\"2\"></td><td colspan=\"2\">Charge card &amp; type</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Stocks (Market Value)</td><td colspan=\"2\"></td><td colspan=\"2\">Charge card # &amp; type</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">R.R.S.P.&#x27;S</td><td colspan=\"2\"></td><td colspan=\"2\">Other</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Automobile Year &amp; make:</td><td colspan=\"2\"></td><td colspan=\"2\">Auto Loan/Lease</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Automobile Year &amp; Make:</td><td colspan=\"2\"></td><td colspan=\"2\">Auto Loan/Lease</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Personal Effects (furniture, etc.)</td><td colspan=\"2\"></td><td colspan=\"2\">R.R.S.P. Loan</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Other:</td><td colspan=\"2\"></td><td colspan=\"2\">Other</td><td></td><td></td><td></td></tr><tr><td colspan=\"9\">BANKING INFORMATION AND REFERENCES</td></tr><tr><td colspan=\"3\">Bank/Trust and Branch Address</td><td colspan=\"2\">Account type &amp; Amount</td><td>Account Number</td><td>Contact Name</td><td colspan=\"2\">Years There</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\"></td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"9\">The Borrower(s) acknowledge that the information given in this application is correct to the best of their knowledge and shall be held in strict confidence. The borrower(s) hereby authorize Mortgage Results to conduct any and all credit inquiries required and distribute this application to appropriate lenders to obtain financing.</td></tr><tr><td colspan=\"3\">Property to be mortgaged:</td><td colspan=\"3\">Property Details\nPurchase Price:</td><td colspan=\"3\">Down Payment:</td></tr><tr><td colspan=\"3\">Source of Down Payment:</td><td colspan=\"2\">Garage:</td><td>Style of house:</td><td colspan=\"3\">Size of House:</td></tr><tr><td colspan=\"3\">Agent:</td><td colspan=\"2\">Condition Date:</td><td>Possession Date:</td><td colspan=\"3\">MLS #:</td></tr><tr><td colspan=\"3\">Principal Borrowers Signature</td><td colspan=\"3\">Date:</td><td colspan=\"3\">Co-Borrowers Signature</td></tr></table>",
+            "block_bbox": [
+                27,
+                91,
+                741,
+                964
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "block_polygon_points": [
+                [
+                    27.0,
+                    91.0
+                ],
+                [
+                    741.0,
+                    91.0
+                ],
+                [
+                    741.0,
+                    964.0
+                ],
+                [
+                    27.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Phone: 403.637-0140 / Fax: 1-866-465-2870",
+            "block_bbox": [
+                252,
+                979,
+                518,
+                994
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "block_polygon_points": [
+                [
+                    252.0,
+                    979.0
+                ],
+                [
+                    517.0,
+                    979.0
+                ],
+                [
+                    517.0,
+                    993.0
+                ],
+                [
+                    252.0,
+                    993.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4432406723499298,
+                "coordinate": [
+                    34,
+                    20,
+                    349,
+                    46
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        34.0,
+                        20.0
+                    ],
+                    [
+                        345.0,
+                        20.0
+                    ],
+                    [
+                        345.0,
+                        45.0
+                    ],
+                    [
+                        34.0,
+                        45.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.347555547952652,
+                "coordinate": [
+                    132,
+                    50,
+                    275,
+                    66
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        132.0,
+                        50.0
+                    ],
+                    [
+                        274.0,
+                        50.0
+                    ],
+                    [
+                        274.0,
+                        65.0
+                    ],
+                    [
+                        132.0,
+                        65.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.506371021270752,
+                "coordinate": [
+                    396,
+                    17,
+                    428,
+                    71
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        396.0,
+                        17.0
+                    ],
+                    [
+                        428.0,
+                        17.0
+                    ],
+                    [
+                        428.0,
+                        71.0
+                    ],
+                    [
+                        396.0,
+                        71.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.39454934000968933,
+                "coordinate": [
+                    392,
+                    73,
+                    433,
+                    88
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        392.0,
+                        73.0
+                    ],
+                    [
+                        432.0,
+                        73.0
+                    ],
+                    [
+                        432.0,
+                        87.0
+                    ],
+                    [
+                        392.0,
+                        87.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4711398482322693,
+                "coordinate": [
+                    519,
+                    17,
+                    702,
+                    32
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        519.0,
+                        17.0
+                    ],
+                    [
+                        701.0,
+                        17.0
+                    ],
+                    [
+                        701.0,
+                        31.0
+                    ],
+                    [
+                        519.0,
+                        31.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6025786399841309,
+                "coordinate": [
+                    500,
+                    35,
+                    721,
+                    48
+                ],
+                "order": 4,
+                "polygon_points": [
+                    [
+                        500.0,
+                        34.999996185302734
+                    ],
+                    [
+                        720.0,
+                        34.999996185302734
+                    ],
+                    [
+                        720.0,
+                        46.999996185302734
+                    ],
+                    [
+                        500.0,
+                        46.999996185302734
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6467509269714355,
+                "coordinate": [
+                    516,
+                    53,
+                    703,
+                    66
+                ],
+                "order": 5,
+                "polygon_points": [
+                    [
+                        516.0,
+                        53.0
+                    ],
+                    [
+                        702.0,
+                        53.0
+                    ],
+                    [
+                        702.0,
+                        65.0
+                    ],
+                    [
+                        516.0,
+                        65.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9717314839363098,
+                "coordinate": [
+                    27,
+                    91,
+                    741,
+                    964
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        27.0,
+                        91.0
+                    ],
+                    [
+                        741.0,
+                        91.0
+                    ],
+                    [
+                        741.0,
+                        964.0
+                    ],
+                    [
+                        27.0,
+                        964.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6465398669242859,
+                "coordinate": [
+                    252,
+                    979,
+                    518,
+                    994
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        252.0,
+                        979.0
+                    ],
+                    [
+                        517.0,
+                        979.0
+                    ],
+                    [
+                        517.0,
+                        993.0
+                    ],
+                    [
+                        252.0,
+                        993.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_13.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1200,
+    "height": 1036,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "MONTHLY FINANCIAL REPORT",
+            "block_bbox": [
+                243,
+                127,
+                956,
+                310
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    243.0,
+                    127.0
+                ],
+                [
+                    956.0,
+                    127.0
+                ],
+                [
+                    956.0,
+                    310.0
+                ],
+                [
+                    243.0,
+                    310.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"8\">monthly financial statement</td></tr><tr><td rowspan=\"2\">date</td><td rowspan=\"2\">Summary</td><td colspan=\"2\">expenditure</td><td colspan=\"3\">income</td><td rowspan=\"2\">balance</td></tr><tr><td>Shipping amount</td><td>purchasing price</td><td>sales incentives</td><td>price protection</td><td>rebate</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+            "block_bbox": [
+                127,
+                384,
+                1072,
+                917
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    127.0,
+                    384.0
+                ],
+                [
+                    1072.0,
+                    384.0
+                ],
+                [
+                    1072.0,
+                    917.0
+                ],
+                [
+                    127.0,
+                    917.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6870850920677185,
+                "coordinate": [
+                    243,
+                    127,
+                    956,
+                    310
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        243.0,
+                        127.0
+                    ],
+                    [
+                        956.0,
+                        127.0
+                    ],
+                    [
+                        956.0,
+                        310.0
+                    ],
+                    [
+                        243.0,
+                        310.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9635922312736511,
+                "coordinate": [
+                    127,
+                    384,
+                    1072,
+                    917
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        127.0,
+                        384.0
+                    ],
+                    [
+                        1072.0,
+                        384.0
+                    ],
+                    [
+                        1072.0,
+                        917.0
+                    ],
+                    [
+                        127.0,
+                        917.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

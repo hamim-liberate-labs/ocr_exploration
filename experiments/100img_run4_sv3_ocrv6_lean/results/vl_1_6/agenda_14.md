@@ -1,0 +1,28 @@
+## MEETING AGENDA
+
+## Meeting Details
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Date:</td><td style='text-align: center; word-wrap: break-word;'>Time:</td><td style='text-align: center; word-wrap: break-word;'>Location</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>September 9</td><td style='text-align: center; word-wrap: break-word;'>11:00 am</td><td style='text-align: center; word-wrap: break-word;'>Mirjam Nilsson</td></tr></table>
+
+## Purpose of meeting
+
+## Last meeting decision
+
+[Decision] 1
+
+[Decision] 2
+
+[Decision] 4
+
+[Decision] 5
+
+[Decision] 3
+
+[Decision] 6
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>President</td><td style='text-align: center; word-wrap: break-word;'>Mirjam Nilsson</td><td style='text-align: center; word-wrap: break-word;'>COO</td><td style='text-align: center; word-wrap: break-word;'>Rajesh Santoshi</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>CEO</td><td style='text-align: center; word-wrap: break-word;'>Flora Berggren</td><td style='text-align: center; word-wrap: break-word;'>SEO Strategist</td><td style='text-align: center; word-wrap: break-word;'>Elizabeth Moore</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>VP Marketing</td><td style='text-align: center; word-wrap: break-word;'>Graham Barne</td><td style='text-align: center; word-wrap: break-word;'>Product Designer</td><td style='text-align: center; word-wrap: break-word;'>Robin Kline</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>VP Product</td><td style='text-align: center; word-wrap: break-word;'>Mirjam Nilsson</td><td style='text-align: center; word-wrap: break-word;'>Content Developer</td><td style='text-align: center; word-wrap: break-word;'>Takuma Hayashi</td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Time</td><td style='text-align: center; word-wrap: break-word;'>Item</td><td style='text-align: center; word-wrap: break-word;'>Owner</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:00</td><td style='text-align: center; word-wrap: break-word;'>Welcome</td><td style='text-align: center; word-wrap: break-word;'>Mirjam Nilsson</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:05</td><td style='text-align: center; word-wrap: break-word;'>Old business</td><td style='text-align: center; word-wrap: break-word;'>Flora Berggren</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:15</td><td style='text-align: center; word-wrap: break-word;'>Vote on new secretary</td><td style='text-align: center; word-wrap: break-word;'>Rajesh Santoshi</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:20</td><td style='text-align: center; word-wrap: break-word;'>Discuss advisory committees</td><td style='text-align: center; word-wrap: break-word;'>Graham Barnes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:30</td><td style='text-align: center; word-wrap: break-word;'>Vote on budget</td><td style='text-align: center; word-wrap: break-word;'>Rowan Murphy</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:40</td><td style='text-align: center; word-wrap: break-word;'>Break</td><td style='text-align: center; word-wrap: break-word;'>Robin Kline</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11:45</td><td style='text-align: center; word-wrap: break-word;'>New business</td><td style='text-align: center; word-wrap: break-word;'>Mirjam Nilsson</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12:00</td><td style='text-align: center; word-wrap: break-word;'>Committee reports</td><td style='text-align: center; word-wrap: break-word;'>Flora Berggren</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12:15</td><td style='text-align: center; word-wrap: break-word;'>Announcements</td><td style='text-align: center; word-wrap: break-word;'>Rajesh Santoshi</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12:30</td><td style='text-align: center; word-wrap: break-word;'>Adjournment</td><td style='text-align: center; word-wrap: break-word;'>Graham Barnes</td></tr></table>

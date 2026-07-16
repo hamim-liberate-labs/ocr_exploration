@@ -1,0 +1,827 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_08.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1700,
+    "height": 2200,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "EMPLOYMENT APPLICATION CALAIS REGIONAL HOSPITAL, 24 Hospital Lane, Calais ME 04619 hrd@calaishospital.org",
+            "block_bbox": [
+                195,
+                61,
+                1492,
+                93
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    195.0,
+                    61.0
+                ],
+                [
+                    1492.0,
+                    61.0
+                ],
+                [
+                    1492.0,
+                    93.0
+                ],
+                [
+                    195.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"2\">Today&#x27;s Date:</td><td colspan=\"2\">Social Security Number:</td><td colspan=\"2\">Date of birth if under age 18:</td></tr><tr><td>Last Name</td><td>First Name</td><td>Nickname</td><td>Full Middle Name</td><td colspan=\"2\">Message Telephone Number:</td></tr><tr><td>Address:</td><td>Street</td><td>City</td><td>State</td><td>Zip</td><td>Telephone Number:\nEmail:</td></tr><tr><td colspan=\"2\">Position Applied for:</td><td>Are you willing to work\n(Check all that apply)</td><td>() Full Time\n() Part Time</td><td colspan=\"2\">() Per Diem\n() Summer\n() Temporary</td></tr><tr><td colspan=\"2\">Date Available to Start Work:</td><td colspan=\"2\">List days you are available to work:</td><td colspan=\"2\">List all hours you are available to work:</td></tr><tr><td colspan=\"4\">Are you eligible to be lawfully employed in the U.S.?\n() Yes () No\nProof of citizenship or immigration status will be required upon employment.</td><td colspan=\"2\">Do you realize that it may be necessary for you to work\nweekends, holidays or rotation shift?\n() Yes () No</td></tr><tr><td colspan=\"6\">Education Circle the highest grade completed: Grade School: 1 2 3 4 5 6 7 8\nHigh School 9 10 11 12\nCollege: 13 14 15 16 17</td></tr><tr><td>School Attended</td><td>City</td><td>State</td><td>Zip</td><td>Course of Study</td><td>Did you\ngraduate?</td></tr><tr><td>High School</td><td></td><td></td><td></td><td></td><td>GED, Diploma, or Degree\n(Attach copy )</td></tr><tr><td>College</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Technical</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Employment Record - List last 4 employers, beginning with most recent. Note: do not write “see resume”</td></tr><tr><td colspan=\"2\">Employer Name:\nAddress:\nCity, State, Zip:\nPhone:</td><td colspan=\"2\">Dates employed: _____ to _____\nPosition and Duties: _____\nSalary:</td><td colspan=\"2\">Supervisor: _____\nReason for leaving: _____\nMay we check references? () Yes () No</td></tr><tr><td colspan=\"2\">Employer Name:\nAddress:\nCity, State, Zip:\nPhone:</td><td colspan=\"2\">Dates employed: _____ to _____\nPosition and Duties: _____\nSalary:</td><td colspan=\"2\">Supervisor: _____\nReason for leaving: _____\nMay we check references? () Yes () No</td></tr><tr><td colspan=\"2\">Employer Name:\nAddress:\nCity, State, Zip:\nPhone:</td><td colspan=\"2\">Dates employed: _____ to _____\nPosition and Duties: _____\nSalary:</td><td colspan=\"2\">Supervisor: _____\nReason for leaving: _____\nMay we check references? () Yes () No</td></tr><tr><td colspan=\"2\">Employer Name:\nAddress:\nCity, State, Zip:\nPhone:</td><td colspan=\"2\">Dates employed: _____ to _____\nPosition and Duties: _____\nSalary:</td><td colspan=\"2\">Supervisor: _____\nReason for leaving: _____\nMay we check references? () Yes () No</td></tr><tr><td colspan=\"6\">ALL APPLICANTS COMPLETE:\nKeyboarding Yes No Speed: WPM Number of Years of study?\nComputer Skills: Word Excel Access Power Point Fax Internet Email Scanner Other</td></tr></table>",
+            "block_bbox": [
+                72,
+                112,
+                1626,
+                1614
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    72.0,
+                    112.0
+                ],
+                [
+                    1626.0,
+                    112.0
+                ],
+                [
+                    1626.0,
+                    1614.0
+                ],
+                [
+                    72.0,
+                    1614.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "NURSING & HOME HEALTH APPLICATIONS COMPLETE:",
+            "block_bbox": [
+                84,
+                1620,
+                866,
+                1654
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    84.0,
+                    1620.0
+                ],
+                [
+                    866.0,
+                    1620.0
+                ],
+                [
+                    866.0,
+                    1654.0
+                ],
+                [
+                    84.0,
+                    1654.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Check areas you have experience or special interest in:",
+            "block_bbox": [
+                85,
+                1656,
+                708,
+                1685
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    85.0,
+                    1656.0
+                ],
+                [
+                    708.0,
+                    1656.0
+                ],
+                [
+                    708.0,
+                    1685.0
+                ],
+                [
+                    85.0,
+                    1685.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "() Inpatient & Special Care () ED () Inpatient & Obstetrics () Physician Practices () Home Health () Surgery () PACU",
+            "block_bbox": [
+                88,
+                1686,
+                1580,
+                1722
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    88.0,
+                    1686.0
+                ],
+                [
+                    1580.0,
+                    1686.0
+                ],
+                [
+                    1580.0,
+                    1722.0
+                ],
+                [
+                    88.0,
+                    1722.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "( ) Other, please specify: ___.",
+            "block_bbox": [
+                92,
+                1723,
+                813,
+                1752
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    1723.0
+                ],
+                [
+                    813.0,
+                    1723.0
+                ],
+                [
+                    813.0,
+                    1752.0
+                ],
+                [
+                    92.0,
+                    1752.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "() Maine nursing license number is: ___Expires: ___ Copy is Attached. () I applied for my Maine license on (date):",
+            "block_bbox": [
+                88,
+                1751,
+                1494,
+                1783
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    88.0,
+                    1751.0
+                ],
+                [
+                    1494.0,
+                    1751.0
+                ],
+                [
+                    1494.0,
+                    1783.0
+                ],
+                [
+                    88.0,
+                    1783.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "() I am a Certified Nursing Assistant and am on the Maine CNA Registry. A copy of my CNA certificate is attached.",
+            "block_bbox": [
+                90,
+                1782,
+                1280,
+                1812
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    1782.0
+                ],
+                [
+                    1280.0,
+                    1782.0
+                ],
+                [
+                    1280.0,
+                    1812.0
+                ],
+                [
+                    90.0,
+                    1812.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "() I applied to the Maine CNA Registry on (date):_____",
+            "block_bbox": [
+                91,
+                1811,
+                732,
+                1843
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    1811.0
+                ],
+                [
+                    732.0,
+                    1811.0
+                ],
+                [
+                    732.0,
+                    1843.0
+                ],
+                [
+                    91.0,
+                    1843.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "NON-NURSING REGISTERED/CERTIFIED APPLICANTS TO COMPLETE:",
+            "block_bbox": [
+                86,
+                1871,
+                1053,
+                1903
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9,
+            "block_polygon_points": [
+                [
+                    86.0,
+                    1871.0
+                ],
+                [
+                    1053.0,
+                    1871.0
+                ],
+                [
+                    1053.0,
+                    1903.0
+                ],
+                [
+                    86.0,
+                    1903.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Registrations and/or certifications: (attach copies)",
+            "block_bbox": [
+                88,
+                1904,
+                603,
+                1931
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10,
+            "block_polygon_points": [
+                [
+                    88.0,
+                    1904.0
+                ],
+                [
+                    603.0,
+                    1904.0
+                ],
+                [
+                    603.0,
+                    1931.0
+                ],
+                [
+                    88.0,
+                    1931.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Agency:_____ Number:_____ Expiration:_____",
+            "block_bbox": [
+                85,
+                1931,
+                1267,
+                1962
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11,
+            "block_polygon_points": [
+                [
+                    85.0,
+                    1931.0
+                ],
+                [
+                    1267.0,
+                    1931.0
+                ],
+                [
+                    1267.0,
+                    1962.0
+                ],
+                [
+                    85.0,
+                    1962.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Agency:___ Number:___ Expiration:___.",
+            "block_bbox": [
+                85,
+                1964,
+                1291,
+                1996
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12,
+            "block_polygon_points": [
+                [
+                    85.0,
+                    1964.0
+                ],
+                [
+                    1291.0,
+                    1964.0
+                ],
+                [
+                    1291.0,
+                    1996.0
+                ],
+                [
+                    85.0,
+                    1996.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4003436267375946,
+                "coordinate": [
+                    195,
+                    61,
+                    1492,
+                    93
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        195.0,
+                        61.0
+                    ],
+                    [
+                        1492.0,
+                        61.0
+                    ],
+                    [
+                        1492.0,
+                        93.0
+                    ],
+                    [
+                        195.0,
+                        93.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9166571497917175,
+                "coordinate": [
+                    72,
+                    112,
+                    1626,
+                    1614
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        72.0,
+                        112.0
+                    ],
+                    [
+                        1626.0,
+                        112.0
+                    ],
+                    [
+                        1626.0,
+                        1614.0
+                    ],
+                    [
+                        72.0,
+                        1614.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5875797271728516,
+                "coordinate": [
+                    84,
+                    1620,
+                    866,
+                    1654
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        84.0,
+                        1620.0
+                    ],
+                    [
+                        866.0,
+                        1620.0
+                    ],
+                    [
+                        866.0,
+                        1654.0
+                    ],
+                    [
+                        84.0,
+                        1654.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.575688898563385,
+                "coordinate": [
+                    85,
+                    1656,
+                    708,
+                    1685
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        85.0,
+                        1656.0
+                    ],
+                    [
+                        708.0,
+                        1656.0
+                    ],
+                    [
+                        708.0,
+                        1685.0
+                    ],
+                    [
+                        85.0,
+                        1685.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.46777284145355225,
+                "coordinate": [
+                    88,
+                    1686,
+                    1580,
+                    1722
+                ],
+                "order": 4,
+                "polygon_points": [
+                    [
+                        88.0,
+                        1686.0
+                    ],
+                    [
+                        1580.0,
+                        1686.0
+                    ],
+                    [
+                        1580.0,
+                        1722.0
+                    ],
+                    [
+                        88.0,
+                        1722.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.48429906368255615,
+                "coordinate": [
+                    92,
+                    1723,
+                    813,
+                    1752
+                ],
+                "order": 5,
+                "polygon_points": [
+                    [
+                        92.0,
+                        1723.0
+                    ],
+                    [
+                        813.0,
+                        1723.0
+                    ],
+                    [
+                        813.0,
+                        1752.0
+                    ],
+                    [
+                        92.0,
+                        1752.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6300806999206543,
+                "coordinate": [
+                    88,
+                    1751,
+                    1494,
+                    1783
+                ],
+                "order": 6,
+                "polygon_points": [
+                    [
+                        88.0,
+                        1751.0
+                    ],
+                    [
+                        1494.0,
+                        1751.0
+                    ],
+                    [
+                        1494.0,
+                        1783.0
+                    ],
+                    [
+                        88.0,
+                        1783.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6381209492683411,
+                "coordinate": [
+                    90,
+                    1782,
+                    1280,
+                    1812
+                ],
+                "order": 7,
+                "polygon_points": [
+                    [
+                        90.0,
+                        1782.0
+                    ],
+                    [
+                        1280.0,
+                        1782.0
+                    ],
+                    [
+                        1280.0,
+                        1812.0
+                    ],
+                    [
+                        90.0,
+                        1812.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5243925452232361,
+                "coordinate": [
+                    91,
+                    1811,
+                    732,
+                    1843
+                ],
+                "order": 8,
+                "polygon_points": [
+                    [
+                        91.0,
+                        1811.0
+                    ],
+                    [
+                        732.0,
+                        1811.0
+                    ],
+                    [
+                        732.0,
+                        1843.0
+                    ],
+                    [
+                        91.0,
+                        1843.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5118216872215271,
+                "coordinate": [
+                    86,
+                    1871,
+                    1053,
+                    1903
+                ],
+                "order": 9,
+                "polygon_points": [
+                    [
+                        86.0,
+                        1871.0
+                    ],
+                    [
+                        1053.0,
+                        1871.0
+                    ],
+                    [
+                        1053.0,
+                        1903.0
+                    ],
+                    [
+                        86.0,
+                        1903.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5766569375991821,
+                "coordinate": [
+                    88,
+                    1904,
+                    603,
+                    1931
+                ],
+                "order": 10,
+                "polygon_points": [
+                    [
+                        88.0,
+                        1904.0
+                    ],
+                    [
+                        603.0,
+                        1904.0
+                    ],
+                    [
+                        603.0,
+                        1931.0
+                    ],
+                    [
+                        88.0,
+                        1931.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4631165564060211,
+                "coordinate": [
+                    85,
+                    1931,
+                    1267,
+                    1962
+                ],
+                "order": 11,
+                "polygon_points": [
+                    [
+                        85.0,
+                        1931.0
+                    ],
+                    [
+                        1267.0,
+                        1931.0
+                    ],
+                    [
+                        1267.0,
+                        1962.0
+                    ],
+                    [
+                        85.0,
+                        1962.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5537521839141846,
+                "coordinate": [
+                    85,
+                    1964,
+                    1291,
+                    1996
+                ],
+                "order": 12,
+                "polygon_points": [
+                    [
+                        85.0,
+                        1964.0
+                    ],
+                    [
+                        1291.0,
+                        1964.0
+                    ],
+                    [
+                        1291.0,
+                        1996.0
+                    ],
+                    [
+                        85.0,
+                        1996.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

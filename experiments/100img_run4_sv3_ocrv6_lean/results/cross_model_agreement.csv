@@ -1,0 +1,5 @@
+,PP-OCRv6_small,PP-OCRv6_medium,"PP-StructureV3 (lean, OCRv6-medium)",PaddleOCR-VL-1.6
+PP-OCRv6_small,1.0,0.909,0.528,0.655
+PP-OCRv6_medium,0.909,1.0,0.557,0.665
+"PP-StructureV3 (lean, OCRv6-medium)",0.528,0.557,1.0,0.576
+PaddleOCR-VL-1.6,0.655,0.665,0.576,1.0

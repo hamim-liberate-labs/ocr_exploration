@@ -1,0 +1,552 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/agenda_05.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 702,
+    "height": 910,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "figure_title",
+            "block_content": "BUSINESS MEETING AGENDA TEMPLATE",
+            "block_bbox": [
+                49,
+                51,
+                413,
+                73
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    49.0,
+                    51.0
+                ],
+                [
+                    413.0,
+                    51.0
+                ],
+                [
+                    413.0,
+                    73.0
+                ],
+                [
+                    49.0,
+                    73.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>DATE</td><td>TIME</td><td>LOCATION</td></tr><tr><td></td><td></td><td></td></tr><tr><td>MEETING CHAIR</td><td>EMAIL</td><td>PHONE</td></tr><tr><td></td><td></td><td></td></tr><tr><td>MEETING SCRIBE</td><td>EMAIL</td><td>PHONE</td></tr><tr><td></td><td></td><td></td></tr><tr><td colspan=\"3\">TITLE</td></tr></table>",
+            "block_bbox": [
+                50,
+                79,
+                660,
+                247
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    50.0,
+                    79.0
+                ],
+                [
+                    660.0,
+                    79.0
+                ],
+                [
+                    660.0,
+                    247.0
+                ],
+                [
+                    50.0,
+                    247.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "ATTENDEES PRESENT",
+            "block_bbox": [
+                50,
+                251,
+                146,
+                264
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    50.0,
+                    251.0
+                ],
+                [
+                    145.0,
+                    251.0
+                ],
+                [
+                    145.0,
+                    263.0
+                ],
+                [
+                    50.0,
+                    263.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+            "block_bbox": [
+                49,
+                264,
+                659,
+                364
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    49.0,
+                    264.0
+                ],
+                [
+                    659.0,
+                    264.0
+                ],
+                [
+                    659.0,
+                    364.0
+                ],
+                [
+                    49.0,
+                    364.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "OBJECTIVES",
+            "block_bbox": [
+                49,
+                373,
+                140,
+                391
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    49.0,
+                    373.0
+                ],
+                [
+                    139.0,
+                    373.0
+                ],
+                [
+                    139.0,
+                    390.0
+                ],
+                [
+                    49.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>OBJECTIVE 1</td></tr><tr><td>REMARKS</td></tr><tr><td>OBJECTIVE 2</td></tr><tr><td>REMARKS</td></tr><tr><td>OBJECTIVE 3</td></tr><tr><td>REMARKS</td></tr><tr><td>OBJECTIVE 4</td></tr><tr><td>REMARKS</td></tr></table>",
+            "block_bbox": [
+                47,
+                405,
+                658,
+                531
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    47.0,
+                    405.0
+                ],
+                [
+                    658.0,
+                    405.0
+                ],
+                [
+                    658.0,
+                    531.0
+                ],
+                [
+                    47.0,
+                    531.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "SCHEDULE",
+            "block_bbox": [
+                49,
+                546,
+                129,
+                563
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    49.0,
+                    546.0
+                ],
+                [
+                    128.0,
+                    546.0
+                ],
+                [
+                    128.0,
+                    562.0
+                ],
+                [
+                    49.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>TIME</td><td>CONTENT DESCRIPTION</td></tr><tr><td>10:30 to 10:40</td><td>Attendance; Call to Order</td></tr><tr><td>10:41 to 11:00</td><td>Objective 1</td></tr><tr><td>11:01 to 11:15</td><td>Objective 2</td></tr><tr><td>11:16 to 11:30</td><td>Objective 3</td></tr><tr><td>11:31 to 11:50</td><td>Objective 4</td></tr><tr><td>11:51 to 12:00</td><td>Announcements; Closing Remarks</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>",
+            "block_bbox": [
+                49,
+                566,
+                658,
+                828
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "block_polygon_points": [
+                [
+                    49.0,
+                    566.0
+                ],
+                [
+                    658.0,
+                    566.0
+                ],
+                [
+                    658.0,
+                    828.0
+                ],
+                [
+                    49.0,
+                    828.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5082581639289856,
+                "coordinate": [
+                    49,
+                    51,
+                    413,
+                    73
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        49.0,
+                        51.0
+                    ],
+                    [
+                        413.0,
+                        51.0
+                    ],
+                    [
+                        413.0,
+                        73.0
+                    ],
+                    [
+                        49.0,
+                        73.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8047383427619934,
+                "coordinate": [
+                    50,
+                    79,
+                    660,
+                    247
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        50.0,
+                        79.0
+                    ],
+                    [
+                        660.0,
+                        79.0
+                    ],
+                    [
+                        660.0,
+                        247.0
+                    ],
+                    [
+                        50.0,
+                        247.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.31278106570243835,
+                "coordinate": [
+                    50,
+                    251,
+                    146,
+                    264
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        50.0,
+                        251.0
+                    ],
+                    [
+                        145.0,
+                        251.0
+                    ],
+                    [
+                        145.0,
+                        263.0
+                    ],
+                    [
+                        50.0,
+                        263.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9239341616630554,
+                "coordinate": [
+                    49,
+                    264,
+                    659,
+                    364
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        49.0,
+                        264.0
+                    ],
+                    [
+                        659.0,
+                        264.0
+                    ],
+                    [
+                        659.0,
+                        364.0
+                    ],
+                    [
+                        49.0,
+                        364.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.424685537815094,
+                "coordinate": [
+                    49,
+                    373,
+                    140,
+                    391
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        49.0,
+                        373.0
+                    ],
+                    [
+                        139.0,
+                        373.0
+                    ],
+                    [
+                        139.0,
+                        390.0
+                    ],
+                    [
+                        49.0,
+                        390.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5108818411827087,
+                "coordinate": [
+                    48,
+                    407,
+                    123,
+                    530
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        48.0,
+                        407.0
+                    ],
+                    [
+                        123.0,
+                        407.0
+                    ],
+                    [
+                        123.0,
+                        530.0
+                    ],
+                    [
+                        48.0,
+                        530.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.36876633763313293,
+                "coordinate": [
+                    47,
+                    405,
+                    658,
+                    531
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        47.0,
+                        405.0
+                    ],
+                    [
+                        658.0,
+                        405.0
+                    ],
+                    [
+                        658.0,
+                        531.0
+                    ],
+                    [
+                        47.0,
+                        531.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4144364893436432,
+                "coordinate": [
+                    49,
+                    546,
+                    129,
+                    563
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        49.0,
+                        546.0
+                    ],
+                    [
+                        128.0,
+                        546.0
+                    ],
+                    [
+                        128.0,
+                        562.0
+                    ],
+                    [
+                        49.0,
+                        562.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9625385403633118,
+                "coordinate": [
+                    49,
+                    566,
+                    658,
+                    828
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        49.0,
+                        566.0
+                    ],
+                    [
+                        658.0,
+                        566.0
+                    ],
+                    [
+                        658.0,
+                        828.0
+                    ],
+                    [
+                        49.0,
+                        828.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

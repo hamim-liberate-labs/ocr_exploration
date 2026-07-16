@@ -1,0 +1,4 @@
+# CORPORATE FINANCIAL ACCOUNTING MONTHLY  REPORT ATTACHED INDICATOR TABLE 
+
+
+<div style="text-align: center;"><html><body><table border="1"><tbody><tr><td></td><td>Revenue</td><td></td><td></td></tr><tr><td>Sales</td><td>$100,000</td><td></td><td></td></tr><tr><td>Cost of Goods Sold</td><td>$40,000</td><td></td><td></td></tr><tr><td>Gross Profit</td><td>$60,000</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Expenses</td><td></td><td></td><td></td></tr><tr><td>Salaries</td><td>$20,000</td><td></td><td></td></tr><tr><td>Rent</td><td>$5,000</td><td></td><td></td></tr><tr><td>Utilities</td><td>$2,000</td><td></td><td></td></tr><tr><td>Marketing</td><td>$10,000</td><td></td><td></td></tr><tr><td>Total Expenses</td><td>$37,000</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Net Income</td><td></td><td></td><td>$23,000</td></tr></tbody></table></body></html></div>

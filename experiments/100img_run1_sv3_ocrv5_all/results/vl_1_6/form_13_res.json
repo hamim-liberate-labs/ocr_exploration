@@ -1,0 +1,400 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_13.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1240,
+    "height": 1754,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "CREATED BY TemplateLAB",
+            "block_bbox": [
+                982,
+                10,
+                1223,
+                61
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    982.0,
+                    10.0
+                ],
+                [
+                    1223.0,
+                    10.0
+                ],
+                [
+                    1223.0,
+                    61.0
+                ],
+                [
+                    982.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "DRIVER APPLICATION FOR EMPLOYMENT",
+            "block_bbox": [
+                83,
+                147,
+                583,
+                178
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    83.0,
+                    147.0
+                ],
+                [
+                    583.0,
+                    147.0
+                ],
+                [
+                    583.0,
+                    178.0
+                ],
+                [
+                    83.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Cartrex Trucking\n2176 Coventry Court\nGulfport, Mississippi 39501",
+            "block_bbox": [
+                926,
+                125,
+                1156,
+                202
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    926.0,
+                    125.0
+                ],
+                [
+                    1156.0,
+                    125.0
+                ],
+                [
+                    1156.0,
+                    202.0
+                ],
+                [
+                    926.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Applicants are considered without regard to race, creed, color, sex, age, national origin or disability.",
+            "block_bbox": [
+                82,
+                214,
+                999,
+                243
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    82.0,
+                    214.0
+                ],
+                [
+                    999.0,
+                    214.0
+                ],
+                [
+                    999.0,
+                    243.0
+                ],
+                [
+                    82.0,
+                    243.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"6\">PERSONAL INFORMATION</td></tr><tr><td colspan=\"3\">FULL NAME\nJohn Smith</td><td colspan=\"2\">SOCIAL SECURITY NO.\n&lt;Social Security No.&gt;</td><td>DATE\nmm/dd/yyyy</td></tr><tr><td colspan=\"2\">PHONE (HOME)\n&lt;Phone Home&gt;</td><td>PHONE (MOBILE)\n&lt;Phone Mobile&gt;</td><td colspan=\"3\">EMAIL ADDRESS\njohnsmith@domain.com</td></tr><tr><td colspan=\"5\">Address (Starting with the Current and the last 3 addresses)</td><td>Period</td></tr><tr><td colspan=\"5\">&lt;Current Address&gt;</td><td>&lt;YYYY&gt; Present</td></tr><tr><td colspan=\"5\">&lt;Previous Address&gt;</td><td>&lt;YYYY&gt; &lt;YYYY&gt;</td></tr><tr><td colspan=\"5\"></td><td></td></tr><tr><td colspan=\"6\">In case of emergency, notify Karen Smith\nContact Number: &lt;Contact No.&gt;\nPosition Applying: School Bus Driver Expected Salary:: $850/month\nHave you worked for this company before? ☐ Yes ☑ No If Yes, what years &lt;yyyy&gt; - &lt;yyyy&gt;\nAre you currently employed? ☑ Yes ☐ No If Yes, when will you be available? mm/dd/yyyy\nAre you prevented from lawful employment in this country because of immigration status? ☐ Yes ☑ No\nHave you ever been convicted of a felony, misdemeanor or criminal violation? ☐ Yes ☑ No</td></tr><tr><td colspan=\"6\">DRIVER&#x27;S LICENSE INFORMATION (This information will be verified)</td></tr><tr><td colspan=\"2\">DRIVER&#x27;S LICENSE NO.\n&lt;Driver&#x27;s License No.&gt;</td><td colspan=\"2\">STATE\n&lt;State&gt;</td><td>EXPIRATION DATE\nmm/dd/yyyy</td><td>LICENSE TYPE\n&lt;License Type&gt;</td></tr><tr><td colspan=\"6\">EDUCATION</td></tr><tr><td colspan=\"6\">What is your highest educational attainment? College Graduate Completed On: mm/dd/yyyy\nDo you have full knowledge of the Federal Motor Career Safety Regulation? ☑ Yes ☐ No</td></tr><tr><td colspan=\"6\">DRIVING EXPERIENCE</td></tr><tr><td></td><td colspan=\"2\">Type of Equipment</td><td>No. of Years</td><td colspan=\"2\">States You Have Driven In</td></tr><tr><td>Tractor</td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td>Truck</td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td>Trailer</td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td>Truck</td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td>Bus</td><td colspan=\"2\">School Bus Type C</td><td>6 years</td><td colspan=\"2\">California</td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"6\">ACCIDENT RECORD LAST 3 YEARS (This information will be verified)</td></tr><tr><td>Date</td><td colspan=\"3\">Nature of Accident</td><td>No. of Fatalities</td><td>No. of Injures</td></tr><tr><td>None</td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td colspan=\"6\">TRAFFIC CONVICTIONS LAST 3 YEARS OTHER THAN PARKING (This information will be verified)</td></tr><tr><td>Date</td><td colspan=\"3\">Violation</td><td>State</td><td>Penalty</td></tr><tr><td>None</td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td colspan=\"6\">I certify that the information contained in this application is accurate and correct. I understand that any omission or erroneous may be ground for dismissal. SIGNATURE mm/dd/yyyy DATE</td></tr></table>",
+            "block_bbox": [
+                73,
+                244,
+                1165,
+                1641
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    73.0,
+                    244.0
+                ],
+                [
+                    1165.0,
+                    244.0
+                ],
+                [
+                    1165.0,
+                    1641.0
+                ],
+                [
+                    73.0,
+                    1641.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "©  $ \\underline{\\text{templatelab.com}} $",
+            "block_bbox": [
+                979,
+                1654,
+                1167,
+                1678
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    979.0,
+                    1654.0
+                ],
+                [
+                    1167.0,
+                    1654.0
+                ],
+                [
+                    1167.0,
+                    1678.0
+                ],
+                [
+                    979.0,
+                    1678.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7525022029876709,
+                "coordinate": [
+                    982,
+                    10,
+                    1223,
+                    61
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        982.0,
+                        10.0
+                    ],
+                    [
+                        1223.0,
+                        10.0
+                    ],
+                    [
+                        1223.0,
+                        61.0
+                    ],
+                    [
+                        982.0,
+                        61.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.3693621754646301,
+                "coordinate": [
+                    83,
+                    147,
+                    583,
+                    178
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        83.0,
+                        147.0
+                    ],
+                    [
+                        583.0,
+                        147.0
+                    ],
+                    [
+                        583.0,
+                        178.0
+                    ],
+                    [
+                        83.0,
+                        178.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5134012699127197,
+                "coordinate": [
+                    926,
+                    125,
+                    1156,
+                    202
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        926.0,
+                        125.0
+                    ],
+                    [
+                        1156.0,
+                        125.0
+                    ],
+                    [
+                        1156.0,
+                        202.0
+                    ],
+                    [
+                        926.0,
+                        202.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.40931451320648193,
+                "coordinate": [
+                    82,
+                    214,
+                    999,
+                    243
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        82.0,
+                        214.0
+                    ],
+                    [
+                        999.0,
+                        214.0
+                    ],
+                    [
+                        999.0,
+                        243.0
+                    ],
+                    [
+                        82.0,
+                        243.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9359655380249023,
+                "coordinate": [
+                    73,
+                    244,
+                    1165,
+                    1641
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        73.0,
+                        244.0
+                    ],
+                    [
+                        1165.0,
+                        244.0
+                    ],
+                    [
+                        1165.0,
+                        1641.0
+                    ],
+                    [
+                        73.0,
+                        1641.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7685067653656006,
+                "coordinate": [
+                    979,
+                    1654,
+                    1167,
+                    1678
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        979.0,
+                        1654.0
+                    ],
+                    [
+                        1167.0,
+                        1654.0
+                    ],
+                    [
+                        1167.0,
+                        1678.0
+                    ],
+                    [
+                        979.0,
+                        1678.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

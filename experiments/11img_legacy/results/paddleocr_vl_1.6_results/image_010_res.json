@@ -1,0 +1,368 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/images/images/image_010.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1068,
+    "height": 868,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                132,
+                9,
+                924,
+                117
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    132.0,
+                    9.0
+                ],
+                [
+                    924.0,
+                    9.0
+                ],
+                [
+                    924.0,
+                    117.0
+                ],
+                [
+                    132.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "New Teacher Orientation Agenda",
+            "block_bbox": [
+                293,
+                131,
+                765,
+                164
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    293.0,
+                    131.0
+                ],
+                [
+                    765.0,
+                    131.0
+                ],
+                [
+                    765.0,
+                    164.0
+                ],
+                [
+                    293.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>August 5th, 2026</td><td>Time: 8:30-12:00</td><td colspan=\"2\">Location: Forest Park</td></tr><tr><td>Time</td><td>Audience</td><td colspan=\"2\">Presenter</td></tr><tr><td>8:30-9:00</td><td>Welcome</td><td colspan=\"2\">Blake Rhyne</td></tr><tr><td>9:00-9:30</td><td>Everyone</td><td colspan=\"2\">Blake Rhyne</td></tr><tr><td colspan=\"4\">9:45-12:00 Break Out Session</td></tr><tr><td colspan=\"3\">Elementary Core Subject Teachers</td><td>Location</td></tr><tr><td>9:45-10:15</td><td>Science</td><td>Ashley Martell</td><td rowspan=\"4\">Room: TBD</td></tr><tr><td>10:15-11:05</td><td>Math</td><td>Precious Hicks</td></tr><tr><td>11:05-11:55</td><td>Reading</td><td>Dr. Amber Carroll, Aura Djurisic</td></tr><tr><td>11:55-12:00</td><td>Q&amp;A</td><td>OPEN</td></tr><tr><td colspan=\"3\">Secondary Core Subject Teachers/CORE IA&#x27;s (No Social Studies)</td><td>Location</td></tr><tr><td>9:45-10:30</td><td>Reading</td><td>Vivianne McGowan</td><td rowspan=\"4\">Room TBD</td></tr><tr><td>10:30-11:00</td><td>Science</td><td>Ashley Martell</td></tr><tr><td>11:00-11:50</td><td>Math</td><td>Laurel Gonzalez</td></tr><tr><td>11:50-12:00</td><td>Q&amp;A</td><td>OPEN</td></tr><tr><td colspan=\"3\">Special Education/Elective/Safety/CTE/ Social Studies/Elective IA&#x27;s</td><td>Location</td></tr><tr><td>9:45-10:25</td><td>MTSS</td><td>Samantha Chastain</td><td rowspan=\"4\">Room: TBD</td></tr><tr><td>10:25-11:05</td><td>504</td><td>Winfred Jackson</td></tr><tr><td>11:05-11:45</td><td>SPED</td><td>Rakel Paul</td></tr><tr><td>11:45-12:00</td><td>Q&amp;A</td><td>OPEN</td></tr><tr><td colspan=\"4\">Afternoon Session will be on Campus.</td></tr><tr><td colspan=\"4\">Participants will complete asynchronous sessions</td></tr></table>",
+            "block_bbox": [
+                0,
+                157,
+                1061,
+                850
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    -1.0,
+                    157.0
+                ],
+                [
+                    1061.0,
+                    157.0
+                ],
+                [
+                    1061.0,
+                    850.0
+                ],
+                [
+                    -1.0,
+                    850.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{*} $Participants will complete asynchronous sessions",
+            "block_bbox": [
+                11,
+                834,
+                447,
+                859
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    11.0,
+                    834.0
+                ],
+                [
+                    447.0,
+                    834.0
+                ],
+                [
+                    447.0,
+                    859.0
+                ],
+                [
+                    11.0,
+                    859.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7657953500747681,
+                "coordinate": [
+                    138,
+                    12,
+                    290,
+                    120
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        138.0,
+                        12.0
+                    ],
+                    [
+                        290.0,
+                        12.0
+                    ],
+                    [
+                        290.0,
+                        120.0
+                    ],
+                    [
+                        138.0,
+                        120.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4451111853122711,
+                "coordinate": [
+                    311,
+                    12,
+                    797,
+                    70
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        311.0,
+                        12.0
+                    ],
+                    [
+                        797.0,
+                        12.0
+                    ],
+                    [
+                        797.0,
+                        70.0
+                    ],
+                    [
+                        311.0,
+                        70.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.353363573551178,
+                "coordinate": [
+                    132,
+                    9,
+                    924,
+                    117
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        132.0,
+                        9.0
+                    ],
+                    [
+                        924.0,
+                        9.0
+                    ],
+                    [
+                        924.0,
+                        117.0
+                    ],
+                    [
+                        132.0,
+                        117.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.593228816986084,
+                "coordinate": [
+                    311,
+                    73,
+                    923,
+                    111
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        311.0,
+                        73.0
+                    ],
+                    [
+                        923.0,
+                        73.0
+                    ],
+                    [
+                        923.0,
+                        111.0
+                    ],
+                    [
+                        311.0,
+                        111.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.45496833324432373,
+                "coordinate": [
+                    293,
+                    131,
+                    765,
+                    164
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        293.0,
+                        131.0
+                    ],
+                    [
+                        765.0,
+                        131.0
+                    ],
+                    [
+                        765.0,
+                        164.0
+                    ],
+                    [
+                        293.0,
+                        164.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8207836747169495,
+                "coordinate": [
+                    0,
+                    157,
+                    1061,
+                    850
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        -1.0,
+                        157.0
+                    ],
+                    [
+                        1061.0,
+                        157.0
+                    ],
+                    [
+                        1061.0,
+                        850.0
+                    ],
+                    [
+                        -1.0,
+                        850.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.43197599053382874,
+                "coordinate": [
+                    11,
+                    834,
+                    447,
+                    859
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        11.0,
+                        834.0
+                    ],
+                    [
+                        447.0,
+                        834.0
+                    ],
+                    [
+                        447.0,
+                        859.0
+                    ],
+                    [
+                        11.0,
+                        859.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

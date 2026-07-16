@@ -1,0 +1,400 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_01.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1699,
+    "height": 2200,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "FINANCIAL REPORT YOUR COMPANY NAME",
+            "block_bbox": [
+                161,
+                182,
+                502,
+                261
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    161.0,
+                    182.0
+                ],
+                [
+                    502.0,
+                    182.0
+                ],
+                [
+                    502.0,
+                    261.0
+                ],
+                [
+                    161.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "2095",
+            "block_bbox": [
+                1426,
+                176,
+                1512,
+                211
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    1426.0,
+                    176.0
+                ],
+                [
+                    1512.0,
+                    176.0
+                ],
+                [
+                    1512.0,
+                    211.0
+                ],
+                [
+                    1426.0,
+                    211.0
+                ]
+            ]
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                156,
+                339,
+                1536,
+                601
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    156.0,
+                    339.0
+                ],
+                [
+                    1536.0,
+                    339.0
+                ],
+                [
+                    1536.0,
+                    601.0
+                ],
+                [
+                    156.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "ALL METRICS",
+            "block_bbox": [
+                161,
+                627,
+                296,
+                655
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    161.0,
+                    627.0
+                ],
+                [
+                    296.0,
+                    627.0
+                ],
+                [
+                    296.0,
+                    655.0
+                ],
+                [
+                    161.0,
+                    655.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Do not modify the information below. Tap to enter Financial Data",
+            "block_bbox": [
+                441,
+                629,
+                949,
+                656
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    441.0,
+                    629.0
+                ],
+                [
+                    949.0,
+                    629.0
+                ],
+                [
+                    949.0,
+                    656.0
+                ],
+                [
+                    441.0,
+                    656.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>METRIC</td><td>REPORT YEAR (2095)</td><td>PREVIOUS YEAR (2094)</td><td></td><td>% CHANGE</td><td>2 YEAR TREND</td></tr><tr><td>REVENUES</td><td>134,137.45</td><td>125,000.00</td><td>$ \\uparrow $</td><td>7%</td><td></td></tr><tr><td>OPERATING EXPENSES</td><td>55,000.00</td><td>65,000.00</td><td>$ \\downarrow $</td><td>-15%</td><td></td></tr><tr><td>OPERATING PROFIT</td><td>64,207.30</td><td>60,000.00</td><td>$ \\uparrow $</td><td>7%</td><td></td></tr><tr><td>DEPRECIATION</td><td>4,517.77</td><td>4,500.00</td><td>$ \\uparrow $</td><td>0%</td><td></td></tr><tr><td>INTEREST</td><td>2,745.82</td><td>2,500.00</td><td>$ \\uparrow $</td><td>10%</td><td></td></tr><tr><td>TAX</td><td>64,207.30</td><td>60,000.00</td><td>$ \\uparrow $</td><td>7%</td><td></td></tr><tr><td>PROFIT AFTER TAX</td><td>54,761.08</td><td>54,000.00</td><td>$ \\uparrow $</td><td>1%</td><td></td></tr><tr><td>NET PROFIT</td><td>29,000.00</td><td>32,000.00</td><td>$ \\downarrow $</td><td>-9%</td><td></td></tr><tr><td>Metric 02</td><td>4,517.77</td><td>4,500.00</td><td>$ \\uparrow $</td><td>0%</td><td></td></tr><tr><td>Metric 03</td><td>2,745.82</td><td>2,500.00</td><td>$ \\uparrow $</td><td>10%</td><td></td></tr><tr><td>Metric 04</td><td>54,761.08</td><td>54,000.00</td><td>$ \\uparrow $</td><td>1%</td><td></td></tr><tr><td>Metric 05</td><td>23,920.54</td><td>22,000.00</td><td>$ \\uparrow $</td><td>9%</td><td></td></tr><tr><td>Metric 06</td><td>34,943.49</td><td>32,000.00</td><td>$ \\uparrow $</td><td>9%</td><td></td></tr><tr><td>Metric 07</td><td>4,517.77</td><td>4,500.00</td><td>$ \\uparrow $</td><td>0%</td><td></td></tr><tr><td>Metric 08</td><td>2,745.82</td><td>2,500.00</td><td>$ \\uparrow $</td><td>10%</td><td></td></tr><tr><td>Metric 09</td><td>54,761.08</td><td>54,000.00</td><td>$ \\uparrow $</td><td>1%</td><td></td></tr><tr><td>Metric 10</td><td>23,920.54</td><td>22,000.00</td><td>$ \\uparrow $</td><td>9%</td><td></td></tr><tr><td>Metric 11</td><td>34,943.49</td><td>32,000.00</td><td>$ \\uparrow $</td><td>9%</td><td></td></tr><tr><td>Metric 12</td><td>4,517.77</td><td>4,500.00</td><td>$ \\uparrow $</td><td>0%</td><td></td></tr><tr><td>Metric 13</td><td>2,745.82</td><td>2,500.00</td><td>$ \\uparrow $</td><td>10%</td><td></td></tr><tr><td>Metric 14</td><td>54,761.08</td><td>54,000.00</td><td>$ \\uparrow $</td><td>1%</td><td></td></tr><tr><td>Metric 15</td><td>23,920.54</td><td>22,000.00</td><td>$ \\uparrow $</td><td>9%</td><td></td></tr><tr><td>Metric 16</td><td>34,943.49</td><td>32,000.00</td><td>$ \\uparrow $</td><td>9%</td><td></td></tr><tr><td>Metric 17</td><td>64,207.30</td><td>60,000.00</td><td>$ \\uparrow $</td><td>7%</td><td></td></tr><tr><td>Metric 18</td><td>54,761.08</td><td>54,000.00</td><td>$ \\uparrow $</td><td>1%</td><td></td></tr></table>",
+            "block_bbox": [
+                156,
+                681,
+                1545,
+                1930
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    156.0,
+                    681.0
+                ],
+                [
+                    1545.0,
+                    681.0
+                ],
+                [
+                    1545.0,
+                    1930.0
+                ],
+                [
+                    156.0,
+                    1930.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.569237470626831,
+                "coordinate": [
+                    161,
+                    182,
+                    502,
+                    261
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        161.0,
+                        182.0
+                    ],
+                    [
+                        502.0,
+                        182.0
+                    ],
+                    [
+                        502.0,
+                        261.0
+                    ],
+                    [
+                        161.0,
+                        261.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.6742854118347168,
+                "coordinate": [
+                    1426,
+                    176,
+                    1512,
+                    211
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        1426.0,
+                        176.0
+                    ],
+                    [
+                        1512.0,
+                        176.0
+                    ],
+                    [
+                        1512.0,
+                        211.0
+                    ],
+                    [
+                        1426.0,
+                        211.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7530378699302673,
+                "coordinate": [
+                    156,
+                    339,
+                    1536,
+                    601
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        156.0,
+                        339.0
+                    ],
+                    [
+                        1536.0,
+                        339.0
+                    ],
+                    [
+                        1536.0,
+                        601.0
+                    ],
+                    [
+                        156.0,
+                        601.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.3980438709259033,
+                "coordinate": [
+                    161,
+                    627,
+                    296,
+                    655
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        161.0,
+                        627.0
+                    ],
+                    [
+                        296.0,
+                        627.0
+                    ],
+                    [
+                        296.0,
+                        655.0
+                    ],
+                    [
+                        161.0,
+                        655.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.4498831629753113,
+                "coordinate": [
+                    441,
+                    629,
+                    949,
+                    656
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        441.0,
+                        629.0
+                    ],
+                    [
+                        949.0,
+                        629.0
+                    ],
+                    [
+                        949.0,
+                        656.0
+                    ],
+                    [
+                        441.0,
+                        656.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9538999795913696,
+                "coordinate": [
+                    156,
+                    681,
+                    1545,
+                    1930
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        156.0,
+                        681.0
+                    ],
+                    [
+                        1545.0,
+                        681.0
+                    ],
+                    [
+                        1545.0,
+                        1930.0
+                    ],
+                    [
+                        156.0,
+                        1930.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

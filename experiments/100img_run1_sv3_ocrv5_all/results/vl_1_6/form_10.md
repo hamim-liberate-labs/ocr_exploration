@@ -1,0 +1,25 @@
+## APPLICATION FOR EMPLOYMENT
+
+This generic application is provided by WorkSource Washington. This form complies with federal and state laws against discrimination; however, employers using this form should check local ordinances. WorkSource Washington and Washington State Employment Security are not responsible for the misuse of information provided on this form. Provide all information requested by printing in ink or typing. Use the 'TAB' key to move through the document.
+
+## GENERAL INFORMATION
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Name (Last)</td><td colspan="3">(First)</td><td style='text-align: center; word-wrap: break-word;'>(Middle Initial)</td><td style='text-align: center; word-wrap: break-word;'>Home Telephone ( ) -</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Address (Mailing Address)</td><td colspan="2">(City)</td><td style='text-align: center; word-wrap: break-word;'>(State)</td><td style='text-align: center; word-wrap: break-word;'>(Zip)</td><td style='text-align: center; word-wrap: break-word;'>Other Telephone ( ) -</td></tr><tr><td colspan="2">E-Mail Address</td><td colspan="4">Are you legally entitled to work in the U.S.? ☐ Yes ☐ No</td></tr></table>
+
+## POSITION
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Position Or Type Of Employment Desired</td><td rowspan="2">Will Accept: ☐ Part-Time ☐ Full-Time ☐ Temporary Shift: ☐ Day ☐ Swing ☐ Graveyard ☐ Rotating</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Are you able to perform the essential functions of the job you are applying for, with or without reasonable accommodation? ☐ Yes ☐ No</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Salary Desired</td><td style='text-align: center; word-wrap: break-word;'>Date Available</td></tr></table>
+
+## EDUCATION AND TRAINING
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="7">College, Business School, Military (Most recent first)</td></tr><tr><td rowspan="2">Name and Location</td><td rowspan="2">Dates Attended Month/Year</td><td colspan="2">Credits Earned</td><td rowspan="2">Graduate</td><td rowspan="2">Degree &amp; Year</td><td rowspan="2">Major or Subject</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Quarterly or Semester Hours</td><td style='text-align: center; word-wrap: break-word;'>Other (Specify)</td></tr><tr><td rowspan="2"></td><td style='text-align: center; word-wrap: break-word;'>From</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">☐ Yes\n☐ No</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>To</td></tr><tr><td rowspan="2"></td><td style='text-align: center; word-wrap: break-word;'>From</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">☐ Yes\n☐ No</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>To</td></tr><tr><td rowspan="2"></td><td style='text-align: center; word-wrap: break-word;'>From</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">☐ Yes\n☐ No</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>To</td></tr><tr><td rowspan="2"></td><td style='text-align: center; word-wrap: break-word;'>From</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">☐ Yes\n☐ No</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>To</td></tr><tr><td colspan="2">Occupational License, Certificate or Registration</td><td colspan="2">Number</td><td colspan="2">Where Issued</td><td style='text-align: center; word-wrap: break-word;'>Expiration Date</td></tr><tr><td colspan="2">Occupational License, Certificate or Registration</td><td colspan="2">Number</td><td colspan="2">Where Issued</td><td style='text-align: center; word-wrap: break-word;'>Expiration Date</td></tr><tr><td colspan="2">Occupational License, Certificate or Registration</td><td colspan="2">Number</td><td colspan="2">Where Issued</td><td style='text-align: center; word-wrap: break-word;'>Expiration Date</td></tr><tr><td colspan="7">Languages Read, Written or Spoken Fluently Other Than English</td></tr></table>
+
+## VETERAN INFORMATION (Most recent)
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Branch of Service</td><td style='text-align: center; word-wrap: break-word;'>Date of Entry</td><td style='text-align: center; word-wrap: break-word;'>Date of Discharge</td></tr></table>
+
+## SPECIAL SKILLS (List all pertinent skills and equipment that you can operate)

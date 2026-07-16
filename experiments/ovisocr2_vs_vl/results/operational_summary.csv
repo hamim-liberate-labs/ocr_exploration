@@ -1,0 +1,3 @@
+model,pages,avg_latency_s,avg_chars,avg_tables,pct_empty,pct_degenerate,pct_bad_table
+OvisOCR2,100,30.27,1621,1.53,0.0,9.0,0.0
+PaddleOCR-VL 1.6,100,24.43,4411,1.34,1.0,4.0,0.0

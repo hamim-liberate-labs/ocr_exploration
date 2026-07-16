@@ -1,0 +1,55 @@
+# =============================================================================
+# Secrets & credentials — NEVER commit these
+# =============================================================================
+# Environment files (API keys, tokens)
+.env
+.env.*
+!.env.example
+
+# Google Cloud / Vertex AI service-account keys
+vertex-service-account.json
+*service-account*.json
+bullseye-*.json
+**/gcp-*.json
+
+# Any generic key / credential material
+*.pem
+*.key
+*_key.json
+credentials.json
+client_secret*.json
+
+# Modal deployment tokens
+modal_deploy/token.txt
+**/token.txt
+
+# =============================================================================
+# OS / editor
+# =============================================================================
+.DS_Store
+**/.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
+
+# =============================================================================
+# Python
+# =============================================================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# =============================================================================
+# Archives (results are tracked as folders; ignore stray zips)
+# =============================================================================
+*.zip
+*.tar
+*.tar.gz

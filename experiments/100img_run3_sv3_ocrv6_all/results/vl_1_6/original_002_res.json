@@ -1,0 +1,400 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/original_002.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1237,
+    "height": 1600,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "DD/MM/YYYY",
+            "block_bbox": [
+                992,
+                82,
+                1126,
+                108
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    992.0,
+                    82.0
+                ],
+                [
+                    1126.0,
+                    82.0
+                ],
+                [
+                    1126.0,
+                    108.0
+                ],
+                [
+                    992.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "1:1 Meeting Agenda",
+            "block_bbox": [
+                103,
+                91,
+                866,
+                291
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    103.0,
+                    91.0
+                ],
+                [
+                    866.0,
+                    91.0
+                ],
+                [
+                    866.0,
+                    291.0
+                ],
+                [
+                    103.0,
+                    291.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                983,
+                306,
+                1145,
+                342
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    983.0,
+                    306.0
+                ],
+                [
+                    1145.0,
+                    306.0
+                ],
+                [
+                    1145.0,
+                    342.0
+                ],
+                [
+                    983.0,
+                    342.0
+                ]
+            ]
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "Weekly Check-in: June 1",
+            "block_bbox": [
+                301,
+                411,
+                936,
+                472
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    301.0,
+                    411.0
+                ],
+                [
+                    936.0,
+                    411.0
+                ],
+                [
+                    936.0,
+                    472.0
+                ],
+                [
+                    301.0,
+                    472.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Let's start with a mood check!",
+            "block_bbox": [
+                457,
+                491,
+                780,
+                522
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    457.0,
+                    491.0
+                ],
+                [
+                    780.0,
+                    491.0
+                ],
+                [
+                    780.0,
+                    522.0
+                ],
+                [
+                    457.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>SARAH</td><td>JIN</td></tr><tr><td>Add an emoji or GIF</td><td>Add an emoji or GIF</td></tr><tr><td colspan=\"2\">Let&#x27;s go through our agenda items for the day</td></tr><tr><td>Wins From Last Week</td><td>• Enumerate the positive things that you accomplished last week\\n• Share any good news as well</td></tr><tr><td>Priorities This Week</td><td>☐ Write down the things that you&#x27;ll work on\\n☐ List as many items as needed</td></tr><tr><td>Concerns</td><td>• Identify your blockers or challenges for this week\\n• It can be about a project issue or workload capacity</td></tr><tr><td>Support Needed</td><td>• Elaborate on how your coach or mentor can help with your concerns\\n• Note down any other information they may need to support you</td></tr><tr><td>Questions and Feedback</td><td>• Clarify any uncertainties\\n• Share any feedback about anything or anyone</td></tr></table>",
+            "block_bbox": [
+                58,
+                555,
+                1179,
+                1410
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    58.0,
+                    555.0
+                ],
+                [
+                    1179.0,
+                    555.0
+                ],
+                [
+                    1179.0,
+                    1410.0
+                ],
+                [
+                    58.0,
+                    1410.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.784906268119812,
+                "coordinate": [
+                    992,
+                    82,
+                    1126,
+                    108
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        992.0,
+                        82.0
+                    ],
+                    [
+                        1126.0,
+                        82.0
+                    ],
+                    [
+                        1126.0,
+                        108.0
+                    ],
+                    [
+                        992.0,
+                        108.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.6109588742256165,
+                "coordinate": [
+                    103,
+                    91,
+                    866,
+                    291
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        103.0,
+                        91.0
+                    ],
+                    [
+                        866.0,
+                        91.0
+                    ],
+                    [
+                        866.0,
+                        291.0
+                    ],
+                    [
+                        103.0,
+                        291.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7468345165252686,
+                "coordinate": [
+                    983,
+                    306,
+                    1145,
+                    342
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        983.0,
+                        306.0
+                    ],
+                    [
+                        1145.0,
+                        306.0
+                    ],
+                    [
+                        1145.0,
+                        342.0
+                    ],
+                    [
+                        983.0,
+                        342.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.5852585434913635,
+                "coordinate": [
+                    301,
+                    411,
+                    936,
+                    472
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        301.0,
+                        411.0
+                    ],
+                    [
+                        936.0,
+                        411.0
+                    ],
+                    [
+                        936.0,
+                        472.0
+                    ],
+                    [
+                        301.0,
+                        472.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.36863818764686584,
+                "coordinate": [
+                    457,
+                    491,
+                    780,
+                    522
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        457.0,
+                        491.0
+                    ],
+                    [
+                        780.0,
+                        491.0
+                    ],
+                    [
+                        780.0,
+                        522.0
+                    ],
+                    [
+                        457.0,
+                        522.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.7122532725334167,
+                "coordinate": [
+                    58,
+                    555,
+                    1179,
+                    1410
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        58.0,
+                        555.0
+                    ],
+                    [
+                        1179.0,
+                        555.0
+                    ],
+                    [
+                        1179.0,
+                        1410.0
+                    ],
+                    [
+                        58.0,
+                        1410.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

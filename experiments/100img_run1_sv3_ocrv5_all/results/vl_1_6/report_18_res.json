@@ -1,0 +1,125 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_18.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1000,
+    "height": 653,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"12\">[Company Name]</td><td colspan=\"3\">© Corporate Finance Institute</td></tr><tr><td colspan=\"15\">Income Statement</td></tr><tr><td>[USD $ millions]</td><td colspan=\"14\">2018</td></tr><tr><td></td><td>JAN</td><td>FEB</td><td>MAR</td><td>APR</td><td>MAY</td><td>JUN</td><td>JUL</td><td>AUG</td><td>SEP</td><td>OCT</td><td>NOV</td><td>DEC</td><td colspan=\"2\">Full Year</td></tr><tr><td>Revenue stream 1</td><td>587.0</td><td>596.3</td><td>605.8</td><td>615.4</td><td>625.2</td><td>635.1</td><td>645.2</td><td>655.4</td><td>665.8</td><td>676.4</td><td>687.1</td><td>698.0</td><td colspan=\"2\">7,692.6</td></tr><tr><td>Revenue stream 2</td><td>145.6</td><td>147.9</td><td>150.2</td><td>152.6</td><td>155.0</td><td>157.5</td><td>160.0</td><td>162.5</td><td>165.1</td><td>167.7</td><td>170.4</td><td>173.1</td><td colspan=\"2\">1,907.8</td></tr><tr><td>Returns, Refunds, Discounts</td><td>(21.0)</td><td>(21.3)</td><td>(21.7)</td><td>(22.0)</td><td>(22.4)</td><td>(22.7)</td><td>(23.1)</td><td>(23.5)</td><td>(23.8)</td><td>(24.2)</td><td>(24.6)</td><td>(25.0)</td><td colspan=\"2\">(275.3)</td></tr><tr><td>Total Net Revenue</td><td>711.6</td><td>722.9</td><td>734.3</td><td>746.0</td><td>757.8</td><td>769.9</td><td>782.1</td><td>794.5</td><td>807.1</td><td>819.9</td><td>832.9</td><td>846.1</td><td colspan=\"2\">9,325.0</td></tr><tr><td>Cost of Goods Sold</td><td>269.6</td><td>273.9</td><td>278.2</td><td>282.7</td><td>287.1</td><td>291.7</td><td>296.3</td><td>301.0</td><td>305.8</td><td>310.7</td><td>315.6</td><td>320.6</td><td colspan=\"2\">3,533.2</td></tr><tr><td>Gross Profit</td><td>442.0</td><td>449.0</td><td>456.1</td><td>463.3</td><td>470.7</td><td>478.2</td><td>485.7</td><td>493.5</td><td>501.3</td><td>509.2</td><td>517.3</td><td>525.5</td><td colspan=\"2\">5,791.8</td></tr><tr><td colspan=\"15\">Expenses</td></tr><tr><td>Advertising &amp; Promotion</td><td>18.7</td><td>19.1</td><td>19.5</td><td>19.8</td><td>20.2</td><td>20.6</td><td>21.0</td><td>21.5</td><td>21.9</td><td>22.3</td><td>22.8</td><td>23.2</td><td colspan=\"2\">250.6</td></tr><tr><td>Depreciation &amp; Amortization</td><td>108.7</td><td>110.9</td><td>113.1</td><td>115.3</td><td>117.6</td><td>119.9</td><td>122.3</td><td>124.8</td><td>127.2</td><td>129.8</td><td>132.3</td><td>135.0</td><td colspan=\"2\">1,456.8</td></tr><tr><td>Insurance</td><td>1.1</td><td>1.1</td><td>1.1</td><td>1.2</td><td>1.2</td><td>1.2</td><td>1.2</td><td>1.3</td><td>1.3</td><td>1.3</td><td>1.3</td><td>1.4</td><td colspan=\"2\">14.7</td></tr><tr><td>Maintenance</td><td>5.7</td><td>5.8</td><td>5.9</td><td>6.0</td><td>6.2</td><td>6.3</td><td>6.4</td><td>6.5</td><td>6.7</td><td>6.8</td><td>6.9</td><td>7.1</td><td colspan=\"2\">76.4</td></tr><tr><td>Office Supplies</td><td>2.8</td><td>2.9</td><td>2.9</td><td>3.0</td><td>3.0</td><td>3.1</td><td>3.2</td><td>3.2</td><td>3.3</td><td>3.3</td><td>3.4</td><td>3.5</td><td colspan=\"2\">37.5</td></tr><tr><td>Rent</td><td>5.8</td><td>5.9</td><td>6.0</td><td>6.2</td><td>6.3</td><td>6.4</td><td>6.5</td><td>6.7</td><td>6.8</td><td>6.9</td><td>7.1</td><td>7.2</td><td colspan=\"2\">77.7</td></tr><tr><td>Salaries, Benefits &amp; Wages</td><td>251.2</td><td>256.2</td><td>261.3</td><td>266.5</td><td>271.8</td><td>277.2</td><td>282.7</td><td>288.3</td><td>294.0</td><td>299.9</td><td>305.8</td><td>311.9</td><td colspan=\"2\">3,366.7</td></tr><tr><td>Telecommunication</td><td>1.5</td><td>1.5</td><td>1.6</td><td>1.6</td><td>1.6</td><td>1.7</td><td>1.7</td><td>1.7</td><td>1.8</td><td>1.8</td><td>1.8</td><td>1.9</td><td colspan=\"2\">20.1</td></tr><tr><td>Travel</td><td>2.3</td><td>2.3</td><td>2.4</td><td>2.4</td><td>2.5</td><td>2.5</td><td>2.6</td><td>2.6</td><td>2.7</td><td>2.7</td><td>2.8</td><td>2.9</td><td colspan=\"2\">30.8</td></tr><tr><td>Utilities</td><td>1.4</td><td>1.4</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.6</td><td>1.6</td><td>1.6</td><td>1.7</td><td>1.7</td><td>1.7</td><td colspan=\"2\">18.8</td></tr><tr><td>Other Expense 1</td><td>3.8</td><td>3.9</td><td>4.0</td><td>4.0</td><td>4.1</td><td>4.2</td><td>4.3</td><td>4.4</td><td>4.4</td><td>4.5</td><td>4.6</td><td>4.7</td><td colspan=\"2\">50.9</td></tr><tr><td>Other Expense 2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan=\"2\">-</td></tr><tr><td>Total Expenses</td><td>403.0</td><td>411.0</td><td>419.2</td><td>427.5</td><td>436.0</td><td>444.7</td><td>453.5</td><td>462.5</td><td>471.7</td><td>481.1</td><td>490.6</td><td>500.4</td><td colspan=\"2\">5,401.1</td></tr><tr><td>Earnings Before Interest &amp; Taxes</td><td>39.0</td><td>38.0</td><td>36.9</td><td>35.8</td><td>34.7</td><td>33.5</td><td>32.2</td><td>30.9</td><td>29.6</td><td>28.2</td><td>26.7</td><td>25.2</td><td colspan=\"2\">390.6</td></tr><tr><td>Interest Expense</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td>2.5</td><td colspan=\"2\">30.0</td></tr><tr><td>Earnings Before Taxes</td><td>36.5</td><td>35.5</td><td>34.4</td><td>33.3</td><td>32.2</td><td>31.0</td><td>29.7</td><td>28.4</td><td>27.1</td><td>25.7</td><td>24.2</td><td>22.7</td><td colspan=\"2\">360.6</td></tr><tr><td>Income Taxes</td><td>10.9</td><td>10.6</td><td>10.3</td><td>10.0</td><td>9.7</td><td>9.3</td><td>8.9</td><td>8.5</td><td>8.1</td><td>7.7</td><td>7.3</td><td>6.8</td><td colspan=\"2\">108.2</td></tr><tr><td>Net Earnings</td><td>25.5</td><td>24.8</td><td>24.1</td><td>23.3</td><td>22.5</td><td>21.7</td><td>20.8</td><td>19.9</td><td>19.0</td><td>18.0</td><td>16.9</td><td>15.9</td><td colspan=\"2\">252.4</td></tr></table>",
+            "block_bbox": [
+                0,
+                5,
+                1000,
+                653
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    0.0,
+                    5.0
+                ],
+                [
+                    1000.0,
+                    5.0
+                ],
+                [
+                    1000.0,
+                    658.0
+                ],
+                [
+                    0.0,
+                    658.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6740379333496094,
+                "coordinate": [
+                    849,
+                    3,
+                    1000,
+                    23
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        849.0,
+                        3.0
+                    ],
+                    [
+                        999.0,
+                        3.0
+                    ],
+                    [
+                        999.0,
+                        22.0
+                    ],
+                    [
+                        849.0,
+                        22.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9258872866630554,
+                "coordinate": [
+                    0,
+                    5,
+                    1000,
+                    653
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        0.0,
+                        5.0
+                    ],
+                    [
+                        1000.0,
+                        5.0
+                    ],
+                    [
+                        1000.0,
+                        658.0
+                    ],
+                    [
+                        0.0,
+                        658.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

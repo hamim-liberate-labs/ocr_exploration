@@ -1,0 +1,5 @@
+model,num_images,avg_latency_s,total_infer_s,gpu_peak_MB,gpu_after_load_MB,model_disk_MB,output_disk_MB,load_time_s
+PP-OCRv6_small,100,0.47,47.0,2139.2,595.2,30.0,30.9,46.3
+PP-OCRv6_medium,100,0.809,80.9,3761.2,987.2,132.7,30.8,53.2
+"PP-StructureV3 (all-modules, OCRv6-medium)",100,3.926,392.6,9561.2,7683.2,3946.9,276.0,625.0
+PaddleOCR-VL-1.6,100,23.269,2326.9,15129.2,,1966.9,31.7,167.5

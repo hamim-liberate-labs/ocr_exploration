@@ -1,0 +1,217 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_22.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 600,
+    "height": 730,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Mortgage Application Form",
+            "block_bbox": [
+                47,
+                43,
+                198,
+                58
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    47.0,
+                    43.0
+                ],
+                [
+                    197.0,
+                    43.0
+                ],
+                [
+                    197.0,
+                    57.0
+                ],
+                [
+                    47.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Instructions: Please complete and tick the applicable checkbox. DBS Staff Home Loan Application (under HR Terms) ☐ Yes ☐ No\nAccess to credit report. You may obtain a free credit report within 30 days from the date of approval or rejection of this application. There are two ways to obtain a free credit report. You can go to the credit bureau website listed below or bring your approval or rejection letter and your original NRC to the credit bureau's registered office. Credit Bureau (Singapore) Pte Ltd is located at 2 Shenton Way #20-02 SGX Centre 1 Singapore 068804, Tel: (66) 6662 6163 Website: www.creditbureau.com.sg",
+            "block_bbox": [
+                46,
+                57,
+                558,
+                94
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    46.0,
+                    57.0
+                ],
+                [
+                    558.0,
+                    57.0
+                ],
+                [
+                    558.0,
+                    94.0
+                ],
+                [
+                    46.0,
+                    94.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"5\">1. Personal Participants</td></tr><tr><td colspan=\"2\">Main Applicant</td><td colspan=\"3\">Joint Applicant</td></tr><tr><td>Salary\n☐ ☐ ☐ Ms ☐ Mdn ☐ Ms ☐ Ms</td><td>Date of Birth</td><td>Salary\n☐ ☐ ☐ Ms ☐ Mdn ☐ Ms ☐ Ms</td><td colspan=\"2\">Date of Birth</td></tr><tr><td colspan=\"2\">Full Name as in NRIC/Passport/undlline surname</td><td>NRIC/Passport No.</td><td colspan=\"2\">Full Name as in NRIC/Passport/undlline surname</td></tr><tr><td rowspan=\"2\">Nationality/Citizenship\n☐ Singapore\n☐ Singapore PR/Foreigner $ ^{{*}} $\nNationality</td><td rowspan=\"2\">Marital Status\n☐ Single\n☐ Married\n☐ Others</td><td>Nationality/Citizenship\n☐ Singapore PR/Foreigner $ ^{{*}} $\nNationality</td><td colspan=\"2\">Marital Status\n☐ Single\n☐ Married\n☐ Others</td></tr><tr><td>Relationship with Main Applicant\n☐ Spouse ☐ Fiancé/Fiancée</td><td colspan=\"2\">Parent ☐ Sibling ☐ Child ☐ Others</td></tr><tr><td colspan=\"2\">Residential Address (P.O. Box, V-Box &amp; C/O/dresses-are not allowed)</td><td colspan=\"3\">Residential Address (P.O. Box, V-Box &amp; C/O/dresses-are not allowed)</td></tr><tr><td colspan=\"2\">Mailing Address (complete if different from Residential Address)</td><td colspan=\"3\">Mailing Address (complete if different from Residential Address)</td></tr><tr><td>Residential Status\n☐ Self-owned and fully paid\n☐ Self-owned without and/or loan</td><td>☐ Live with family\n☐ Rented</td><td>Residential Status\n☐ Self-owned and fully paid\n☐ Self-owned without and/or loan</td><td colspan=\"2\">☐ Live with family\n☐ Rented</td></tr><tr><td colspan=\"2\">☐ Others</td><td>☐ Others</td><td colspan=\"2\">☐ Others</td></tr><tr><td colspan=\"2\">Contact Details (please provide at least one contact na.)</td><td colspan=\"3\">Contact Details (please provide at least one contact na.)</td></tr><tr><td>H.</td><td>HP.</td><td>H.</td><td>O.</td><td>HP.</td></tr><tr><td colspan=\"2\">Email:</td><td colspan=\"3\">Email:</td></tr><tr><td colspan=\"5\">2. Employment</td></tr><tr><td colspan=\"2\">Employment Status</td><td>Length of Service</td><td>Employment Status</td><td>Length of Service</td></tr><tr><td>☐ Employee ☐ Self-Employed ☐ Others</td><td>years</td><td>months</td><td>☐ Employee ☐ Self-Employed ☐ Others</td><td>years</td></tr><tr><td colspan=\"2\">Name of Company</td><td>Occupation</td><td>Name of Company</td><td>Occupation</td></tr><tr><td colspan=\"2\">Company Address</td><td colspan=\"3\">Company Address</td></tr><tr><td>Monthly Fixed Income\nSs</td><td>Other Monthly Income</td><td>Source of Other Income</td><td>Monthly Fixed Income</td><td>Other Monthly Income</td></tr><tr><td>Ss</td><td>Ss</td><td>Ss</td><td>Ss</td><td>Source of Other Income</td></tr><tr><td>Previous Occupation</td><td>Previous Company (if current in a 2-year)</td><td>Length of Service with Previous Company</td><td>Previous Occupation</td><td>Previous Company (if current in a 2-year)</td></tr><tr><td>Previous Occupation</td><td>years</td><td>months</td><td>years</td><td>Previous Occupation</td></tr><tr><td colspan=\"5\">8. Property Information</td></tr><tr><td>Approval in the Property Request?\n☐ Yes ☐ No</td><td colspan=\"2\">Address of Property to be Financed</td><td>Usage of Property\n☐ Parents/Occupation ☐ Investment</td><td>Main Applicant\n☐ Property Owner &amp; Borrower</td></tr><tr><td colspan=\"2\">Postal code:</td><td>Type of Residential Property\n☐ New Landed\n☐ E�. Cands ☐ Conds ☐ HUDC\n☐ Northern ☐ Cluster/Townhouse</td><td colspan=\"2\">Type of Commercial Property\n☐ Office\n☐ Shop\n☐ Shamp\n☐ Other</td></tr><tr><td>☐ Full Type ______</td><td>☐ Other</td><td>☐ Home/Inter. Terrace $ ^{{*}} $</td><td colspan=\"2\">☐ Other</td></tr></table>",
+            "block_bbox": [
+                42,
+                99,
+                563,
+                683
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    42.0,
+                    99.0
+                ],
+                [
+                    563.0,
+                    99.0
+                ],
+                [
+                    563.0,
+                    683.0
+                ],
+                [
+                    42.0,
+                    683.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.712681233882904,
+                "coordinate": [
+                    47,
+                    43,
+                    198,
+                    58
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        47.0,
+                        43.0
+                    ],
+                    [
+                        197.0,
+                        43.0
+                    ],
+                    [
+                        197.0,
+                        57.0
+                    ],
+                    [
+                        47.0,
+                        57.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6519333124160767,
+                "coordinate": [
+                    46,
+                    57,
+                    558,
+                    94
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        46.0,
+                        57.0
+                    ],
+                    [
+                        558.0,
+                        57.0
+                    ],
+                    [
+                        558.0,
+                        94.0
+                    ],
+                    [
+                        46.0,
+                        94.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9588645100593567,
+                "coordinate": [
+                    42,
+                    99,
+                    563,
+                    683
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        42.0,
+                        99.0
+                    ],
+                    [
+                        563.0,
+                        99.0
+                    ],
+                    [
+                        563.0,
+                        683.0
+                    ],
+                    [
+                        42.0,
+                        683.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

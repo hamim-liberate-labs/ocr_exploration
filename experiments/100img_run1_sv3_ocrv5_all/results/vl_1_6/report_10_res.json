@@ -1,0 +1,217 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_10.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1200,
+    "height": 1034,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "FULL SET OF FINANCIAL\nREPORTS CHARTS",
+            "block_bbox": [
+                201,
+                128,
+                998,
+                309
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    201.0,
+                    128.0
+                ],
+                [
+                    998.0,
+                    128.0
+                ],
+                [
+                    998.0,
+                    309.0
+                ],
+                [
+                    201.0,
+                    309.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "Financial Statements",
+            "block_bbox": [
+                488,
+                394,
+                714,
+                423
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    488.0,
+                    394.0
+                ],
+                [
+                    714.0,
+                    394.0
+                ],
+                [
+                    714.0,
+                    423.0
+                ],
+                [
+                    488.0,
+                    423.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>serial number</td><td>client&#x27;s name</td><td>Company Name</td><td>business items</td><td>fee income</td><td>Expenses</td><td>invoicing</td><td>date</td><td>Remark</td></tr><tr><td>1</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td>5200</td><td>0</td><td>no</td><td>#######</td><td></td><td></td></tr><tr><td>2</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td>0</td><td>2800</td><td>yes</td><td>#######</td><td></td><td></td></tr><tr><td>3</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td>3800</td><td></td><td>no</td><td>#######</td><td></td><td></td></tr><tr><td>4</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>5</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>6</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>7</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>8</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>9</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>10</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>11</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>12</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>13</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>14</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>15</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr><tr><td>16</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/1/2019</td><td></td><td></td></tr><tr><td>17</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/2/2019</td><td></td><td></td></tr><tr><td>18</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/3/2019</td><td></td><td></td></tr><tr><td>19</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/4/2019</td><td></td><td></td></tr><tr><td>20</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/5/2019</td><td></td><td></td></tr><tr><td>21</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/6/2019</td><td></td><td></td></tr><tr><td>22</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/7/2019</td><td></td><td></td></tr><tr><td>23</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/8/2019</td><td></td><td></td></tr><tr><td>24</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>12/9/2019</td><td></td><td></td></tr><tr><td>25</td><td>open $ ^{{**}} $</td><td>ngineering Department of China Railway Second Bureau:Office Supplies</td><td></td><td></td><td></td><td>#######</td><td></td><td></td></tr></table>",
+            "block_bbox": [
+                128,
+                420,
+                1070,
+                915
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    128.0,
+                    420.0
+                ],
+                [
+                    1070.0,
+                    420.0
+                ],
+                [
+                    1070.0,
+                    915.0
+                ],
+                [
+                    128.0,
+                    915.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.6779241561889648,
+                "coordinate": [
+                    201,
+                    128,
+                    998,
+                    309
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        201.0,
+                        128.0
+                    ],
+                    [
+                        998.0,
+                        128.0
+                    ],
+                    [
+                        998.0,
+                        309.0
+                    ],
+                    [
+                        201.0,
+                        309.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.44735878705978394,
+                "coordinate": [
+                    488,
+                    394,
+                    714,
+                    423
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        488.0,
+                        394.0
+                    ],
+                    [
+                        714.0,
+                        394.0
+                    ],
+                    [
+                        714.0,
+                        423.0
+                    ],
+                    [
+                        488.0,
+                        423.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9365506172180176,
+                "coordinate": [
+                    128,
+                    420,
+                    1070,
+                    915
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        128.0,
+                        420.0
+                    ],
+                    [
+                        1070.0,
+                        420.0
+                    ],
+                    [
+                        1070.0,
+                        915.0
+                    ],
+                    [
+                        128.0,
+                        915.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

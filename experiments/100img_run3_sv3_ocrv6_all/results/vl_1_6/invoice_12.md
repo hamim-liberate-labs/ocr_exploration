@@ -1,0 +1,13 @@
+## SIMPLE INVOICE TEMPLATE
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>YOUR LOGO</td><td style='text-align: center; word-wrap: break-word;'>INVOICE</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Company Name</td><td style='text-align: center; word-wrap: break-word;'>DATE OF INVOICE</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>123 Main Street</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Hamilton, OH 44416</td><td style='text-align: center; word-wrap: break-word;'>INVOICE NO.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(321) 456-7890</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Email Address</td><td style='text-align: center; word-wrap: break-word;'>DATE DUE</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>CUSTOMER NAME</td><td style='text-align: center; word-wrap: break-word;'>AMOUNT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>ATTN: Name / Department</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Company Name</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>123 Main Street</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Hamilton, OH 44416</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(321) 456-7890</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Email Address</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>DESCRIPTION</td><td style='text-align: center; word-wrap: break-word;'>AMOUNT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>TOTAL</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+
+Please make check payable to Your Company Name: ___
+
+THANK YOU
+
+For questions concerning this invoice, please contact Name, (321) 456-7890, Email Address www.yourwebaddress.com

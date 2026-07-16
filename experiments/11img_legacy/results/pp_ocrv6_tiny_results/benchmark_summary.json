@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "model": "PP-OCRv6_tiny",
+    "num_images": 11,
+    "gpu_peak_MB": 879.2,
+    "gpu_after_load_MB": 573.2,
+    "avg_latency_s": 0.279,
+    "total_infer_s": 3.07,
+    "model_disk_MB": 6.3,
+    "output_disk_MB": 2.5,
+    "load_time_s": 8.9,
+    "engine": "paddle (native)"
+  },
+  "model_info": {
+    "model": "PP-OCRv6_tiny",
+    "type": "Text OCR (detection + recognition)",
+    "params": "1.5M",
+    "det_model": "PP-OCRv6_tiny_det (1.9 MB, Hmean 80.6%)",
+    "rec_model": "PP-OCRv6_tiny_rec (4.6 MB, acc 77.3%)",
+    "engine": "paddle (native)"
+  },
+  "per_image": [
+    {
+      "image": "image_001.jpg",
+      "seconds": 0.906,
+      "regions": 1
+    },
+    {
+      "image": "image_002.jpg",
+      "seconds": 0.249,
+      "regions": 1
+    },
+    {
+      "image": "image_003.jpg",
+      "seconds": 0.171,
+      "regions": 1
+    },
+    {
+      "image": "image_004.jpg",
+      "seconds": 0.167,
+      "regions": 1
+    },
+    {
+      "image": "image_005.jpg",
+      "seconds": 0.247,
+      "regions": 1
+    },
+    {
+      "image": "image_006.jpg",
+      "seconds": 0.449,
+      "regions": 1
+    },
+    {
+      "image": "image_007.jpg",
+      "seconds": 0.223,
+      "regions": 1
+    },
+    {
+      "image": "image_008.jpg",
+      "seconds": 0.159,
+      "regions": 1
+    },
+    {
+      "image": "image_009.jpg",
+      "seconds": 0.178,
+      "regions": 1
+    },
+    {
+      "image": "image_010.jpg",
+      "seconds": 0.205,
+      "regions": 1
+    },
+    {
+      "image": "image_011.jpg",
+      "seconds": 0.114,
+      "regions": 1
+    }
+  ]
+}

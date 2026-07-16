@@ -1,0 +1,9 @@
+## Bill To:
+
+## Attention:
+
+
+<div style="text-align: center;"><html><body><table border="1"><tbody><tr><td></td><td>Terms</td><td colspan="3">P.O. #</td><td>Due Date</td></tr><tr><td></td><td></td><td colspan="3"></td><td></td></tr><tr><td>#</td><td colspan="2">Description</td><td>Quantity</td><td>Unit Price</td><td>Line Total</td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td colspan="5" rowspan="2">SUBTOTAL HST 13.00% NOTES: SHIPPING & HANDLING</td><td>SUBTOTAL HST 13.00% SHIPPING & HANDLING TOTAL PAID PREVIOUS BALANCE TOTAL DUE</td><td></td></tr><tr><td colspan="2"></td><td></td></tr><tr><td colspan="3" rowspan="2"></td><td colspan="2" rowspan="2">TOTAL</td><td></td></tr><tr><td>PAID</td></tr><tr><td colspan="3" rowspan="3">PREVIOUS BALANCE</td><td rowspan="3"></td><td></td></tr><tr><td>TOTAL DUE</td></tr><tr><td></td></tr></tbody></table></body></html></div>
+
+
+THANK YOU FOR YOUR BUSINESS!

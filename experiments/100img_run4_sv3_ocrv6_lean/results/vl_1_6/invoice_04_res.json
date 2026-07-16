@@ -1,0 +1,461 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/invoice_04.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1080,
+    "height": 1080,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Company Name\nAddress\nCity, State, Zip Code\nPhone Number\nEmail or Website",
+            "block_bbox": [
+                205,
+                102,
+                361,
+                195
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    205.0,
+                    102.0
+                ],
+                [
+                    361.0,
+                    102.0
+                ],
+                [
+                    361.0,
+                    195.0
+                ],
+                [
+                    205.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "INVOICE",
+            "block_bbox": [
+                514,
+                112,
+                872,
+                183
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    514.0,
+                    112.0
+                ],
+                [
+                    872.0,
+                    112.0
+                ],
+                [
+                    872.0,
+                    183.0
+                ],
+                [
+                    514.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Invoice No.1234 - Date:24/12/2020",
+            "block_bbox": [
+                567,
+                217,
+                875,
+                238
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    566.9998779296875,
+                    217.0
+                ],
+                [
+                    873.9998779296875,
+                    217.0
+                ],
+                [
+                    873.9998779296875,
+                    237.0
+                ],
+                [
+                    566.9998779296875,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>BILL TO</td><td>SHIP TO</td></tr><tr><td>Company Name</td><td>Company Name</td></tr><tr><td>Address</td><td>Address</td></tr><tr><td>City, State, Zip Code</td><td>City, State, Zip Code</td></tr></table>",
+            "block_bbox": [
+                206,
+                255,
+                877,
+                358
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    206.0,
+                    255.0
+                ],
+                [
+                    877.0,
+                    255.0
+                ],
+                [
+                    877.0,
+                    358.0
+                ],
+                [
+                    206.0,
+                    358.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>QTY</td><td>DESCRIPTION</td><td>UNIT PRICE</td><td>TOTAL</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+            "block_bbox": [
+                203,
+                380,
+                878,
+                854
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    203.0,
+                    380.0
+                ],
+                [
+                    878.0,
+                    380.0
+                ],
+                [
+                    878.0,
+                    854.0
+                ],
+                [
+                    203.0,
+                    854.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Thank You",
+            "block_bbox": [
+                212,
+                906,
+                471,
+                984
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    212.0,
+                    906.0
+                ],
+                [
+                    471.0,
+                    906.0
+                ],
+                [
+                    471.0,
+                    984.0
+                ],
+                [
+                    212.0,
+                    984.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>SUB TOTAL</td><td></td></tr><tr><td>TAX</td><td></td></tr><tr><td>GRAND TOTAL</td><td></td></tr></table>",
+            "block_bbox": [
+                599,
+                885,
+                876,
+                981
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    599.0,
+                    885.0
+                ],
+                [
+                    876.0,
+                    885.0
+                ],
+                [
+                    876.0,
+                    981.0
+                ],
+                [
+                    599.0,
+                    981.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8514094948768616,
+                "coordinate": [
+                    205,
+                    102,
+                    361,
+                    195
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        205.0,
+                        102.0
+                    ],
+                    [
+                        361.0,
+                        102.0
+                    ],
+                    [
+                        361.0,
+                        195.0
+                    ],
+                    [
+                        205.0,
+                        195.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5936379432678223,
+                "coordinate": [
+                    514,
+                    112,
+                    872,
+                    183
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        514.0,
+                        112.0
+                    ],
+                    [
+                        872.0,
+                        112.0
+                    ],
+                    [
+                        872.0,
+                        183.0
+                    ],
+                    [
+                        514.0,
+                        183.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8287459015846252,
+                "coordinate": [
+                    567,
+                    217,
+                    875,
+                    238
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        566.9998779296875,
+                        217.0
+                    ],
+                    [
+                        873.9998779296875,
+                        217.0
+                    ],
+                    [
+                        873.9998779296875,
+                        237.0
+                    ],
+                    [
+                        566.9998779296875,
+                        237.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.625990092754364,
+                "coordinate": [
+                    206,
+                    255,
+                    877,
+                    358
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        206.0,
+                        255.0
+                    ],
+                    [
+                        877.0,
+                        255.0
+                    ],
+                    [
+                        877.0,
+                        358.0
+                    ],
+                    [
+                        206.0,
+                        358.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9663889408111572,
+                "coordinate": [
+                    203,
+                    380,
+                    878,
+                    854
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        203.0,
+                        380.0
+                    ],
+                    [
+                        878.0,
+                        380.0
+                    ],
+                    [
+                        878.0,
+                        854.0
+                    ],
+                    [
+                        203.0,
+                        854.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5838709473609924,
+                "coordinate": [
+                    212,
+                    906,
+                    471,
+                    984
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        212.0,
+                        906.0
+                    ],
+                    [
+                        471.0,
+                        906.0
+                    ],
+                    [
+                        471.0,
+                        984.0
+                    ],
+                    [
+                        212.0,
+                        984.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8537271022796631,
+                "coordinate": [
+                    599,
+                    885,
+                    876,
+                    981
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        599.0,
+                        885.0
+                    ],
+                    [
+                        876.0,
+                        885.0
+                    ],
+                    [
+                        876.0,
+                        981.0
+                    ],
+                    [
+                        599.0,
+                        981.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

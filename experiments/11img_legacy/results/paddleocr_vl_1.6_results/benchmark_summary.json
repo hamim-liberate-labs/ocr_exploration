@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "model": "PaddleOCR-VL-1.6-0.9B",
+    "num_images": 11,
+    "gpu_peak_MB": 14803.2,
+    "gpu_after_load_MB": 10505.2,
+    "avg_latency_s": 17.956,
+    "total_infer_s": 197.52,
+    "model_disk_MB": 1967.1,
+    "output_disk_MB": 2.2,
+    "load_time_s": 23.9,
+    "engine": "paddle (native) \u2014 vLLM NOT used (T4 CC 7.5 < 8.0)"
+  },
+  "model_info": {
+    "model": "PaddleOCR-VL-1.6-0.9B",
+    "type": "Vision-Language document parser (layout + VLM)",
+    "params": "~0.9B (ERNIE-4.5-0.3B decoder + NaViT-style encoder)",
+    "benchmark": "OmniDocBench v1.6 = 96.33 (overall)",
+    "engine": "paddle (native) \u2014 vLLM NOT used (T4 CC 7.5 < 8.0)",
+    "capabilities": "text, tables, formulas, charts, seals, reading order"
+  },
+  "per_image": [
+    {
+      "image": "image_001.jpg",
+      "seconds": 17.63,
+      "regions": 1
+    },
+    {
+      "image": "image_002.jpg",
+      "seconds": 11.356,
+      "regions": 1
+    },
+    {
+      "image": "image_003.jpg",
+      "seconds": 13.433,
+      "regions": 1
+    },
+    {
+      "image": "image_004.jpg",
+      "seconds": 12.731,
+      "regions": 1
+    },
+    {
+      "image": "image_005.jpg",
+      "seconds": 37.298,
+      "regions": 1
+    },
+    {
+      "image": "image_006.jpg",
+      "seconds": 39.394,
+      "regions": 1
+    },
+    {
+      "image": "image_007.jpg",
+      "seconds": 16.506,
+      "regions": 1
+    },
+    {
+      "image": "image_008.jpg",
+      "seconds": 12.761,
+      "regions": 1
+    },
+    {
+      "image": "image_009.jpg",
+      "seconds": 14.096,
+      "regions": 1
+    },
+    {
+      "image": "image_010.jpg",
+      "seconds": 17.311,
+      "regions": 1
+    },
+    {
+      "image": "image_011.jpg",
+      "seconds": 5.002,
+      "regions": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+## FINANCIAL REPORT SALES
+
+## DATA ANALYSIS TABLE
+
+Sales data analysis table
+
+<table border=1><tr><td></td><td>January</td><td>February</td><td>March</td><td>April</td><td>May</td><td>June</td><td>July</td><td>August</td><td>September</td><td>October</td><td>November</td><td>December</td><td>total</td></tr><tr><td>sales target</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>12000</td></tr><tr><td>sales</td><td>1299</td><td>1132</td><td>1911</td><td>1237</td><td>1876</td><td>1016</td><td>897</td><td>1770</td><td>678</td><td>1746</td><td>1297</td><td>1762</td><td>16621</td></tr><tr><td>Completion rate</td><td>129.90%</td><td>113.20%</td><td>191.10%</td><td>123.70%</td><td>######</td><td>######</td><td>89.70%</td><td>177.00%</td><td>67.80%</td><td>174.60%</td><td>129.70%</td><td>176.20%</td><td>138.51%</td></tr><tr><td>Views</td><td>46966</td><td>49886</td><td>30251</td><td>45651</td><td>27345</td><td>32071</td><td>24885</td><td>5957</td><td>16946</td><td>49384</td><td>19530</td><td>21306</td><td>370178</td></tr><tr><td>turnover</td><td>4828</td><td>1286</td><td>2234</td><td>3953</td><td>1659</td><td>1332</td><td>2074</td><td>3696</td><td>4994</td><td>4117</td><td>3742</td><td>4408</td><td>38323</td></tr><tr><td>Conversion rate</td><td>10.28%</td><td>2.58%</td><td>7.38%</td><td>8.66%</td><td>6.07%</td><td>4.15%</td><td>8.33%</td><td>62.04%</td><td>29.47%</td><td>8.34%</td><td>19.16%</td><td>20.69%</td><td>10.35%</td></tr><tr><td>Customer price</td><td>0.27</td><td>0.88</td><td>0.86</td><td>0.31</td><td>1.13</td><td>0.76</td><td>0.43</td><td>0.48</td><td>0.14</td><td>0.42</td><td>0.35</td><td>0.40</td><td>0.43</td></tr><tr><td>promotion fee</td><td>73</td><td>47</td><td>34</td><td>67</td><td>31</td><td>58</td><td>35</td><td>79</td><td>77</td><td>61</td><td>75</td><td>90</td><td>727</td></tr><tr><td>Expense rate</td><td>5.62%</td><td>4.15%</td><td>1.78%</td><td>5.42%</td><td>1.65%</td><td>5.71%</td><td>3.90%</td><td>4.46%</td><td>11.36%</td><td>3.49%</td><td>5.78%</td><td>5.11%</td><td>4.37%</td></tr></table>
+
+Metrics Complete Analysis
+
+Customer Conversion Analysis
+
+Customer unit price analysis
+
+Promotion cost analysis

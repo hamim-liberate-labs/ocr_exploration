@@ -1,0 +1,22 @@
+<div style="text-align: center;">GENERAL EMPLOYEMENT APPLICATION</div>
+
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="6">PERSONAL INFORMATION</td></tr><tr><td colspan="2">NAME
+John Smith</td><td style='text-align: center; word-wrap: break-word;'>DATE OF BIRTH
+mm/dd/yyyy</td><td colspan="3">SOCIAL SECURITY NUMBER
+&lt;Social Security Number&gt;</td></tr><tr><td colspan="6">ADDRESS (number, street, building)
+8213 Lakeview Drive</td></tr><tr><td colspan="2">CITY
+Schenectady</td><td colspan="2">STATE
+New York</td><td colspan="2">ZIP CODE
+12302</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>PHONE 1
+&lt;Phone Number&gt;</td><td style='text-align: center; word-wrap: break-word;'>PHONE 2
+&lt;Phone Number&gt;</td><td colspan="4">EMAIL ADDRESS
+johnsmith@domain.com</td></tr><tr><td colspan="6">Have you ever been convicted of a crime other than a minor traffic incident? ☐ Yes ☑ No
+If Yes, please explain:
+Not applicable</td></tr><tr><td colspan="6">DESIRED EMPLOYMENT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>EMPLOYMENT TYPE
+☑ Full Time ☐ Part Time</td><td colspan="2">POSITION APPLYING FOR
+Graphic Designer</td><td style='text-align: center; word-wrap: break-word;'>DESIRED SALARY
+$800/month</td><td colspan="2">DATE YOU CAN START
+mm/dd/yyyy</td></tr><tr><td colspan="6">EDUCATION (starting from the latest)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>School</td><td colspan="2">Location</td><td style='text-align: center; word-wrap: break-word;'>Date Graduated</td><td colspan="2">Attainment</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>&lt;School&gt;</td><td colspan="2">&lt;Location&gt;</td><td style='text-align: center; word-wrap: break-word;'>mm/dd/yyyy</td><td colspan="2">&lt;Attainment&gt;</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td></tr><tr><td colspan="6">WORK EXPERIENCE</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Company Name</td><td colspan="2">Period</td><td style='text-align: center; word-wrap: break-word;'>Position</td><td colspan="2">Reason for Leaving</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>&lt;Company Name&gt;</td><td style='text-align: center; word-wrap: break-word;'>&lt;YYYY&gt;</td><td style='text-align: center; word-wrap: break-word;'>&lt;YYYY&gt;</td><td style='text-align: center; word-wrap: break-word;'>&lt;Position&gt;</td><td colspan="2">&lt;Reason for Leaving&gt;</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td colspan="2"></td></tr><tr><td colspan="6">May we contact your present employer? ☑ Yes ☐ No If No, why? ________
+IF Yes, name of Supervisor: Kelly Carter Contact Number: &lt;Telephone No.&gt;</td></tr><tr><td colspan="6">MAJOR SKILLS</td></tr><tr><td colspan="6">- MS Office - AUTOCAD - Adobe Illustrator - Adobe Photoshop - Rendering Pro</td></tr><tr><td colspan="6">I certify that the information contained in this application is accurate and correct. I understand that any omission or erroneous may be ground for dismissal.</td></tr><tr><td colspan="2">SIGNATURE</td><td colspan="4">DATE</td></tr></table>

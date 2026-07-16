@@ -1,0 +1,339 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/agenda_09.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 783,
+    "height": 855,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "TEAM MEETING AGENDA TEMPLATE EXAMPLE",
+            "block_bbox": [
+                16,
+                6,
+                759,
+                41
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    16.0,
+                    6.0
+                ],
+                [
+                    759.0,
+                    6.0
+                ],
+                [
+                    759.0,
+                    41.0
+                ],
+                [
+                    16.0,
+                    41.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Thursday, November 11</td><td colspan=\"2\">Conference Room 1A</td></tr><tr><td colspan=\"2\">MEETING TITLE</td><td>START TIME END TIME</td></tr><tr><td colspan=\"2\">November Team Meeting</td><td>10:30 AM 12:30 PM</td></tr><tr><td colspan=\"2\">TEAM NAME</td><td>FACILITATOR</td></tr><tr><td colspan=\"2\">Project Team A</td><td>Jeff P.</td></tr></table>",
+            "block_bbox": [
+                13,
+                64,
+                775,
+                193
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    13.0,
+                    64.0
+                ],
+                [
+                    775.0,
+                    64.0
+                ],
+                [
+                    775.0,
+                    193.0
+                ],
+                [
+                    13.0,
+                    193.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Matthew B.</td><td>Sarah C.</td><td>Kelsey C.</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+            "block_bbox": [
+                13,
+                218,
+                773,
+                265
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    13.000012397766113,
+                    222.99996948242188
+                ],
+                [
+                    772.0,
+                    218.0
+                ],
+                [
+                    772.3030395507812,
+                    263.9980163574219
+                ],
+                [
+                    13.30303955078125,
+                    268.99798583984375
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "AGENDA",
+            "block_bbox": [
+                16,
+                270,
+                105,
+                289
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    16.0,
+                    270.0
+                ],
+                [
+                    104.0,
+                    270.0
+                ],
+                [
+                    104.0,
+                    288.0
+                ],
+                [
+                    16.0,
+                    288.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>CONTENT</td><td>TO BE PRESENTED BY</td><td>START TIME</td><td>DURATION</td></tr><tr><td>1. Purpose of Meeting and Objectives</td><td></td><td>10:30 AM</td><td>0:05</td></tr><tr><td>2. Assign Minute Taker and Timekeeper; Define Roles</td><td></td><td>10:35 AM</td><td>0:05</td></tr><tr><td>a. Minute Taker: [Name]</td><td></td><td></td><td></td></tr><tr><td>b. Timekeeper: [Name]</td><td></td><td></td><td></td></tr><tr><td>3. Review Prior Action Item List</td><td></td><td></td><td></td></tr><tr><td>4. Agenda Items</td><td></td><td>10:40 AM</td><td>0:20</td></tr><tr><td>a. Action Item</td><td></td><td>11:00 AM</td><td>1:00</td></tr><tr><td>i. Item Terms</td><td></td><td></td><td></td></tr><tr><td>ii. Item Description</td><td></td><td></td><td></td></tr><tr><td>iii. Item Participants</td><td></td><td></td><td></td></tr><tr><td>b. Action Item</td><td></td><td></td><td></td></tr><tr><td>i. Item Terms</td><td></td><td></td><td></td></tr><tr><td>ii. Item Description</td><td></td><td></td><td></td></tr><tr><td>iii. Item Participants</td><td></td><td></td><td></td></tr><tr><td>c. Action Item</td><td></td><td></td><td></td></tr><tr><td>i. Item Terms</td><td></td><td></td><td></td></tr><tr><td>ii. Item Description</td><td></td><td></td><td></td></tr><tr><td>iii. Item Participants</td><td></td><td></td><td></td></tr><tr><td>5. Review of New Action Items&#x27; Terms and Descriptions</td><td></td><td>12:00 PM</td><td>0:10</td></tr><tr><td>6. Proposals for Next Meeting Agenda</td><td></td><td>12:10 PM</td><td>0:10</td></tr><tr><td>7. Evaluation of Current Meeting</td><td></td><td>12:20 PM</td><td>0:10</td></tr><tr><td>8. Adjournment</td><td></td><td>12:30 PM</td><td></td></tr></table>",
+            "block_bbox": [
+                12,
+                292,
+                774,
+                845
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    12.0,
+                    292.0
+                ],
+                [
+                    774.0,
+                    292.0
+                ],
+                [
+                    774.0,
+                    845.0
+                ],
+                [
+                    12.0,
+                    845.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.84535151720047,
+                "coordinate": [
+                    16,
+                    6,
+                    759,
+                    41
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        16.0,
+                        6.0
+                    ],
+                    [
+                        759.0,
+                        6.0
+                    ],
+                    [
+                        759.0,
+                        41.0
+                    ],
+                    [
+                        16.0,
+                        41.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.7967827916145325,
+                "coordinate": [
+                    13,
+                    64,
+                    775,
+                    193
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        13.0,
+                        64.0
+                    ],
+                    [
+                        775.0,
+                        64.0
+                    ],
+                    [
+                        775.0,
+                        193.0
+                    ],
+                    [
+                        13.0,
+                        193.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8762722611427307,
+                "coordinate": [
+                    13,
+                    218,
+                    773,
+                    265
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        13.000012397766113,
+                        222.99996948242188
+                    ],
+                    [
+                        772.0,
+                        218.0
+                    ],
+                    [
+                        772.3030395507812,
+                        263.9980163574219
+                    ],
+                    [
+                        13.30303955078125,
+                        268.99798583984375
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.30198678374290466,
+                "coordinate": [
+                    16,
+                    270,
+                    105,
+                    289
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        16.0,
+                        270.0
+                    ],
+                    [
+                        104.0,
+                        270.0
+                    ],
+                    [
+                        104.0,
+                        288.0
+                    ],
+                    [
+                        16.0,
+                        288.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.971068263053894,
+                "coordinate": [
+                    12,
+                    292,
+                    774,
+                    845
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        12.0,
+                        292.0
+                    ],
+                    [
+                        774.0,
+                        292.0
+                    ],
+                    [
+                        774.0,
+                        845.0
+                    ],
+                    [
+                        12.0,
+                        845.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

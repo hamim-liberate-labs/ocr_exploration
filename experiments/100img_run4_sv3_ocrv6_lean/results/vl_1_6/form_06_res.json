@@ -1,0 +1,125 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_06.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 800,
+    "height": 1035,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>FOR REGISTRAR&#x27;S OFFICE USE ONLY</td></tr></table>",
+            "block_bbox": [
+                21,
+                56,
+                779,
+                1022
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    21.0,
+                    56.0
+                ],
+                [
+                    779.0,
+                    56.0
+                ],
+                [
+                    779.0,
+                    1022.0
+                ],
+                [
+                    21.0,
+                    1022.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6213192939758301,
+                "coordinate": [
+                    151,
+                    45,
+                    514,
+                    108
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        151.0,
+                        45.0
+                    ],
+                    [
+                        514.0,
+                        45.0
+                    ],
+                    [
+                        514.0,
+                        108.0
+                    ],
+                    [
+                        151.0,
+                        108.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9367759823799133,
+                "coordinate": [
+                    21,
+                    56,
+                    779,
+                    1022
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        21.0,
+                        56.0
+                    ],
+                    [
+                        779.0,
+                        56.0
+                    ],
+                    [
+                        779.0,
+                        1022.0
+                    ],
+                    [
+                        21.0,
+                        1022.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

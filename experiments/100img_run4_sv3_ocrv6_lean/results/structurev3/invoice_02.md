@@ -1,0 +1,8 @@
+<div style="text-align: center;">INVOICE </div>
+
+
+
+<div style="text-align: center;"><html><body><table border="1"><tbody><tr><td colspan="5"></td></tr><tr><td>BILL TO</td><td colspan="4">BILL TO INVOICE # INVOICE DATE</td></tr><tr><td></td><td colspan="4"></td></tr><tr><td>DUE DATE</td><td colspan="4"></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DESCRIPTION UNIT COST QTY TOTAL</td><td>UNIT COST</td><td>QTY</td><td>TOTAL</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPECIAL NOTES</td><td>SPECIAL NOTES SUB TOTAL TAX AMOUNT DUE</td><td></td><td>TAX</td><td></td></tr><tr><td></td><td>AMOUNT DUE</td><td></td><td></td><td></td></tr><tr><td colspan="5"></td></tr><tr><td colspan="5"></td></tr><tr><td colspan="5" rowspan="3"></td></tr><tr><td rowspan="3"></td></tr><tr><td rowspan="2">BILLED FROM PAYMENT METHODS</td></tr><tr><td></td></tr><tr><td colspan="5"></td></tr><tr><td></td><td colspan="4"></td></tr><tr><td colspan="4"></td></tr><tr><td colspan="4"></td></tr><tr><td colspan="4"></td></tr></tbody></table></body></html></div>
+
+
+<div style="text-align: center;">THANK YOU </div>

@@ -1,0 +1,461 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_16.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1700,
+    "height": 2200,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "PSC.2 REVISED 2007",
+            "block_bbox": [
+                140,
+                72,
+                372,
+                101
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    140.0,
+                    72.0
+                ],
+                [
+                    372.0,
+                    72.0
+                ],
+                [
+                    372.0,
+                    101.0
+                ],
+                [
+                    140.0,
+                    101.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "REPUBLIC OF KENYA",
+            "block_bbox": [
+                778,
+                154,
+                1034,
+                185
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    778.0,
+                    154.0
+                ],
+                [
+                    1034.0,
+                    154.0
+                ],
+                [
+                    1034.0,
+                    185.0
+                ],
+                [
+                    778.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                818,
+                164,
+                986,
+                344
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    818.0,
+                    164.0
+                ],
+                [
+                    986.0,
+                    164.0
+                ],
+                [
+                    986.0,
+                    344.0
+                ],
+                [
+                    818.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "PUBLIC SERVICE COMMISSION OF KENYA",
+            "block_bbox": [
+                596,
+                374,
+                1216,
+                414
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    596.0,
+                    374.0
+                ],
+                [
+                    1216.0,
+                    374.0
+                ],
+                [
+                    1216.0,
+                    414.0
+                ],
+                [
+                    596.0,
+                    414.0
+                ]
+            ]
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "APPLICATION FOR EMPLOYMENT FORM",
+            "block_bbox": [
+                480,
+                447,
+                1328,
+                497
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    480.0,
+                    447.0
+                ],
+                [
+                    1328.0,
+                    447.0
+                ],
+                [
+                    1328.0,
+                    497.0
+                ],
+                [
+                    480.0,
+                    497.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Please complete this form in BLOCK letters as appropriate and submit to the Secretary, Public Service Commission of Kenya, P.O.BOX 30095, 00100 NAIROBI, KENYA, or apply On-line via the Commission's Website www.publicservice.go.ke or www.psckjobs.go.ke",
+            "block_bbox": [
+                157,
+                543,
+                1556,
+                669
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    157.0,
+                    543.0
+                ],
+                [
+                    1556.0,
+                    543.0
+                ],
+                [
+                    1556.0,
+                    669.0
+                ],
+                [
+                    157.0,
+                    669.0
+                ]
+            ]
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                132,
+                542,
+                1561,
+                2139
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    132.0,
+                    542.0
+                ],
+                [
+                    1561.0,
+                    542.0
+                ],
+                [
+                    1561.0,
+                    2139.0
+                ],
+                [
+                    132.0,
+                    2139.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8288392424583435,
+                "coordinate": [
+                    140,
+                    72,
+                    372,
+                    101
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        140.0,
+                        72.0
+                    ],
+                    [
+                        372.0,
+                        72.0
+                    ],
+                    [
+                        372.0,
+                        101.0
+                    ],
+                    [
+                        140.0,
+                        101.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5992460250854492,
+                "coordinate": [
+                    778,
+                    154,
+                    1034,
+                    185
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        778.0,
+                        154.0
+                    ],
+                    [
+                        1034.0,
+                        154.0
+                    ],
+                    [
+                        1034.0,
+                        185.0
+                    ],
+                    [
+                        778.0,
+                        185.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7173898816108704,
+                "coordinate": [
+                    818,
+                    164,
+                    986,
+                    344
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        818.0,
+                        164.0
+                    ],
+                    [
+                        986.0,
+                        164.0
+                    ],
+                    [
+                        986.0,
+                        344.0
+                    ],
+                    [
+                        818.0,
+                        344.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8152005672454834,
+                "coordinate": [
+                    596,
+                    374,
+                    1216,
+                    414
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        596.0,
+                        374.0
+                    ],
+                    [
+                        1216.0,
+                        374.0
+                    ],
+                    [
+                        1216.0,
+                        414.0
+                    ],
+                    [
+                        596.0,
+                        414.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8115437626838684,
+                "coordinate": [
+                    480,
+                    447,
+                    1328,
+                    497
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        480.0,
+                        447.0
+                    ],
+                    [
+                        1328.0,
+                        447.0
+                    ],
+                    [
+                        1328.0,
+                        497.0
+                    ],
+                    [
+                        480.0,
+                        497.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7189071178436279,
+                "coordinate": [
+                    157,
+                    543,
+                    1556,
+                    669
+                ],
+                "order": 3,
+                "polygon_points": [
+                    [
+                        157.0,
+                        543.0
+                    ],
+                    [
+                        1556.0,
+                        543.0
+                    ],
+                    [
+                        1556.0,
+                        669.0
+                    ],
+                    [
+                        157.0,
+                        669.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.4269062876701355,
+                "coordinate": [
+                    132,
+                    542,
+                    1561,
+                    2139
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        132.0,
+                        542.0
+                    ],
+                    [
+                        1561.0,
+                        542.0
+                    ],
+                    [
+                        1561.0,
+                        2139.0
+                    ],
+                    [
+                        132.0,
+                        2139.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

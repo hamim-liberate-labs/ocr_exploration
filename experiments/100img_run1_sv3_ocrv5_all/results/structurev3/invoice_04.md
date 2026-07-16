@@ -1,0 +1,6 @@
+## INVOICE 
+
+Invoice No.1234-Date:24/12/2020
+
+
+<div style="text-align: center;"><html><body><table border="1"><tbody><tr><td colspan="4">BILL TO SHIP TO</td></tr><tr><td colspan="4">Company Name Company Name Address Address City, State, Zip Code City, State, Zip Code</td></tr><tr><td colspan="4"></td></tr><tr><td>QTY</td><td>DESCRIPTION</td><td>UNITPRICE</td><td>TOTAL</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td colspan="4"></td></tr><tr><td rowspan="3">Thank You SUB TOTAL TAX GRAND TOTAL</td><td rowspan="3"></td><td></td><td></td></tr><tr><td>GRAND TOTAL</td><td></td></tr><tr><td></td><td></td></tr></tbody></table></body></html></div>

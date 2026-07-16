@@ -1,0 +1,19 @@
+## SCHOOL AGENDA
+
+NAME: Jane Halloway
+
+WEEK: March 6, 2022 - March 12, 2022
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>PRIORITY TASKS</td><td style='text-align: center; word-wrap: break-word;'>DEADLINE</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>○ Give group presentation</td><td style='text-align: center; word-wrap: break-word;'>March 8, 2022</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>○ Finish Math homework</td><td style='text-align: center; word-wrap: break-word;'>March 10, 2022</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>○ Submit group thesis</td><td style='text-align: center; word-wrap: break-word;'>March 11, 2022</td></tr></table>
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>DAY</td><td style='text-align: center; word-wrap: break-word;'>DATE</td><td style='text-align: center; word-wrap: break-word;'>TO DO</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Sunday</td><td style='text-align: center; word-wrap: break-word;'>March 6, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ Prepare school bag\n○ Plan tasks for the week</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Monday</td><td style='text-align: center; word-wrap: break-word;'>March 7, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ Review Science lecture\n○ Study 20 pages History Lecture</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tuesday</td><td style='text-align: center; word-wrap: break-word;'>March 8, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ Science lecture quiz\n○ Plan tasks for the week</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Wednesday</td><td style='text-align: center; word-wrap: break-word;'>March 9, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ Review 20 pages History lecture\n○ Audition for dance troupe</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Thursday</td><td style='text-align: center; word-wrap: break-word;'>March 10, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ Submit Math homework\n○ Finalize thesis with group mates</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Friday</td><td style='text-align: center; word-wrap: break-word;'>March 11, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ History lecture quiz\n○ Submit group thesis</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Saturday</td><td style='text-align: center; word-wrap: break-word;'>March 12, 2022</td><td style='text-align: center; word-wrap: break-word;'>○ Volunteer at animal shelter\n○ Buy school supplies</td></tr></table>
+
+## NOTES
+
+1. Set the school supply budget to $25.00
+
+2. Review the references in thesis
+
+3. Confirm the history quiz coverage with Mr. Smith

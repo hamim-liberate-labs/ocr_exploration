@@ -1,0 +1,491 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_09.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1200,
+    "height": 806,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "MONTHLY FINANCIAL\nANALYSIS REPORT DOCUMENT",
+            "block_bbox": [
+                106,
+                129,
+                1088,
+                301
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    106.0,
+                    129.0
+                ],
+                [
+                    1088.0,
+                    129.0
+                ],
+                [
+                    1088.0,
+                    301.0
+                ],
+                [
+                    106.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Financial Expense Analysis Form",
+            "block_bbox": [
+                220,
+                378,
+                472,
+                398
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    220.0,
+                    378.0
+                ],
+                [
+                    471.0,
+                    378.0
+                ],
+                [
+                    471.0,
+                    397.0
+                ],
+                [
+                    220.0,
+                    397.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td></td><td colspan=\"2\">January</td><td colspan=\"2\">February</td><td colspan=\"2\">March</td><td colspan=\"2\">April</td><td colspan=\"2\">June</td><td colspan=\"2\">July</td><td colspan=\"2\">August</td><td colspan=\"2\">September</td><td colspan=\"2\">October</td><td colspan=\"2\">November</td><td colspan=\"2\">December</td><td>total</td><td>minimum value</td><td>maximum value</td><td>auillary 2</td><td>auillary 2</td><td>auillary 2</td><td>auillary 2</td><td>auillary 4</td><td></td></tr><tr><td>management fee</td><td>16</td><td>16</td><td>16</td><td>15</td><td>18</td><td>18</td><td>15</td><td>20</td><td>20</td><td>20</td><td>17</td><td>18</td><td>18</td><td>19</td><td>15</td><td>207</td><td>15</td><td>20</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Marketing costs</td><td>18</td><td>18</td><td>19</td><td>16</td><td>18</td><td>16</td><td>18</td><td>16</td><td>15</td><td>15</td><td>18</td><td>18</td><td>18</td><td>20</td><td>19</td><td>210</td><td>15</td><td>20</td><td>20</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Costs of hosting</td><td>25</td><td>22</td><td>20</td><td>23</td><td>24</td><td>22</td><td>20</td><td>20</td><td>21</td><td>21</td><td>21</td><td>25</td><td>22</td><td>21</td><td>266</td><td>20</td><td>25</td><td>20</td><td>0</td><td>20</td><td>0</td><td>20</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Shipping fee</td><td>25</td><td>25</td><td>25</td><td>30</td><td>28</td><td>28</td><td>28</td><td>27</td><td>27</td><td>27</td><td>27</td><td>29</td><td>30</td><td>28</td><td>329</td><td>25</td><td>30</td><td>30</td><td>0</td><td>25</td><td>0</td><td>25</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>transportation expense</td><td>34</td><td>30</td><td>31</td><td>32</td><td>33</td><td>35</td><td>31</td><td>31</td><td>31</td><td>30</td><td>34</td><td>35</td><td>32</td><td>388</td><td>30</td><td>35</td><td>35</td><td>0</td><td>30</td><td>0</td><td>30</td><td>0</td><td>30</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>R &amp; D costs</td><td>35</td><td>37</td><td>37</td><td>38</td><td>36</td><td>39</td><td>36</td><td>35</td><td>39</td><td>38</td><td>38</td><td>38</td><td>35</td><td>443</td><td>35</td><td>39</td><td>35</td><td>0</td><td>39</td><td>0</td><td>35</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>communication fee</td><td>40</td><td>48</td><td>42</td><td>46</td><td>41</td><td>41</td><td>43</td><td>46</td><td>47</td><td>41</td><td>47</td><td>47</td><td>48</td><td>530</td><td>40</td><td>48</td><td>40</td><td>0</td><td>40</td><td>0</td><td>40</td><td>0</td><td>40</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Finance fee</td><td>25</td><td>23</td><td>41</td><td>28</td><td>37</td><td>20</td><td>27</td><td>40</td><td>24</td><td>33</td><td>35</td><td>35</td><td>36</td><td>369</td><td>20</td><td>41</td><td>0</td><td>0</td><td>20</td><td>0</td><td>20</td><td>0</td><td>20</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>labor insurance</td><td>37</td><td>25</td><td>26</td><td>50</td><td>42</td><td>33</td><td>36</td><td>42</td><td>33</td><td>38</td><td>33</td><td>33</td><td>29</td><td>424</td><td>25</td><td>50</td><td>0</td><td>0</td><td>25</td><td>25</td><td>25</td><td>50</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>office supplies</td><td>42</td><td>48</td><td>35</td><td>46</td><td>27</td><td>20</td><td>29</td><td>24</td><td>22</td><td>25</td><td>25</td><td>32</td><td>375</td><td>20</td><td>48</td><td>0</td><td>0</td><td>20</td><td>20</td><td>28</td><td>50</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>total</td><td>297</td><td>292</td><td>291</td><td>327</td><td>304</td><td>269</td><td>284</td><td>301</td><td>278</td><td>299</td><td>304</td><td>295</td><td>3541</td><td>298</td><td>177</td><td>0</td><td>0</td><td>269</td><td>58</td><td>327</td><td>48</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>",
+            "block_bbox": [
+                128,
+                403,
+                765,
+                547
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    128.0,
+                    403.0
+                ],
+                [
+                    765.0,
+                    403.0
+                ],
+                [
+                    765.0,
+                    547.0
+                ],
+                [
+                    128.0,
+                    547.0
+                ]
+            ]
+        },
+        {
+            "block_label": "chart",
+            "block_content": "",
+            "block_bbox": [
+                133,
+                551,
+                351,
+                687
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    133.0,
+                    551.0
+                ],
+                [
+                    351.0,
+                    551.0
+                ],
+                [
+                    351.0,
+                    687.0
+                ],
+                [
+                    133.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "block_label": "chart",
+            "block_content": "",
+            "block_bbox": [
+                354,
+                552,
+                559,
+                686
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    354.0,
+                    552.0
+                ],
+                [
+                    559.0,
+                    552.0
+                ],
+                [
+                    559.0,
+                    686.0
+                ],
+                [
+                    354.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>January</td><td>1</td></tr><tr><td colspan=\"2\">February</td></tr><tr><td colspan=\"2\">March</td></tr><tr><td colspan=\"2\">April</td></tr><tr><td colspan=\"2\">May</td></tr><tr><td colspan=\"2\">June</td></tr><tr><td colspan=\"2\">July</td></tr><tr><td colspan=\"2\">August</td></tr><tr><td colspan=\"2\">September</td></tr><tr><td colspan=\"2\">October</td></tr><tr><td colspan=\"2\">November</td></tr><tr><td colspan=\"2\">December</td></tr></table>",
+            "block_bbox": [
+                998,
+                399,
+                1069,
+                645
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    998.0,
+                    399.0
+                ],
+                [
+                    1068.0,
+                    399.0
+                ],
+                [
+                    1068.0,
+                    548.0
+                ],
+                [
+                    998.0,
+                    548.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>management fee</td></tr><tr><td>Marketing costs</td></tr><tr><td>Costs of hosting</td></tr><tr><td>Shipping fee</td></tr><tr><td>transportation expenses</td></tr><tr><td># &amp; D costs</td></tr><tr><td>communication fee</td></tr><tr><td>Finance fee</td></tr><tr><td>labor insurance</td></tr><tr><td>office supplies</td></tr><tr><td>total</td></tr></table>",
+            "block_bbox": [
+                1000,
+                553,
+                1068,
+                644
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    1000.0,
+                    553.0
+                ],
+                [
+                    1068.0,
+                    553.0
+                ],
+                [
+                    1068.0,
+                    644.0
+                ],
+                [
+                    1000.0,
+                    644.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7547118663787842,
+                "coordinate": [
+                    106,
+                    129,
+                    1088,
+                    301
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        106.0,
+                        129.0
+                    ],
+                    [
+                        1088.0,
+                        129.0
+                    ],
+                    [
+                        1088.0,
+                        301.0
+                    ],
+                    [
+                        106.0,
+                        301.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7942593097686768,
+                "coordinate": [
+                    220,
+                    378,
+                    472,
+                    398
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        220.0,
+                        378.0
+                    ],
+                    [
+                        471.0,
+                        378.0
+                    ],
+                    [
+                        471.0,
+                        397.0
+                    ],
+                    [
+                        220.0,
+                        397.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9443637728691101,
+                "coordinate": [
+                    128,
+                    403,
+                    765,
+                    547
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        128.0,
+                        403.0
+                    ],
+                    [
+                        765.0,
+                        403.0
+                    ],
+                    [
+                        765.0,
+                        547.0
+                    ],
+                    [
+                        128.0,
+                        547.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9265791177749634,
+                "coordinate": [
+                    133,
+                    551,
+                    351,
+                    687
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        133.0,
+                        551.0
+                    ],
+                    [
+                        351.0,
+                        551.0
+                    ],
+                    [
+                        351.0,
+                        687.0
+                    ],
+                    [
+                        133.0,
+                        687.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9237480759620667,
+                "coordinate": [
+                    354,
+                    552,
+                    559,
+                    686
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        354.0,
+                        552.0
+                    ],
+                    [
+                        559.0,
+                        552.0
+                    ],
+                    [
+                        559.0,
+                        686.0
+                    ],
+                    [
+                        354.0,
+                        686.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.39725786447525024,
+                "coordinate": [
+                    998,
+                    399,
+                    1069,
+                    645
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        998.0,
+                        399.0
+                    ],
+                    [
+                        1068.0,
+                        399.0
+                    ],
+                    [
+                        1068.0,
+                        548.0
+                    ],
+                    [
+                        998.0,
+                        548.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.6927086710929871,
+                "coordinate": [
+                    999,
+                    403,
+                    1068,
+                    547
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        999.0,
+                        403.0
+                    ],
+                    [
+                        1068.0,
+                        403.0
+                    ],
+                    [
+                        1068.0,
+                        547.0
+                    ],
+                    [
+                        999.0,
+                        547.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.6720030903816223,
+                "coordinate": [
+                    1000,
+                    553,
+                    1068,
+                    644
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        1000.0,
+                        553.0
+                    ],
+                    [
+                        1068.0,
+                        553.0
+                    ],
+                    [
+                        1068.0,
+                        644.0
+                    ],
+                    [
+                        1000.0,
+                        644.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

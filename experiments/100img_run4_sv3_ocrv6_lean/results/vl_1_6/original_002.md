@@ -1,0 +1,8 @@
+# 1:1 Meeting Agenda
+
+# Weekly Check-in: June 1
+
+Let's start with a mood check!
+
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>SARAH</td><td style='text-align: center; word-wrap: break-word;'>JIN</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Add an emoji or GIF</td><td style='text-align: center; word-wrap: break-word;'>Add an emoji or GIF</td></tr><tr><td colspan="2">Let&#x27;s go through our agenda items for the day</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Wins From Last Week</td><td style='text-align: center; word-wrap: break-word;'>• Enumerate the positive things that you accomplished last week\n• Share any good news as well</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Priorities This Week</td><td style='text-align: center; word-wrap: break-word;'>☐ Write down the things that you&#x27;ll work on\n☐ List as many items as needed</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Concerns</td><td style='text-align: center; word-wrap: break-word;'>• Identify your blockers or challenges for this week\n• It can be about a project issue or workload capacity</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Support Needed</td><td style='text-align: center; word-wrap: break-word;'>• Elaborate on how your coach or mentor can help with your concerns\n• Note down any other information they may need to support you</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Questions and Feedback</td><td style='text-align: center; word-wrap: break-word;'>• Clarify any uncertainties\n• Share any feedback about anything or anyone</td></tr></table>

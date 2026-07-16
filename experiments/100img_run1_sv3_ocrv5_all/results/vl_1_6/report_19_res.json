@@ -1,0 +1,156 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_19.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 947,
+    "height": 734,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "REPORTS ON FINANCES AND SALES",
+            "block_bbox": [
+                96,
+                101,
+                849,
+                242
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    96.0,
+                    101.0
+                ],
+                [
+                    849.0,
+                    101.0
+                ],
+                [
+                    849.0,
+                    242.0
+                ],
+                [
+                    96.0,
+                    242.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Year</td><td>Month</td><td>Total Revenue ($)</td><td>Expenses ($)</td><td>Gross Profit ($)</td><td>Net Profit ($)</td><td>Sales Quantity</td></tr><tr><td>2020</td><td>Jan</td><td>$50,000</td><td>$25,000</td><td>$25,000</td><td>$15,000</td><td>500</td></tr><tr><td>2020</td><td>Feb</td><td>$45,000</td><td>$23,000</td><td>$22,000</td><td>$13,000</td><td>550</td></tr><tr><td>2020</td><td>Mar</td><td>$60,000</td><td>$30,000</td><td>$30,000</td><td>$18,000</td><td>700</td></tr><tr><td>2020</td><td>Apr</td><td>$55,000</td><td>$28,000</td><td>$27,000</td><td>$16,000</td><td>600</td></tr><tr><td>2020</td><td>May</td><td>$70,000</td><td>$35,000</td><td>$35,000</td><td>$21,000</td><td>800</td></tr><tr><td>2020</td><td>Jun</td><td>$65,000</td><td>$32,000</td><td>$33,000</td><td>$19,000</td><td>750</td></tr><tr><td>2020</td><td>Jul</td><td>$72,000</td><td>$36,000</td><td>$36,000</td><td>$22,000</td><td>850</td></tr><tr><td>2020</td><td>Aug</td><td>$68,000</td><td>$34,000</td><td>$34,000</td><td>$20,000</td><td>800</td></tr><tr><td>2020</td><td>Sep</td><td>$75,000</td><td>$37,000</td><td>$38,000</td><td>$23,000</td><td>900</td></tr><tr><td>2020</td><td>Oct</td><td>$80,000</td><td>$40,000</td><td>$40,000</td><td>$25,000</td><td>950</td></tr><tr><td>2020</td><td>Nov</td><td>$85,000</td><td>$42,000</td><td>$43,000</td><td>$26,000</td><td>1,000</td></tr><tr><td>2020</td><td>Dec</td><td>$90,000</td><td>$45,000</td><td>$45,000</td><td>$28,000</td><td>1,100</td></tr><tr><td>2021</td><td>Jan</td><td>$55,000</td><td>$30,000</td><td>$25,000</td><td>$15,000</td><td>600</td></tr><tr><td>2021</td><td>Feb</td><td>$60,000</td><td>$32,000</td><td>$28,000</td><td>$17,000</td><td>650</td></tr><tr><td>2021</td><td>Mar</td><td>$65,000</td><td>$33,000</td><td>$32,000</td><td>$19,000</td><td>700</td></tr></table>",
+            "block_bbox": [
+                101,
+                302,
+                846,
+                641
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    101.0,
+                    302.0
+                ],
+                [
+                    846.0,
+                    302.0
+                ],
+                [
+                    846.0,
+                    641.0
+                ],
+                [
+                    101.0,
+                    641.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.3165239989757538,
+                "coordinate": [
+                    96,
+                    101,
+                    849,
+                    242
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        96.0,
+                        101.0
+                    ],
+                    [
+                        849.0,
+                        101.0
+                    ],
+                    [
+                        849.0,
+                        242.0
+                    ],
+                    [
+                        96.0,
+                        242.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9728360772132874,
+                "coordinate": [
+                    101,
+                    302,
+                    846,
+                    641
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        101.0,
+                        302.0
+                    ],
+                    [
+                        846.0,
+                        302.0
+                    ],
+                    [
+                        846.0,
+                        641.0
+                    ],
+                    [
+                        101.0,
+                        641.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

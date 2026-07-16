@@ -1,0 +1,705 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_16.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 868,
+    "height": 2200,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "BLUE SIMPLE FINANCIAL ANALYSIS REPORT",
+            "block_bbox": [
+                137,
+                90,
+                732,
+                229
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    137.0,
+                    90.0
+                ],
+                [
+                    732.0,
+                    90.0
+                ],
+                [
+                    732.0,
+                    229.0
+                ],
+                [
+                    137.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Income and Expenditure",
+            "block_bbox": [
+                90,
+                291,
+                735,
+                348
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    291.0
+                ],
+                [
+                    735.0,
+                    291.0
+                ],
+                [
+                    735.0,
+                    348.0
+                ],
+                [
+                    90.0,
+                    348.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>January</td><td>230000</td><td>200000</td><td>30000</td></tr><tr><td>February</td><td>200000</td><td>180000</td><td>20000</td></tr><tr><td>March</td><td>240000</td><td>210000</td><td>30000</td></tr><tr><td>April</td><td>250000</td><td>180000</td><td>70000</td></tr><tr><td>May</td><td>190000</td><td>160000</td><td>30000</td></tr><tr><td>June</td><td>248000</td><td>190000</td><td>58000</td></tr><tr><td>July</td><td>150000</td><td>80000</td><td>70000</td></tr><tr><td>August</td><td>233000</td><td>210000</td><td>23000</td></tr><tr><td>September</td><td>110000</td><td>70000</td><td>40000</td></tr><tr><td>October</td><td>230000</td><td>200000</td><td>30000</td></tr><tr><td>November</td><td>240000</td><td>170000</td><td>70000</td></tr><tr><td>December</td><td>250000</td><td>140000</td><td>110000</td></tr><tr><td>total</td><td>2571000</td><td>1990000</td><td>581000</td></tr></table>",
+            "block_bbox": [
+                92,
+                356,
+                772,
+                915
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    356.0
+                ],
+                [
+                    772.0,
+                    356.0
+                ],
+                [
+                    772.0,
+                    915.0
+                ],
+                [
+                    92.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Annual financial revenue\nand expenditure statistical\nanalysis chart",
+            "block_bbox": [
+                142,
+                943,
+                472,
+                1070
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    142.0,
+                    943.0
+                ],
+                [
+                    472.0,
+                    943.0
+                ],
+                [
+                    472.0,
+                    1070.0
+                ],
+                [
+                    142.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "block_label": "chart",
+            "block_content": "",
+            "block_bbox": [
+                108,
+                1088,
+                497,
+                1324
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    108.0,
+                    1088.0
+                ],
+                [
+                    497.0,
+                    1088.0
+                ],
+                [
+                    497.0,
+                    1324.0
+                ],
+                [
+                    108.0,
+                    1324.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "MONTHLY NET\nPROFIT MARGIN",
+            "block_bbox": [
+                548,
+                946,
+                745,
+                1030
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "block_polygon_points": [
+                [
+                    548.0,
+                    946.0
+                ],
+                [
+                    745.0,
+                    946.0
+                ],
+                [
+                    745.0,
+                    1030.0
+                ],
+                [
+                    548.0,
+                    1030.0
+                ]
+            ]
+        },
+        {
+            "block_label": "chart",
+            "block_content": "",
+            "block_bbox": [
+                534,
+                1115,
+                654,
+                1247
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "block_polygon_points": [
+                [
+                    534.0,
+                    1115.0
+                ],
+                [
+                    654.0,
+                    1115.0
+                ],
+                [
+                    654.0,
+                    1247.0
+                ],
+                [
+                    534.0,
+                    1247.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "Monthly financial revenue and expenditure\nstatistical trend analysis",
+            "block_bbox": [
+                228,
+                1361,
+                753,
+                1447
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "block_polygon_points": [
+                [
+                    228.0,
+                    1361.0
+                ],
+                [
+                    753.0,
+                    1361.0
+                ],
+                [
+                    753.0,
+                    1447.0
+                ],
+                [
+                    228.0,
+                    1447.0
+                ]
+            ]
+        },
+        {
+            "block_label": "chart",
+            "block_content": "",
+            "block_bbox": [
+                114,
+                1458,
+                529,
+                1715
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    1458.0
+                ],
+                [
+                    529.0,
+                    1458.0
+                ],
+                [
+                    529.0,
+                    1715.0
+                ],
+                [
+                    114.0,
+                    1715.0
+                ]
+            ]
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "Annual financial income and expenditure",
+            "block_bbox": [
+                247,
+                1748,
+                752,
+                1787
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9,
+            "block_polygon_points": [
+                [
+                    247.0,
+                    1748.0
+                ],
+                [
+                    752.0,
+                    1748.0
+                ],
+                [
+                    752.0,
+                    1787.0
+                ],
+                [
+                    247.0,
+                    1787.0
+                ]
+            ]
+        },
+        {
+            "block_label": "chart",
+            "block_content": "",
+            "block_bbox": [
+                98,
+                1753,
+                770,
+                2111
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10,
+            "block_polygon_points": [
+                [
+                    98.0,
+                    1753.0
+                ],
+                [
+                    770.0,
+                    1753.0
+                ],
+                [
+                    770.0,
+                    2111.0
+                ],
+                [
+                    98.0,
+                    2111.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.41071265935897827,
+                "coordinate": [
+                    137,
+                    90,
+                    732,
+                    229
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        137.0,
+                        90.0
+                    ],
+                    [
+                        732.0,
+                        90.0
+                    ],
+                    [
+                        732.0,
+                        229.0
+                    ],
+                    [
+                        137.0,
+                        229.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5499213933944702,
+                "coordinate": [
+                    90,
+                    291,
+                    735,
+                    348
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        90.0,
+                        291.0
+                    ],
+                    [
+                        735.0,
+                        291.0
+                    ],
+                    [
+                        735.0,
+                        348.0
+                    ],
+                    [
+                        90.0,
+                        348.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9617212414741516,
+                "coordinate": [
+                    92,
+                    356,
+                    772,
+                    915
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        92.0,
+                        356.0
+                    ],
+                    [
+                        772.0,
+                        356.0
+                    ],
+                    [
+                        772.0,
+                        915.0
+                    ],
+                    [
+                        92.0,
+                        915.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8506277203559875,
+                "coordinate": [
+                    142,
+                    943,
+                    472,
+                    1070
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        142.0,
+                        943.0
+                    ],
+                    [
+                        472.0,
+                        943.0
+                    ],
+                    [
+                        472.0,
+                        1070.0
+                    ],
+                    [
+                        142.0,
+                        1070.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9016162753105164,
+                "coordinate": [
+                    108,
+                    1088,
+                    497,
+                    1324
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        108.0,
+                        1088.0
+                    ],
+                    [
+                        497.0,
+                        1088.0
+                    ],
+                    [
+                        497.0,
+                        1324.0
+                    ],
+                    [
+                        108.0,
+                        1324.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.3119245767593384,
+                "coordinate": [
+                    548,
+                    946,
+                    745,
+                    1030
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        548.0,
+                        946.0
+                    ],
+                    [
+                        745.0,
+                        946.0
+                    ],
+                    [
+                        745.0,
+                        1030.0
+                    ],
+                    [
+                        548.0,
+                        1030.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.7858920097351074,
+                "coordinate": [
+                    534,
+                    1115,
+                    654,
+                    1247
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        534.0,
+                        1115.0
+                    ],
+                    [
+                        654.0,
+                        1115.0
+                    ],
+                    [
+                        654.0,
+                        1247.0
+                    ],
+                    [
+                        534.0,
+                        1247.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4760872721672058,
+                "coordinate": [
+                    228,
+                    1361,
+                    753,
+                    1447
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        228.0,
+                        1361.0
+                    ],
+                    [
+                        753.0,
+                        1361.0
+                    ],
+                    [
+                        753.0,
+                        1447.0
+                    ],
+                    [
+                        228.0,
+                        1447.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.880669891834259,
+                "coordinate": [
+                    114,
+                    1458,
+                    529,
+                    1715
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        114.0,
+                        1458.0
+                    ],
+                    [
+                        529.0,
+                        1458.0
+                    ],
+                    [
+                        529.0,
+                        1715.0
+                    ],
+                    [
+                        114.0,
+                        1715.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.3978697657585144,
+                "coordinate": [
+                    247,
+                    1748,
+                    752,
+                    1787
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        247.0,
+                        1748.0
+                    ],
+                    [
+                        752.0,
+                        1748.0
+                    ],
+                    [
+                        752.0,
+                        1787.0
+                    ],
+                    [
+                        247.0,
+                        1787.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.7278200387954712,
+                "coordinate": [
+                    98,
+                    1753,
+                    770,
+                    2111
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        98.0,
+                        1753.0
+                    ],
+                    [
+                        770.0,
+                        1753.0
+                    ],
+                    [
+                        770.0,
+                        2111.0
+                    ],
+                    [
+                        98.0,
+                        2111.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_04.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1200,
+    "height": 899,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "SUMMARY TABLE OF FINANCIAL REPORT FOR CORPORATE OFFICE",
+            "block_bbox": [
+                111,
+                121,
+                1090,
+                286
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    111.0,
+                    121.0
+                ],
+                [
+                    1090.0,
+                    121.0
+                ],
+                [
+                    1090.0,
+                    286.0
+                ],
+                [
+                    111.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"4\">Corporate Office Financial Report Summary</td></tr><tr><td colspan=\"2\">Report Period:</td><td colspan=\"2\">January - December 2021</td></tr><tr><td></td><td>Revenue</td><td>Operating Expenses</td><td>Net Income</td></tr><tr><td>Year</td><td>(in millions)</td><td>(in millions)</td><td>(in millions)</td></tr><tr><td>2021</td><td>$500</td><td>$350</td><td>$150</td></tr><tr><td>2020</td><td>$450</td><td>$320</td><td>$130</td></tr><tr><td>2019</td><td>$400</td><td>$290</td><td>$110</td></tr><tr><td>2018</td><td>$380</td><td>$280</td><td>$100</td></tr><tr><td>2017</td><td>$360</td><td>$270</td><td>$90</td></tr></table>",
+            "block_bbox": [
+                144,
+                356,
+                1014,
+                759
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    144.0,
+                    356.0
+                ],
+                [
+                    1014.0,
+                    356.0
+                ],
+                [
+                    1014.0,
+                    759.0
+                ],
+                [
+                    144.0,
+                    759.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7306444644927979,
+                "coordinate": [
+                    111,
+                    121,
+                    1090,
+                    286
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        111.0,
+                        121.0
+                    ],
+                    [
+                        1090.0,
+                        121.0
+                    ],
+                    [
+                        1090.0,
+                        286.0
+                    ],
+                    [
+                        111.0,
+                        286.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9734892249107361,
+                "coordinate": [
+                    144,
+                    356,
+                    1014,
+                    759
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        144.0,
+                        356.0
+                    ],
+                    [
+                        1014.0,
+                        356.0
+                    ],
+                    [
+                        1014.0,
+                        759.0
+                    ],
+                    [
+                        144.0,
+                        759.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

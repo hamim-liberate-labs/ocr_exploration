@@ -1,0 +1,156 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/report_17.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 875,
+    "height": 631,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Telco International Inc.\nIncome statement\nFiscal Year from April 1, 1999 to January 31, 2000",
+            "block_bbox": [
+                292,
+                19,
+                573,
+                73
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    292.0,
+                    19.0
+                ],
+                [
+                    573.0,
+                    19.0
+                ],
+                [
+                    573.0,
+                    73.0
+                ],
+                [
+                    292.0,
+                    73.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td></td><td colspan=\"4\">Current Fiscal Year</td><td colspan=\"4\">Previous Fiscal Year</td></tr><tr><td></td><td colspan=\"2\">Current Period</td><td colspan=\"2\">Year to Date</td><td colspan=\"2\">Current Period</td><td colspan=\"2\">Year to Date</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Revenue</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Products</td><td>2 607 888</td><td>97.8%</td><td>21 312 045</td><td>91.5%</td><td>1 596 238</td><td>99.8%</td><td>13 202 384</td><td>89.3%</td></tr><tr><td>Services</td><td></td><td>0.0%</td><td>1 854 955</td><td>8.0%</td><td>3 500</td><td>0.2%</td><td>1 580 211</td><td>10.7%</td></tr><tr><td>Revenue - delivery</td><td>57 572</td><td>2.2%</td><td>125 600</td><td>0.5%</td><td></td><td>0.0%</td><td></td><td>0.0%</td></tr><tr><td></td><td>2 665 461</td><td>100.0%</td><td>23 292 599</td><td>100.0%</td><td>1 599 738</td><td>100.0%</td><td>14 782 596</td><td>100.0%</td></tr><tr><td>Sales products cost</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Products</td><td>1 508 412</td><td>56.6%</td><td>12 504 646</td><td>53.7%</td><td>600 050</td><td>37.5%</td><td>7 715 540</td><td>52.2%</td></tr><tr><td>Services</td><td>12 784</td><td>0.5%</td><td>877 774</td><td>3.8%</td><td>31 404</td><td>2.0%</td><td>743 283</td><td>5.0%</td></tr><tr><td></td><td>1 521 196</td><td>57.1%</td><td>13 382 421</td><td>57.5%</td><td>631 454</td><td>39.5%</td><td>8 458 824</td><td>57.2%</td></tr><tr><td>Benefit</td><td>1 144 265</td><td>42.9%</td><td>9 910 179</td><td>42.6%</td><td>968 284</td><td>60.5%</td><td>6 323 772</td><td>42.8%</td></tr><tr><td>Operating expenses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Salaries</td><td>489 197</td><td>18.4%</td><td>5 458 690</td><td>23.4%</td><td>456 050</td><td>28.5%</td><td>4 581 409</td><td>31.0%</td></tr><tr><td>Motor vehicle rentals</td><td>1 758</td><td>0.1%</td><td>12 139</td><td>0.1%</td><td>5 000</td><td>0.3%</td><td>13 825</td><td>0.1%</td></tr><tr><td>Office supplies</td><td>13 948</td><td>0.5%</td><td>156 031</td><td>0.7%</td><td>26 351</td><td>1.7%</td><td>147 121</td><td>1.0%</td></tr><tr><td>Telephone</td><td>996</td><td>0.0%</td><td>10 462</td><td>0.0%</td><td>1 405</td><td>0.1%</td><td>9 452</td><td>0.1%</td></tr><tr><td>Professional fees</td><td>895</td><td>0.0%</td><td>8 129</td><td>0.0%</td><td>800</td><td>0.1%</td><td>6 949</td><td>0.1%</td></tr><tr><td>Administrative expenses</td><td>7 004</td><td>0.3%</td><td>57 752</td><td>0.3%</td><td>12 956</td><td>0.8%</td><td>68 470</td><td>0.5%</td></tr><tr><td></td><td>513 798</td><td>19.3%</td><td>5 703 203</td><td>24.5%</td><td>502 562</td><td>31.4%</td><td>4 827 225</td><td>32.7%</td></tr><tr><td>Earnings (loss) before interest and taxes</td><td>630 467</td><td>23.7%</td><td>4 206 975</td><td>18.1%</td><td>465 722</td><td>29.1%</td><td>1 496 547</td><td>10.1%</td></tr><tr><td>Income tax expense</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current income tax</td><td></td><td>0.0%</td><td>283 551</td><td>1.2%</td><td></td><td>0.0%</td><td>241 031</td><td>1.6%</td></tr><tr><td></td><td>630 467</td><td>23.7%</td><td>3 923 424</td><td>16.8%</td><td>465 722</td><td>29.1%</td><td>1 255 515</td><td>8.5%</td></tr><tr><td>Income</td><td>630 467</td><td>23.7%</td><td>3 923 424</td><td>16.8%</td><td>465 722</td><td>29.1%</td><td>1 255 515</td><td>8.5%</td></tr></table>",
+            "block_bbox": [
+                14,
+                93,
+                857,
+                607
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    14.0,
+                    93.0
+                ],
+                [
+                    857.0,
+                    93.0
+                ],
+                [
+                    857.0,
+                    607.0
+                ],
+                [
+                    14.0,
+                    607.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.39677658677101135,
+                "coordinate": [
+                    292,
+                    19,
+                    573,
+                    73
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        292.0,
+                        19.0
+                    ],
+                    [
+                        573.0,
+                        19.0
+                    ],
+                    [
+                        573.0,
+                        73.0
+                    ],
+                    [
+                        292.0,
+                        73.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9710714221000671,
+                "coordinate": [
+                    14,
+                    93,
+                    857,
+                    607
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        14.0,
+                        93.0
+                    ],
+                    [
+                        857.0,
+                        93.0
+                    ],
+                    [
+                        857.0,
+                        607.0
+                    ],
+                    [
+                        14.0,
+                        607.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+# TEAMMEETINGAGENDAFOR 
+
+## MEETINGDETAILS 
+
+Date:Time:□AM□PM Recurring:□Yes□No 
+
+Location:Dial-in Number or Meeting URL (if any):
+
+
+
+Meeting Lead:Other Speakers:
+
+
+
+## ATTENDANCE 
+
+Attendees:
+
+
+
+Absentees:
+
+
+
+## ITEMS & DISCUSSION 
+
+1STITEM:OPENING&ROLLCALL 
+
+min 
+
+DISCUSSION:
+
+
+
+2ND ITEM: UPDATES AND ANNOUNCEMENTS 
+
+min 
+
+DISCUSSION:
+
+
+
+3RD ITEM: UPCOMING PRIORITIES 
+
+min 
+
+DISCUSSION:
+
+
+
+4TH ITEM: ROUND-ROBIN DISCUSSION 
+
+min 
+
+DISCUSSION:
+
+
+
+5TH ITEM: FINAL RESOLUTIONS & CONCLUSION 
+
+min 
+
+DISCUSSION:
+

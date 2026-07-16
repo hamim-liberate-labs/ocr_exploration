@@ -1,0 +1,339 @@
+{
+    "input_path": "/kaggle/input/datasets/amasikifthakerhamim/test-dataset-100/test_dataset_100/form_15.jpg",
+    "page_index": null,
+    "page_count": null,
+    "width": 1554,
+    "height": 2200,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                54,
+                77,
+                441,
+                244
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "block_polygon_points": [
+                [
+                    54.0,
+                    77.0
+                ],
+                [
+                    441.0,
+                    77.0
+                ],
+                [
+                    441.0,
+                    244.0
+                ],
+                [
+                    54.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Application Form",
+            "block_bbox": [
+                464,
+                76,
+                860,
+                126
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1,
+            "block_polygon_points": [
+                [
+                    464.0,
+                    76.0
+                ],
+                [
+                    860.0,
+                    76.0
+                ],
+                [
+                    860.0,
+                    126.0
+                ],
+                [
+                    464.0,
+                    126.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "To be completed in typed form or in your own handwriting in black ink\nBold bordered sections are mandatory fields\nRefer carefully to the job description and person specification. If the space provided is insufficient please continue on a separate sheet.",
+            "block_bbox": [
+                459,
+                126,
+                1437,
+                252
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2,
+            "block_polygon_points": [
+                [
+                    459.0,
+                    126.0
+                ],
+                [
+                    1437.0,
+                    126.0
+                ],
+                [
+                    1437.0,
+                    252.0
+                ],
+                [
+                    459.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Post Applied for:</td><td></td><td colspan=\"2\">Vacancy Reference No:</td></tr><tr><td>Where did you first find this vacancy? (If in publication, please state which one. If from current employee of Creative Support, please state name)</td><td colspan=\"3\">☐ Company Website ☐ Jobcentre ☐ Guardian ☐ Charity Jobs\\n☐ Reed ☐ Other (State) __________________</td></tr><tr><td>Preferred Client Group and Hours:</td><td colspan=\"2\">☐ Mental Health ☐ Learning Disabilities ☐ Other\\n☐ Older People ☐ No Preference ☐ Office</td><td>☐ Full Time\\n☐ Part Time</td></tr><tr><td>Have you a current in-date DBS Certificate?</td><td>☐ Yes ☐ No</td><td>Is it registered for the DBS update service? (£13 per year subscription)</td><td>☐ Yes ☐ No</td></tr><tr><td>Have you previously applied for a post with Creative Support?</td><td colspan=\"3\">☐ Yes ☐ No (If Yes, please specify):</td></tr><tr><td>Are you over 18 Years Old</td><td colspan=\"3\">☐ Yes ☐ No</td></tr><tr><td>Personal Details</td><td>Title:</td><td colspan=\"2\"></td></tr><tr><td>Forename(s) or other names</td><td colspan=\"3\"></td></tr><tr><td>Surname</td><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">Address</td><td colspan=\"3\"></td></tr><tr><td></td><td colspan=\"2\">Postcode:</td></tr><tr><td rowspan=\"2\">Telephone</td><td>Home:</td><td colspan=\"2\">Work:</td></tr><tr><td>Mobile:</td><td colspan=\"2\"></td></tr><tr><td>Email Address</td><td colspan=\"3\"></td></tr><tr><td colspan=\"2\">Car Driver: ☐ Yes ☐ No</td><td colspan=\"2\">Car Owner: ☐ Yes ☐ No</td></tr><tr><td colspan=\"2\">Do you have any endorsements on your licence? (if so please outline why)</td><td colspan=\"2\">☐ Yes ☐ No</td></tr><tr><td colspan=\"2\">Are you a UK or EU/EEA national? (If so you will need to provide proof of this at your interview)</td><td colspan=\"2\">☐ Yes ☐ No</td></tr><tr><td colspan=\"2\">If you are not a UK or EU/EEA national can you provide proof of permission to work in the UK?</td><td colspan=\"2\">☐ Yes ☐ No</td></tr><tr><td rowspan=\"2\" colspan=\"2\">If you cannot provide proof of permission to work in the UK we cannot accept your application as you are unable to work legally in the UK.</td><td colspan=\"2\">Describe the type of permission to work in the UK:</td></tr><tr><td colspan=\"2\">Hours permitted to work:</td></tr><tr><td rowspan=\"2\" colspan=\"2\">If you can provide proof of permission to work please state the nature of your permission to work in the UK, any restrictions on the hours you are permitted to work and the expiry date of the permission.</td><td colspan=\"2\">Expiry Date:</td></tr><tr><td colspan=\"2\">We will require sight of the documentation which confirms that you are permitted to work in the UK at the interview stage. We may need to take a copy of the document and to carry out checks to authenticate it.</td></tr></table>",
+            "block_bbox": [
+                56,
+                272,
+                1467,
+                1990
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "block_polygon_points": [
+                [
+                    56.0,
+                    272.0
+                ],
+                [
+                    1467.0,
+                    272.0
+                ],
+                [
+                    1467.0,
+                    1990.0
+                ],
+                [
+                    56.0,
+                    1990.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Authorised by:</td><td>Anna Lunts</td><td>Date First Authorised:</td><td>June 2009</td><td>Page Number:</td><td>1</td></tr><tr><td colspan=\"3\">All employees are subject to enhanced DBS checks</td><td colspan=\"3\">Version 6.8 – November 2017</td></tr></table>",
+            "block_bbox": [
+                110,
+                2018,
+                1325,
+                2082
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "block_polygon_points": [
+                [
+                    110.0,
+                    2018.0
+                ],
+                [
+                    1325.0,
+                    2018.0
+                ],
+                [
+                    1325.0,
+                    2082.0
+                ],
+                [
+                    110.0,
+                    2082.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.908669114112854,
+                "coordinate": [
+                    54,
+                    77,
+                    441,
+                    244
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        54.0,
+                        77.0
+                    ],
+                    [
+                        441.0,
+                        77.0
+                    ],
+                    [
+                        441.0,
+                        244.0
+                    ],
+                    [
+                        54.0,
+                        244.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5289657711982727,
+                "coordinate": [
+                    464,
+                    76,
+                    860,
+                    126
+                ],
+                "order": 1,
+                "polygon_points": [
+                    [
+                        464.0,
+                        76.0
+                    ],
+                    [
+                        860.0,
+                        76.0
+                    ],
+                    [
+                        860.0,
+                        126.0
+                    ],
+                    [
+                        464.0,
+                        126.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7498468160629272,
+                "coordinate": [
+                    459,
+                    126,
+                    1437,
+                    252
+                ],
+                "order": 2,
+                "polygon_points": [
+                    [
+                        459.0,
+                        126.0
+                    ],
+                    [
+                        1437.0,
+                        126.0
+                    ],
+                    [
+                        1437.0,
+                        252.0
+                    ],
+                    [
+                        459.0,
+                        252.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9670946598052979,
+                "coordinate": [
+                    56,
+                    272,
+                    1467,
+                    1990
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        56.0,
+                        272.0
+                    ],
+                    [
+                        1467.0,
+                        272.0
+                    ],
+                    [
+                        1467.0,
+                        1990.0
+                    ],
+                    [
+                        56.0,
+                        1990.0
+                    ]
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8430672287940979,
+                "coordinate": [
+                    110,
+                    2018,
+                    1325,
+                    2082
+                ],
+                "order": null,
+                "polygon_points": [
+                    [
+                        110.0,
+                        2018.0
+                    ],
+                    [
+                        1325.0,
+                        2018.0
+                    ],
+                    [
+                        1325.0,
+                        2082.0
+                    ],
+                    [
+                        110.0,
+                        2082.0
+                    ]
+                ]
+            }
+        ]
+    }
+}

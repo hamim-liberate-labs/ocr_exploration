@@ -181,9 +181,11 @@ class OvisOCR2:
             [{"role": "user", "content": [{"type": "image"}, {"type": "text", "text": OCR_PROMPT}]}],
             tokenize=False, add_generation_prompt=True, enable_thinking=False,
         )
-        # 4096 (not the card's 16384): real pages top out ~2600 tokens, so this never truncates but
-        # caps the ~9% degenerate repeat loops that otherwise run to 16384 tokens (~500s).
-        self.sampling_params = SamplingParams(max_tokens=4096, temperature=0.0)
+        # 8192. Real pages top out ~2.5k tokens, so this never truncates — it only bounds the ~9%
+        # degenerate repeat loops. max_tokens (not MAX_FILES) drives worst-case request time, since
+        # batched images share wall-time ≈ the longest page; higher risks Modal's ~150s web limit if
+        # CUDA graphs regress to eager. Fine at 8k with graphs on.
+        self.sampling_params = SamplingParams(max_tokens=8192, temperature=0.0)
         try:
             self._parse_one(self._synth_page())   # warm JIT/compile paths at a realistic page size
         except Exception as e:

@@ -213,7 +213,7 @@ about a tenth of a second. So we fixed the text-generation side:
 | Change | Effect |
 |---|---|
 | **Turned on CUDA graphs** | The model writes its output about **4× faster** (~35 → ~135 tokens per second on the L4) |
-| **Capped the output length** (16,384 → 4,096 tokens) | Kills the ~9% of pages that ran away repeating themselves (worst page went from **496 s to 10 s**) without cutting off real pages (the densest real page is about 2,500 tokens) |
+| **Capped the output length** (16,384 → 8,192 tokens) | Bounds the ~9% of pages that run away repeating themselves — a full runaway now caps at **~61 s** instead of ~500 s — without cutting real pages (the densest real page is ~2,500 tokens). A tested worst-case 4-image batch (a full runaway + 3 dense pages) came in at **~73 s**, safely under Modal's 150 s limit. |
 | **Batching** | Several images in one request are processed together instead of one at a time |
 | **Cleaner logs + HF login** | Silenced third-party warnings; the Hugging Face token comes from a shared Modal secret |
 

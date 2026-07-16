@@ -1,11 +1,10 @@
 # PaddleOCR-VL 1.6 on Modal — image → HTML
 
-A [Modal](https://modal.com) app that serves **PaddleOCR-VL 1.6** on a single **T4 GPU** behind
+A [Modal](https://modal.com) app that serves **PaddleOCR-VL 1.6** on a single **L4 GPU** behind
 a FastAPI endpoint. POST document images, get parsed **HTML** back for each.
 
-It reproduces the exact pipeline validated in the Kaggle benchmark
-(`PaddleOCRVL(pipeline_version="v1.6", device="gpu:0")`, native Paddle engine — **not** vLLM,
-since the T4 is compute-capability 7.5 < 8.0). Every optional sub-model (orientation, dewarping,
+The layout model runs on **CPU-Paddle**, and the vision-language model runs in a local **vLLM genai
+server** on the L4 (the pipeline calls it over HTTP). Every optional sub-model (orientation, dewarping,
 seal, chart) is disabled, so only layout + text/table recognition run for lowest latency.
 
 ## Files
@@ -42,12 +41,16 @@ Keep the generated token — it's the `OCR_TOKEN` you send in the `Authorization
 ## 2. Deploy
 
 ```bash
+# optional but recommended: pre-download the models into the volumes + verify inference
+modal run modal_deploy/paddleocr_vl_app.py     # prints a warmup result
+
+# deploy
 modal deploy modal_deploy/paddleocr_vl_app.py
 ```
 
-The first deploy builds the image and **prefetches the ~2 GB of VL weights into the image layer**
-(a short T4 build), so container cold starts don't re-download the model. Modal prints the public
-URL, e.g.:
+The models download **once into persistent Modal Volumes** (`paddleocr-vl-paddlex` and
+`paddleocr-vl-hf`) — not into the image — so later container starts load them from the volume instead of
+re-downloading. Modal prints the public URL, e.g.:
 
 ```
 https://<workspace>--paddleocr-vl-document-ocr-paddlevl-web.modal.run
@@ -90,7 +93,7 @@ python modal_deploy/test_client.py --out ./html_out .
 ## API
 
 ### `GET /health`
-Liveness/readiness. No auth. Returns `{"status":"ok","model":"PaddleOCR-VL-1.6","gpu":"T4"}`.
+Liveness/readiness. No auth. Returns `{"status":"ok","model":"PaddleOCR-VL-1.6","gpu":"L4"}`.
 
 ### `POST /v1/document-ocr`
 Bearer-token auth. Multipart form, field **`files`** (one or more images).
@@ -123,28 +126,25 @@ missing `files` field), `500` (unexpected server error).
 
 ## Notes on performance & cost
 
-- **Scale to zero — no idle cost.** No `min_containers` is set, so when there's no traffic
-  there are no running containers (and no GPU billing). Containers spin up on demand.
-- **Cold start ≈ 25 s, never a re-download.** The VL weights are **baked into the image** at
-  build time, so a cold container only *loads* them from the local image layer (~25 s) — it does
-  **not** download the model. `scaledown_window=300` keeps a container warm for 5 min after the
-  last request, so bursts stay warm.
-- **Concurrency is 1 image per container** (`@modal.concurrent(max_inputs=1)`): VL peaks
-  ~14.8 GB, so two at once would OOM a 16 GB T4. Modal autoscales to more containers for
-  concurrent requests.
-- **Latency** ~12–18 s per page, up to ~40 s on very dense small-font pages (from the benchmark).
-- **The 150 s synchronous limit.** Modal web endpoints answer synchronously for up to ~150 s;
-  beyond that they switch to an async redirect that a plain `POST` can't follow. A cold start
-  (~25 s load) plus the first inference — whose CUDA autotune makes the *first* page unusually
-  slow — can occasionally approach this. Recommended caller pattern (both are in `test_client.py`):
-    1. **Warm first:** `GET /health` blocks until a container is up with the model loaded, so the
-       following `POST /v1/document-ocr` hits a warm container.
-    2. **Retry once** on a timeout/5xx — the failed call warms the container; the retry is fast.
-  Also send a **few images per request** (Modal parallelizes across containers for throughput).
-  For guaranteed no-cold-start latency, set `min_containers=1` (keeps one T4 warm, ~$0.60/hr).
-  For genuinely large batches, use an async job pattern instead.
-- **Faster/real-time option:** a ≥ Ampere GPU (`gpu="A10G"`/`"L4"`) unlocks the vLLM backend,
-  but that changes the install and is outside this T4-pinned setup.
+- **One L4 kept always warm.** `min_containers=1` keeps a single container running, so there are
+  **no cold starts** — but it **bills continuously** (~$0.80/hr for an L4) even when idle. Drop that
+  line to scale to zero if you'd rather trade cold starts for no idle cost. `scaledown_window=600`
+  keeps any extra autoscaled containers warm for 10 min after their last request.
+- **Weights load from a volume, not a re-download.** Models live in persistent Modal Volumes
+  (`paddleocr-vl-paddlex`, `paddleocr-vl-hf`), so a starting container loads them locally rather than
+  downloading again. On start, the **vLLM genai server** boots as a subprocess on the L4 and the
+  pipeline waits for it to become ready.
+- **One image per container** (`@modal.concurrent(max_inputs=1)`): the pipeline isn't concurrency-safe.
+  VL peaks ~14.8 GB, which fits comfortably on the L4's 24 GB (the vLLM server runs at
+  `gpu-memory-utilization: 0.55`). Modal autoscales to more containers for concurrent requests.
+- **Latency** — in the Kaggle benchmark, ~12–18 s per page (up to ~40 s on dense, small-font pages).
+  The L4 + vLLM deployment splits work between CPU layout and the GPU VLM and hasn't been separately
+  timed.
+- **The 150 s synchronous limit.** Modal web endpoints answer synchronously for up to ~150 s; beyond
+  that they switch to an async redirect a plain `POST` can't follow. With `min_containers=1` the
+  container is already warm, so a normal request stays well under the limit. The client still (a) warms
+  via `GET /health` and (b) retries once on a timeout/5xx (both in `test_client.py`). For genuinely
+  large batches, use an async job pattern instead.
 
 ---
 
@@ -200,11 +200,11 @@ python modal_deploy/test_client.py --url "$OCR_URL" --out ./ovis_html image_001.
 | `blocks` field | layout blocks detected | HTML tables emitted |
 | Cold start | vLLM server boot + pipeline | vLLM weight load (FlashInfer sampler disabled) |
 
-OvisOCR2 keeps **one L4 always warm** (`min_containers=1`) so there are no cold starts — it bills
-continuously (~$0.80/hr) even when idle; drop that line to scale to zero like the VL app. Extra
-containers autoscaled for bursts still stay warm 5 min after their last request
-(`scaledown_window=300`). Both apps process **one image per container**
-(`@modal.concurrent(max_inputs=1)`; Modal autoscales to more containers for concurrent requests).
+Both apps keep **one L4 always warm** (`min_containers=1`) so there are no cold starts — each bills
+continuously (~$0.80/hr) even when idle; drop that line on either to scale to zero instead. Autoscaled
+burst containers stay warm after their last request (`scaledown_window` = 300 s for OvisOCR2, 600 s for
+the VL app). Both process **one image per container** (`@modal.concurrent(max_inputs=1)`; Modal
+autoscales to more containers for concurrent requests).
 
 > **Log hygiene:** the deprecation lines you may have seen on first load (flashinfer `tcgen05`,
 > `torch.jit.script_method`, transformers `use_fast` / `Qwen2VLImageProcessorFast`) are all internal

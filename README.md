@@ -212,7 +212,7 @@ about a tenth of a second. So we fixed the text-generation side:
 
 | Change | Effect |
 |---|---|
-| **Turned on CUDA graphs** | Output generation about **4× faster** (roughly 35 → 135 words-per-second-worth of tokens on the L4) |
+| **Turned on CUDA graphs** | The model writes its output about **4× faster** (~35 → ~135 tokens per second on the L4) |
 | **Capped the output length** (16,384 → 4,096 tokens) | Kills the ~9% of pages that ran away repeating themselves (worst page went from **496 s to 10 s**) without cutting off real pages (the densest real page is about 2,500 tokens) |
 | **Batching** | Several images in one request are processed together instead of one at a time |
 | **Cleaner logs + HF login** | Silenced third-party warnings; the Hugging Face token comes from a shared Modal secret |

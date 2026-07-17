@@ -157,8 +157,9 @@ identical, so the **same `test_client.py` works** — just point `OCR_URL` at th
 The only per-image difference is the `blocks` field: for OvisOCR2 it reports the number of **HTML
 tables** the model emitted (VL reports layout blocks). Everything else — `filename`, `status`,
 `html`, `seconds`, `error`, the auth, the formats (JPEG/PNG/BMP/WebP/TIFF), 25 MB/image — matches.
-The per-request file cap is **4** (vs VL's 16): OvisOCR2 runs ~10–50 s/page sequentially, so 4 keeps
-a single request under Modal's ~150 s synchronous web limit. Send more pages across several requests.
+The per-request file cap is **4** (vs VL's 16): the pages in one request now run **concurrently**
+through the async engine (see below), but they still return together in one synchronous response, so 4
+keeps a saturated request under Modal's ~150 s web limit. Send more pages across several requests.
 
 ## Deploy
 
@@ -194,17 +195,31 @@ python modal_deploy/test_client.py --url "$OCR_URL" --out ./ovis_html image_001.
 | | VL 1.6 (`paddleocr_vl_app.py`) | OvisOCR2 (`ovisocr2_app.py`) |
 |---|---|---|
 | Model | PaddleOCR-VL 1.6 (layout model + VLM) | OvisOCR2 (single ~0.8B VLM) |
-| Engine | PaddleOCR pipeline + vLLM genai **subprocess** | **in-process vLLM** `LLM(...)` |
+| Engine | PaddleOCR pipeline + vLLM genai **subprocess** | **in-process vLLM async engine** (`AsyncLLM`) |
+| Per-container concurrency | 1 request (`max_inputs=1`) | up to 32 requests, continuously batched (`max_inputs=32`) |
 | Secret | `paddleocr-vl-token` | `ovisocr2-token` |
 | HF volume | `paddleocr-vl-hf` | `ovisocr2-hf` |
 | `blocks` field | layout blocks detected | HTML tables emitted |
-| Cold start | vLLM server boot + pipeline | vLLM weight load (FlashInfer sampler disabled) |
+| Cold start | vLLM server boot + pipeline | vLLM async-engine init + weight load (FlashInfer sampler disabled) |
 
 Both apps keep **one L4 always warm** (`min_containers=1`) so there are no cold starts — each bills
 continuously (~$0.80/hr) even when idle; drop that line on either to scale to zero instead. Autoscaled
 burst containers stay warm after their last request (`scaledown_window` = 300 s for OvisOCR2, 600 s for
-the VL app). Both process **one image per container** (`@modal.concurrent(max_inputs=1)`; Modal
-autoscales to more containers for concurrent requests).
+the VL app).
+
+They differ in **how each container handles concurrency**:
+
+- **VL app** serves **one request per container** (`@modal.concurrent(max_inputs=1)`); Modal autoscales
+  more containers for concurrent traffic.
+- **OvisOCR2** serves up to **32 requests per container** (`@modal.concurrent(max_inputs=32,
+  target_inputs=32)`). It runs vLLM's **async engine** (`AsyncLLM`), whose background loop
+  **continuously batches** every in-flight request into one running GPU batch, so many users share a
+  single L4; within a request its pages are dispatched concurrently with `asyncio.gather`. Because
+  `target_inputs == max_inputs`, Modal's autoscaler **packs a container to 32 before starting another**
+  — an extra L4 spins up only once a warm one is saturated, then scales back to zero after
+  `scaledown_window`. Trade-off: much higher throughput per GPU, but under load a page's decode shares
+  the batch, so a fully-saturated container's tail latency climbs toward the ~150 s web limit; lower
+  `max_inputs` (or a bigger GPU) trades cost for latency headroom.
 
 > **Log hygiene:** the deprecation lines you may have seen on first load (flashinfer `tcgen05`,
 > `torch.jit.script_method`, transformers `use_fast` / `Qwen2VLImageProcessorFast`) are all internal

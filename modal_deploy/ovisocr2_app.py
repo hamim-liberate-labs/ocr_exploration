@@ -25,7 +25,8 @@ MODEL_NAME = "OvisOCR2"
 GPU = "L4"
 MODEL_ID = "ATH-MaaS/OvisOCR2"
 
-MAX_FILES_PER_REQUEST = 4   # batched into one vLLM call; 4 keeps a request under Modal's ~150s sync web limit
+MAX_FILES_PER_REQUEST = 4   # per-request API cap; the pages run concurrently (asyncio.gather) and must
+                            # finish together under Modal's ~150s sync web limit, so keep this small
 MAX_FILE_BYTES = 25 * 1024 * 1024
 VALID_IMAGE_FORMATS = {"jpeg", "jpg", "png", "bmp", "webp", "tiff", "mpo"}
 
@@ -69,10 +70,12 @@ image = (
 app = modal.App(APP_NAME)
 
 with image.imports():
+    import asyncio
     import io
     import logging
     import secrets as _secrets
     import time
+    import uuid
     import warnings
     from typing import Literal
 
@@ -92,7 +95,9 @@ with image.imports():
     from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
     from PIL import Image as PILImage
     from pydantic import BaseModel, Field
-    from vllm import LLM, SamplingParams
+    from vllm import AsyncEngineArgs, SamplingParams
+    from vllm.sampling_params import RequestOutputKind
+    from vllm.v1.engine.async_llm import AsyncLLM
 
     class OCRResult(BaseModel):
         """Parse outcome for one uploaded image; a failure here never fails the batch."""
@@ -105,8 +110,8 @@ with image.imports():
         )
         seconds: float | None = Field(
             None, ge=0,
-            description="Inference wall-time for this image (batch wall-time amortized per image "
-                        "when several are sent in one request).",
+            description="Inference wall-time for this image (its own latency; includes time spent "
+                        "sharing the GPU batch with other concurrent requests).",
         )
         error: str | None = Field(None, description="Failure reason (present iff status='error').")
 
@@ -164,11 +169,20 @@ _HTML_TEMPLATE = (
     timeout=1800,           # room for a slow cold start (weight download + vLLM load)
     secrets=[SECRET, HF_SECRET],
 )
-@modal.concurrent(max_inputs=1)   # vLLM generate isn't concurrency-safe; scale out across containers
+# max_inputs=32: the async engine (AsyncLLM) is concurrency-safe and continuously batches, so one
+# container serves up to 32 requests at once. target_inputs=32 (== max) makes Modal's autoscaler pack a
+# container completely full before starting another — an extra container only spins up once a warm one is
+# saturated at 32. With min_containers=1 exactly one container stays warm; extras scale back to zero
+# scaledown_window after their load drains.
+@modal.concurrent(max_inputs=32, target_inputs=32)
 class OvisOCR2:
     @modal.enter()
-    def load(self) -> None:
-        self.model = LLM(
+    async def load(self) -> None:
+        # AsyncLLM (vLLM V1 async engine) instead of the offline LLM: it runs a background loop that
+        # continuously batches every in-flight request, so one container serves many concurrent users
+        # (see @modal.concurrent max_inputs). Async @modal.enter() runs inside the container event loop,
+        # which is where the engine's loop lives.
+        self.engine = AsyncLLM.from_engine_args(AsyncEngineArgs(
             model=MODEL_ID,
             tensor_parallel_size=1,
             gpu_memory_utilization=0.85,
@@ -176,18 +190,25 @@ class OvisOCR2:
             # CUDA graphs ~3.8-4x decode on this decode-bound 0.8B model (measured on L4); captured once
             # at load, kept warm by min_containers=1. Revert to True if capture ever fails on this arch.
             enforce_eager=False,
-        )
-        self.prompt = self.model.get_tokenizer().apply_chat_template(
+        ))
+        # Build the fixed prompt from the engine's own tokenizer — byte-identical to what the engine
+        # tokenizes requests with, and no second tokenizer load. get_tokenizer() is sync in this vLLM.
+        tokenizer = self.engine.get_tokenizer()
+        self.prompt = tokenizer.apply_chat_template(
             [{"role": "user", "content": [{"type": "image"}, {"type": "text", "text": OCR_PROMPT}]}],
             tokenize=False, add_generation_prompt=True, enable_thinking=False,
         )
         # 8192. Real pages top out ~2.5k tokens, so this never truncates — it only bounds the ~9%
-        # degenerate repeat loops. max_tokens (not MAX_FILES) drives worst-case request time, since
-        # batched images share wall-time ≈ the longest page; higher risks Modal's ~150s web limit if
-        # CUDA graphs regress to eager. Fine at 8k with graphs on.
-        self.sampling_params = SamplingParams(max_tokens=8192, temperature=0.0)
+        # degenerate repeat loops. max_tokens drives worst-case request latency: under load a page's
+        # decode shares the continuously-batched GPU with up to max_inputs others, so a saturated
+        # container's tail latency can approach Modal's ~150s web limit. Fine at 8k with CUDA graphs on.
+        # FINAL_ONLY: we don't stream to the client, so have the engine yield one output at completion
+        # instead of a cumulative RequestOutput every decode step (less per-step churn).
+        self.sampling_params = SamplingParams(
+            max_tokens=8192, temperature=0.0, output_kind=RequestOutputKind.FINAL_ONLY,
+        )
         try:
-            self._parse_one(self._synth_page())   # warm JIT/compile paths at a realistic page size
+            await self._parse_one(self._synth_page())   # warm JIT/compile paths at a realistic page size
         except Exception as e:
             logger.warning("warmup skipped: %s", e)
         logger.info("%s ready on %s (vLLM).", MODEL_NAME, GPU)
@@ -238,9 +259,24 @@ class OvisOCR2:
                 if not b.strip().startswith('<img src="images/bbox_'))
         return self._clean_truncated_repeats(text)
 
-    def _parse_one(self, pil_image, filter_imgtags: bool = True) -> str:
-        outputs = self.model.generate([self._req_dict(pil_image)], self.sampling_params)
-        return self._postprocess(outputs[0].outputs[0].text, filter_imgtags)
+    async def _generate_text(self, pil_image) -> str:
+        """One async generate for a single page image. The engine continuously batches this request
+        with every other in-flight one, so many pages/users share the GPU in a single running batch.
+        Iterates the stream to completion and returns the full (cumulative) output text."""
+        final = None
+        async for out in self.engine.generate(
+            prompt=self._req_dict(pil_image),
+            sampling_params=self.sampling_params,
+            request_id=uuid.uuid4().hex,
+        ):
+            final = out
+        if final is None:   # only if the request was aborted before producing any output
+            raise RuntimeError("engine produced no output")
+        return final.outputs[0].text
+
+    async def _parse_one(self, pil_image, filter_imgtags: bool = True) -> str:
+        text = await self._generate_text(pil_image)
+        return self._postprocess(text, filter_imgtags)
 
     def _md_to_html(self, md_text: str, title: str) -> str:
         body = _markdown.markdown(md_text, extensions=["tables", "fenced_code", "sane_lists"])
@@ -260,11 +296,11 @@ class OvisOCR2:
         if fmt not in VALID_IMAGE_FORMATS:
             raise ImageClientError(f"unsupported image format: {fmt or 'unknown'}")
 
-    def _predict_to_html(self, data: bytes, filename: str) -> tuple[str, float, int]:
+    async def _predict_to_html(self, data: bytes, filename: str) -> tuple[str, float, int]:
         with PILImage.open(io.BytesIO(data)) as im:
             pil = im.convert("RGB")
         t0 = time.time()
-        md_text = self._parse_one(pil)
+        md_text = await self._parse_one(pil)
         seconds = time.time() - t0
         n_tables = md_text.lower().count("<table")
         return self._md_to_html(md_text, filename), seconds, n_tables
@@ -276,46 +312,26 @@ class OvisOCR2:
         return OCRResult(filename=filename, status="ok", html=self._md_to_html(md_text, filename),
                          blocks=n_tables, seconds=round(seconds, 3))
 
-    def _process_one_pil(self, filename: str, pil_image) -> "OCRResult":
-        """Single-image generate — used only as the batch fallback path."""
+    async def _process_one(self, filename: str, pil_image) -> "OCRResult":
+        """Generate + build the OCRResult for one page. Called via asyncio.gather so all pages in a
+        request run concurrently; the engine interleaves them (and every other request) on the GPU.
+        ``seconds`` is this page's own latency, which includes time spent sharing the batch. A failure
+        here is reported on this item and never fails the rest of the request."""
         try:
             t0 = time.time()
-            outputs = self.model.generate([self._req_dict(pil_image)], self.sampling_params)
-            return self._result_from_text(filename, outputs[0].outputs[0].text, time.time() - t0)
+            text = await self._generate_text(pil_image)
+            res = self._result_from_text(filename, text, time.time() - t0)
+            logger.info("parsed %s (%.2fs, %s tables)", filename, res.seconds, res.blocks)
+            return res
         except Exception as e:
             logger.exception("failed to parse %s", filename)
             return OCRResult(filename=filename, status="error", error=f"internal error: {e}")
 
-    def _process_batch(self, items: "list[tuple[str, object]]") -> "list[OCRResult]":
-        """One batched generate over all valid pages (interleaved decode >> one-by-one on the L4).
-        ``items`` is [(filename, RGB image)], returned in input order; ``seconds`` is the batch
-        wall-time amortized per image. Falls back to per-image if the batch call itself errors."""
-        if not items:
-            return []
-        t0 = time.time()
-        try:
-            outputs = self.model.generate([self._req_dict(pil) for _, pil in items], self.sampling_params)
-        except Exception:
-            logger.exception("batch generate failed; falling back to per-image")
-            return [self._process_one_pil(fn, pil) for fn, pil in items]
-        per_image = (time.time() - t0) / len(items)
-        results: list[OCRResult] = []
-        for (filename, _), out in zip(items, outputs):
-            try:
-                res = self._result_from_text(filename, out.outputs[0].text, per_image)
-                logger.info("parsed %s (batch of %d, ~%.2fs/img, %s tables)",
-                            filename, len(items), per_image, res.blocks)
-                results.append(res)
-            except Exception as e:
-                logger.exception("post-process failed for %s", filename)
-                results.append(OCRResult(filename=filename, status="error", error=f"internal error: {e}"))
-        return results
-
     @modal.method()
-    def warmup(self) -> dict:
+    async def warmup(self) -> dict:
         """`modal run` entrypoint target: pre-populate the volume and prove inference works."""
         buf = io.BytesIO(); self._synth_page().save(buf, format="PNG")
-        html, seconds, n_tables = self._predict_to_html(buf.getvalue(), "warmup.png")
+        html, seconds, n_tables = await self._predict_to_html(buf.getvalue(), "warmup.png")
         return {"seconds": round(seconds, 3), "tables": n_tables, "html_len": len(html)}
 
     @modal.asgi_app()
@@ -401,8 +417,9 @@ class OvisOCR2:
                     f"too many files: {len(files)} > {MAX_FILES_PER_REQUEST}",
                 )
 
-            # Validate/decode all uploads, then batch the good pages into one generate() (order
-            # preserved; validation failures never enter the batch).
+            # Validate/decode all uploads, then run every good page concurrently through the engine
+            # (asyncio.gather -> the engine's continuous batching interleaves them). Order preserved;
+            # validation failures never enter generation.
             results: list[OCRResult | None] = [None] * len(files)
             batch: list[tuple[int, str, object]] = []
             for i, f in enumerate(files):
@@ -422,7 +439,9 @@ class OvisOCR2:
                     batch.append((i, filename, pil))
 
             if batch:
-                processed = self._process_batch([(fn, pil) for _, fn, pil in batch])
+                processed = await asyncio.gather(
+                    *(self._process_one(fn, pil) for _, fn, pil in batch)
+                )
                 for (i, _, _), res in zip(batch, processed):
                     results[i] = res
 

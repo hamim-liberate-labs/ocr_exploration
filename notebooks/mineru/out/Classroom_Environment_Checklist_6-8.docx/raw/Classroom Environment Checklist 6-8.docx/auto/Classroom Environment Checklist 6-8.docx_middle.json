@@ -1,0 +1,2565 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        34,
+                        88,
+                        585,
+                        735
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5218,
+                            "bbox": [
+                                159,
+                                35,
+                                425,
+                                72
+                            ],
+                            "index": 1,
+                            "type": "table_caption",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        38,
+                                        423,
+                                        51
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                161,
+                                                38,
+                                                423,
+                                                51
+                                            ],
+                                            "type": "text",
+                                            "content": "Classroom Environment Checklist 2025-2026",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        57,
+                                        369,
+                                        70
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                57,
+                                                369,
+                                                70
+                                            ],
+                                            "type": "text",
+                                            "content": "Middle School Grades 6-8",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9892,
+                            "bbox": [
+                                34,
+                                88,
+                                585,
+                                735
+                            ],
+                            "index": 2,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        88,
+                                        585,
+                                        735
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                34,
+                                                88,
+                                                585,
+                                                735
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Classroom Expectations</td><td rowspan=1 colspan=1>Completed (Y or N)Additional Comments</td></tr><tr><td rowspan=1 colspan=1>Classroom DoorsWelcoming classroom doors with teacher namesGlass must be kept clear (chart paper will be provided for drills)Remember that all classroom doors must be closed and lockedif your room is not in use.Classroom Schedule &amp; Teacher/Class Name posted (will beprovided by Admin)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Sign Out ClipboardBathroom/Water/Nurse/Main Office/Provider Sheet (available in themain office)Students who are physically leaving the classroom must sign out everytime they leave. If a provider picks them up from the classroom theymust sign them out.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Posted on Whiteboard (front of the room)Current DateLearning Target (I will be able to / IWBAT...)Lesson Agenda - An overview of the flow of the lesson for thatperiod. The agenda shows the lesson chunks and theapproximate times.Example of Lesson Agenda:Do Now (5 min)Video (10 min)Discussion (10 min)Independent Work (12 min)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Unit of Study AreaDesignated area on classroom wall/bulletin board to post informationdisplaying the current unit of study for each class/grade levelCurrent Unit of StudyEssential or Focusing QuestionsEnd of Unit Task</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Classroom Agreements /CharterCollaboratively created classroom agreements that are positivelyphrased and posted (e.g. We stay focused and try our best, We treateach other with respect, etc.)</td><td rowspan=1 colspan=1></td></tr></table>",
+                                            "image_path": "8920d54bc94c2295910ee85a0450dd29132fc4067ae4c552e14bb0ad19eacd44.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9892
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        34,
+                        88,
+                        585,
+                        735
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5218,
+                            "bbox": [
+                                159,
+                                35,
+                                425,
+                                72
+                            ],
+                            "index": 1,
+                            "type": "table_caption",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        38,
+                                        423,
+                                        51
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                161,
+                                                38,
+                                                423,
+                                                51
+                                            ],
+                                            "type": "text",
+                                            "content": "Classroom Environment Checklist 2025-2026",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        57,
+                                        369,
+                                        70
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                57,
+                                                369,
+                                                70
+                                            ],
+                                            "type": "text",
+                                            "content": "Middle School Grades 6-8",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9892,
+                            "bbox": [
+                                34,
+                                88,
+                                585,
+                                735
+                            ],
+                            "index": 2,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        88,
+                                        585,
+                                        735
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                34,
+                                                88,
+                                                585,
+                                                735
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">Classroom Expectations</td><td colspan=\"1\" rowspan=\"1\">Completed (Y or N)Additional Comments</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Classroom DoorsWelcoming classroom doors with teacher namesGlass must be kept clear (chart paper will be provided for drills)Remember that all classroom doors must be closed and lockedif your room is not in use.Classroom Schedule &amp; Teacher/Class Name posted (will beprovided by Admin)</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sign Out ClipboardBathroom/Water/Nurse/Main Office/Provider Sheet (available in themain office)Students who are physically leaving the classroom must sign out everytime they leave. If a provider picks them up from the classroom theymust sign them out.</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Posted on Whiteboard (front of the room)Current DateLearning Target (I will be able to / IWBAT...)Lesson Agenda - An overview of the flow of the lesson for thatperiod. The agenda shows the lesson chunks and theapproximate times.Example of Lesson Agenda:Do Now (5 min)Video (10 min)Discussion (10 min)Independent Work (12 min)</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Unit of Study AreaDesignated area on classroom wall/bulletin board to post informationdisplaying the current unit of study for each class/grade levelCurrent Unit of StudyEssential or Focusing QuestionsEnd of Unit Task</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Classroom Agreements /CharterCollaboratively created classroom agreements that are positivelyphrased and posted (e.g. We stay focused and try our best, We treateach other with respect, etc.)</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Lesson PlansLesson plan must be easily accessible to administration. It is best as ahard copy, but if it is a soft copy, then you will be asked to send it toadministration electronically by 2:25pm. Click here for links to lessonplan templates</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Vocabulary AreasUnit/Academic Vocabulary - This section should containvocabulary words that are relevant to your current unit of study.This section will change with your units. Include pictures anddefinitions with each word (i.e. - hieroglyphics, fertile crescent,equator).</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Clean ClassroomsNo clutter (e.g. empty boxes, random papers, brokencomputers)Windowsills cleared off (e.g. no loose papers)Shelving units are kept tidyAnchor Charts are visible to students and currentPosters are not torn, wrinkled, or oldCounters and tables are kept clean and organized (e.g. nopencil shavings, dust, student belongings, etc.)Student desks are kept clean and emptyTeacher desk is organized and clean</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">SignageAll areas of the classroom must be clearly labeled (e.g.. classroomlibrary, portfolios, bulletin boards, notebooks, bins, binders). Whenpossible signs should be electronically printed. If they arehandwritten, they must be legible, attractive and neat</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Instructional Charts/Anchor ChartsInstructional charts are vital for displaying what you have beenteaching. Students use these as a resource, and they bring the unitsalive in your classroom. All charts should be current and relevant,hanging straight, and not torn or crumpled.*See bottom of checklist for examples*</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Portfolio Assessment FoldersDesignated folder which includes:Table of Contents for Performance Tasks(indicates if piece isdigital or on paper)•Table of Contents for Unit Assessment (e.g. tests, quizzes)</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">All items in this folder must include rubrics and feedback.</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Bulletin Boards (Classroom and Hallway)All backing paper must be replaced for the 2024-2025 schoolyear.Designated sections for each content area, clearly labeled, withauthentic student work of varying levels (at least 10 student samples)and meaningful feedback based on a rubric.Feedback should include a specific next step and a strategy for gettingthere, as well as one area of celebration, both based on the rubric.Bulletin Boards should include: Teacher name(s), Date, Standardsaddressed, Task, Rubric, Student work with feedback.</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Classroom Library/Resource Center (labeled as such)All bins/books should be easily accessible to students, and bins shouldbe maintained and kept tidy. All ELA/ENL rooms must have a clearlylabeled library withbooks organized by genre.. All other contentsshould have content specific libraries/resource centers.</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">SafetyVisible and accessible Red Emergency Folder (includesAssembly Cards) and updated student rostersAllergy notification system (ie. Nut Free Zone sign provided byAdmin) as needed</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Additional Classroom Expectations:Food and Drinks: No glass bottles are permitted in the schoolbuilding. If you permit students to eat in the classroom, ensurethat all trash is properly removed.Outer Clothing: Make sure students have removed their hoods,caps, hats and jackets when they are in your room. If studentsare cold, they are permitted to wear long sleeves under theiruniform shirts.School Bags: Make sure that all school bags have beenremoved and placed on the back of students' chairs.Sports Equipment: Sports equipment is not allowed to bevisible in the classroom or hallways during instructional timeIf sports equipment becomes a distraction to teaching andlearning it must be taken from the student.</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td>• Cell Phones: Phones are collected in the morning and returned at the end of the school day. They are not allowed in the classroom.</td><td></td></tr><tr><td>SMART/Promethean Boards All boards need to be turned off, and equipment stored properly when not in use. Please do not tape items to the touch screen portion of the board.</td><td></td></tr></table>",
+                                            "image_path": "8920d54bc94c2295910ee85a0450dd29132fc4067ae4c552e14bb0ad19eacd44.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9892
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        34,
+                        34,
+                        585,
+                        750
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9877,
+                            "bbox": [
+                                34,
+                                34,
+                                585,
+                                750
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        34,
+                                        585,
+                                        750
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                34,
+                                                34,
+                                                585,
+                                                750
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Lesson PlansLesson plan must be easily accessible to administration. It is best as ahard copy, but if it is a soft copy, then you will be asked to send it toadministration electronically by 2:25pm. Click here for links to lessonplan templates</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Vocabulary AreasUnit/Academic Vocabulary - This section should containvocabulary words that are relevant to your current unit of study.This section will change with your units. Include pictures anddefinitions with each word (i.e. - hieroglyphics, fertile crescent,equator).</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Clean ClassroomsNo clutter (e.g. empty boxes, random papers, brokencomputers)Windowsills cleared off (e.g. no loose papers)Shelving units are kept tidyAnchor Charts are visible to students and currentPosters are not torn, wrinkled, or oldCounters and tables are kept clean and organized (e.g. nopencil shavings, dust, student belongings, etc.)Student desks are kept clean and emptyTeacher desk is organized and clean</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>SignageAll areas of the classroom must be clearly labeled (e.g.. classroomlibrary, portfolios, bulletin boards, notebooks, bins, binders). Whenpossible signs should be electronically printed. If they arehandwritten, they must be legible, attractive and neat</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Instructional Charts/Anchor ChartsInstructional charts are vital for displaying what you have beenteaching. Students use these as a resource, and they bring the unitsalive in your classroom. All charts should be current and relevant,hanging straight, and not torn or crumpled.*See bottom of checklist for examples*</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Portfolio Assessment FoldersDesignated folder which includes:Table of Contents for Performance Tasks(indicates if piece isdigital or on paper)•Table of Contents for Unit Assessment (e.g. tests, quizzes)</td><td rowspan=1 colspan=1></td></tr></table>",
+                                            "image_path": "afc34c818aa6c71d7751bdaa0f272a4ceea1b78ea375cc24491ac1062ee518d8.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9877
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        34,
+                        34,
+                        585,
+                        750
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9877,
+                            "bbox": [
+                                34,
+                                34,
+                                585,
+                                750
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [],
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9877
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        33,
+                        34,
+                        585,
+                        739
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9898,
+                            "bbox": [
+                                33,
+                                34,
+                                585,
+                                739
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        34,
+                                        585,
+                                        739
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                33,
+                                                34,
+                                                585,
+                                                739
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=1>All items in this folder must include rubrics and feedback.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Bulletin Boards (Classroom and Hallway)All backing paper must be replaced for the 2024-2025 schoolyear.Designated sections for each content area, clearly labeled, withauthentic student work of varying levels (at least 10 student samples)and meaningful feedback based on a rubric.Feedback should include a specific next step and a strategy for gettingthere, as well as one area of celebration, both based on the rubric.Bulletin Boards should include: Teacher name(s), Date, Standardsaddressed, Task, Rubric, Student work with feedback.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Classroom Library/Resource Center (labeled as such)All bins/books should be easily accessible to students, and bins shouldbe maintained and kept tidy. All ELA/ENL rooms must have a clearlylabeled library withbooks organized by genre.. All other contentsshould have content specific libraries/resource centers.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>SafetyVisible and accessible Red Emergency Folder (includesAssembly Cards) and updated student rostersAllergy notification system (ie. Nut Free Zone sign provided byAdmin) as needed</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Additional Classroom Expectations:Food and Drinks: No glass bottles are permitted in the schoolbuilding. If you permit students to eat in the classroom, ensurethat all trash is properly removed.Outer Clothing: Make sure students have removed their hoods,caps, hats and jackets when they are in your room. If studentsare cold, they are permitted to wear long sleeves under theiruniform shirts.School Bags: Make sure that all school bags have beenremoved and placed on the back of students&#x27; chairs.Sports Equipment: Sports equipment is not allowed to bevisible in the classroom or hallways during instructional timeIf sports equipment becomes a distraction to teaching andlearning it must be taken from the student.</td><td rowspan=1 colspan=1></td></tr></table>",
+                                            "image_path": "a4bfa508a9dcb19e82f5c058f8f3d72ebf0d12ee0442fa814762ff9316d594cb.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9898
+                }
+            ],
+            "page_idx": 2,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        33,
+                        34,
+                        585,
+                        739
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9898,
+                            "bbox": [
+                                33,
+                                34,
+                                585,
+                                739
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [],
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9898
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        36,
+                        34,
+                        585,
+                        173
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9753,
+                            "bbox": [
+                                36,
+                                34,
+                                585,
+                                173
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        34,
+                                        585,
+                                        173
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                36,
+                                                34,
+                                                585,
+                                                173
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>• Cell Phones: Phones are collected in the morning and returned at the end of the school day. They are not allowed in the classroom.</td><td></td></tr><tr><td>SMART/Promethean Boards All boards need to be turned off, and equipment stored properly when not in use. Please do not tape items to the touch screen portion of the board.</td><td></td></tr></table>",
+                                            "image_path": "4aafc7e8cc483a38b0d69b4fa84d886d9a3c824c520751d7fa9ee3b9945c1352.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9753
+                },
+                {
+                    "score": 0.6146,
+                    "bbox": [
+                        33,
+                        207,
+                        176,
+                        222
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                36,
+                                210,
+                                173,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        210,
+                                        173,
+                                        221
+                                    ],
+                                    "type": "text",
+                                    "content": "SAMPLE ANCHOR CHARTS:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5721,
+                    "bbox": [
+                        41,
+                        228,
+                        239,
+                        306
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                229,
+                                104,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        229,
+                                        104,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "Put the",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                242,
+                                240,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        242,
+                                        240,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "CHART TITLE",
+                                    "score": 0.988
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                276,
+                                218,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        276,
+                                        218,
+                                        304
+                                    ],
+                                    "type": "text",
+                                    "content": "UP HERE!",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9153,
+                    "bbox": [
+                        251,
+                        264,
+                        353,
+                        308
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": []
+                },
+                {
+                    "score": 0.624,
+                    "bbox": [
+                        55,
+                        325,
+                        353,
+                        369
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                324,
+                                315,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        324,
+                                        315,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "This is where you want to TEAch!",
+                                    "score": 0.951
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                340,
+                                351,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        340,
+                                        351,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "Include thekey information you want",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                81,
+                                355,
+                                186,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        355,
+                                        186,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "students to know.",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8894,
+                    "bbox": [
+                        66,
+                        367,
+                        253,
+                        383
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                366,
+                                253,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        366,
+                                        253,
+                                        383
+                                    ],
+                                    "type": "text",
+                                    "content": "Be clear and concise.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8768,
+                    "bbox": [
+                        66,
+                        381,
+                        273,
+                        408
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                379,
+                                272,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        379,
+                                        272,
+                                        401
+                                    ],
+                                    "type": "text",
+                                    "content": "Represent with simple images",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                84,
+                                395,
+                                150,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        395,
+                                        150,
+                                        408
+                                    ],
+                                    "type": "text",
+                                    "content": "if you can.",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9175,
+                    "bbox": [
+                        67,
+                        407,
+                        245,
+                        424
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                406,
+                                245,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        406,
+                                        245,
+                                        424
+                                    ],
+                                    "type": "text",
+                                    "content": "Organize smaller chunks...",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6727,
+                    "bbox": [
+                        52,
+                        424,
+                        293,
+                        459
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": []
+                },
+                {
+                    "score": 0.6831,
+                    "bbox": [
+                        49,
+                        483,
+                        313,
+                        501
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                483,
+                                313,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        483,
+                                        313,
+                                        500
+                                    ],
+                                    "type": "text",
+                                    "content": "Down HERE is yourchance to MoDEL.",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9037,
+                    "bbox": [
+                        48,
+                        506,
+                        141,
+                        543
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                507,
+                                131,
+                                519
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        507,
+                                        131,
+                                        519
+                                    ],
+                                    "type": "text",
+                                    "content": "Give reminders",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                518,
+                                132,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        518,
+                                        132,
+                                        530
+                                    ],
+                                    "type": "text",
+                                    "content": "of your thought",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                530,
+                                140,
+                                541
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        530,
+                                        140,
+                                        541
+                                    ],
+                                    "type": "text",
+                                    "content": "processes here.",
+                                    "score": 0.96
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.819,
+                    "bbox": [
+                        74,
+                        546,
+                        146,
+                        560
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                544,
+                                147,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        544,
+                                        147,
+                                        561
+                                    ],
+                                    "type": "text",
+                                    "content": "Give tipsor",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8153,
+                    "bbox": [
+                        73,
+                        558,
+                        146,
+                        570
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                558,
+                                146,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        558,
+                                        146,
+                                        570
+                                    ],
+                                    "type": "text",
+                                    "content": "cues to hele",
+                                    "score": 0.981
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8729,
+                    "bbox": [
+                        73,
+                        568,
+                        152,
+                        583
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                567,
+                                152,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        567,
+                                        152,
+                                        584
+                                    ],
+                                    "type": "text",
+                                    "content": "students apply.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5671,
+                    "bbox": [
+                        183,
+                        510,
+                        325,
+                        575
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": []
+                },
+                {
+                    "score": 0.61,
+                    "bbox": [
+                        189,
+                        574,
+                        326,
+                        600
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": []
+                }
+            ],
+            "page_idx": 3,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        36,
+                        34,
+                        585,
+                        173
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9753,
+                            "bbox": [
+                                36,
+                                34,
+                                585,
+                                173
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [],
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9753
+                },
+                {
+                    "score": 0.6146,
+                    "bbox": [
+                        33,
+                        207,
+                        176,
+                        222
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                36,
+                                210,
+                                173,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        210,
+                                        173,
+                                        221
+                                    ],
+                                    "type": "text",
+                                    "content": "SAMPLE ANCHOR CHARTS:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        36,
+                        210,
+                        173,
+                        221
+                    ]
+                },
+                {
+                    "score": 0.5721,
+                    "bbox": [
+                        41,
+                        228,
+                        239,
+                        306
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                229,
+                                104,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        229,
+                                        104,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "Put the",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                242,
+                                240,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        242,
+                                        240,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "CHART TITLE",
+                                    "score": 0.988
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                276,
+                                218,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        276,
+                                        218,
+                                        304
+                                    ],
+                                    "type": "text",
+                                    "content": "UP HERE!",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9153,
+                    "bbox": [
+                        251,
+                        264,
+                        353,
+                        308
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        251,
+                        264,
+                        353,
+                        308
+                    ]
+                },
+                {
+                    "score": 0.624,
+                    "bbox": [
+                        55,
+                        325,
+                        353,
+                        369
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                324,
+                                315,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        324,
+                                        315,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "This is where you want to TEAch!",
+                                    "score": 0.951
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                340,
+                                351,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        340,
+                                        351,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "Include thekey information you want",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                81,
+                                355,
+                                186,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        355,
+                                        186,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "students to know.",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        55,
+                        324,
+                        351,
+                        369
+                    ]
+                },
+                {
+                    "score": 0.8894,
+                    "bbox": [
+                        66,
+                        367,
+                        253,
+                        383
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                366,
+                                253,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        366,
+                                        253,
+                                        383
+                                    ],
+                                    "type": "text",
+                                    "content": "Be clear and concise.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        366,
+                        253,
+                        383
+                    ]
+                },
+                {
+                    "score": 0.8768,
+                    "bbox": [
+                        66,
+                        381,
+                        273,
+                        408
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                379,
+                                272,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        379,
+                                        272,
+                                        401
+                                    ],
+                                    "type": "text",
+                                    "content": "Represent with simple images",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                84,
+                                395,
+                                150,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        395,
+                                        150,
+                                        408
+                                    ],
+                                    "type": "text",
+                                    "content": "if you can.",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        379,
+                        272,
+                        408
+                    ]
+                },
+                {
+                    "score": 0.9175,
+                    "bbox": [
+                        67,
+                        407,
+                        245,
+                        424
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                406,
+                                245,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        406,
+                                        245,
+                                        424
+                                    ],
+                                    "type": "text",
+                                    "content": "Organize smaller chunks...",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        66,
+                        406,
+                        245,
+                        424
+                    ]
+                },
+                {
+                    "score": 0.6727,
+                    "bbox": [
+                        52,
+                        424,
+                        293,
+                        459
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        52,
+                        424,
+                        293,
+                        459
+                    ]
+                },
+                {
+                    "score": 0.6831,
+                    "bbox": [
+                        49,
+                        483,
+                        313,
+                        501
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                483,
+                                313,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        483,
+                                        313,
+                                        500
+                                    ],
+                                    "type": "text",
+                                    "content": "Down HERE is yourchance to MoDEL.",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        49,
+                        483,
+                        313,
+                        500
+                    ]
+                },
+                {
+                    "score": 0.9037,
+                    "bbox": [
+                        48,
+                        506,
+                        141,
+                        543
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                507,
+                                131,
+                                519
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        507,
+                                        131,
+                                        519
+                                    ],
+                                    "type": "text",
+                                    "content": "Give reminders",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                518,
+                                132,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        518,
+                                        132,
+                                        530
+                                    ],
+                                    "type": "text",
+                                    "content": "of your thought",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                530,
+                                140,
+                                541
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        530,
+                                        140,
+                                        541
+                                    ],
+                                    "type": "text",
+                                    "content": "processes here.",
+                                    "score": 0.96
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        49,
+                        507,
+                        140,
+                        541
+                    ]
+                },
+                {
+                    "score": 0.819,
+                    "bbox": [
+                        74,
+                        546,
+                        146,
+                        560
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                544,
+                                147,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        544,
+                                        147,
+                                        561
+                                    ],
+                                    "type": "text",
+                                    "content": "Give tipsor",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        73,
+                        544,
+                        147,
+                        561
+                    ]
+                },
+                {
+                    "score": 0.8153,
+                    "bbox": [
+                        73,
+                        558,
+                        146,
+                        570
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                558,
+                                146,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        558,
+                                        146,
+                                        570
+                                    ],
+                                    "type": "text",
+                                    "content": "cues to hele",
+                                    "score": 0.981
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        72,
+                        558,
+                        146,
+                        570
+                    ]
+                },
+                {
+                    "score": 0.8729,
+                    "bbox": [
+                        73,
+                        568,
+                        152,
+                        583
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                567,
+                                152,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        567,
+                                        152,
+                                        584
+                                    ],
+                                    "type": "text",
+                                    "content": "students apply.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        72,
+                        567,
+                        152,
+                        584
+                    ]
+                },
+                {
+                    "score": 0.5671,
+                    "bbox": [
+                        183,
+                        510,
+                        325,
+                        575
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        183,
+                        510,
+                        325,
+                        575
+                    ]
+                },
+                {
+                    "score": 0.61,
+                    "bbox": [
+                        189,
+                        574,
+                        326,
+                        600
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        189,
+                        574,
+                        326,
+                        600
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [],
+            "page_idx": 4,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.64,
+                    "bbox": [
+                        54,
+                        51,
+                        267,
+                        81
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                50,
+                                267,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        50,
+                                        267,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "Dividing Whole# By Fraclions",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9613,
+                    "bbox": [
+                        53,
+                        83,
+                        270,
+                        114
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                83,
+                                270,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        83,
+                                        270,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Sarai bought 4 bogs of candy corn for Halloween baskets",
+                                    "score": 0.964
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                92,
+                                269,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        92,
+                                        269,
+                                        111
+                                    ],
+                                    "type": "text",
+                                    "content": "she is molng She wants to put  a bog of cand y corn",
+                                    "score": 0.915
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.934,
+                    "bbox": [
+                        54,
+                        118,
+                        258,
+                        149
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                135,
+                                252,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        135,
+                                        252,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "Do Identify the dividend and divisor.",
+                                    "score": 0.96
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9541,
+                    "bbox": [
+                        53,
+                        177,
+                        272,
+                        218
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                195,
+                                269,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        195,
+                                        269,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": "DoDraw the dividend using a fraction mode l and",
+                                    "score": 0.918
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                206,
+                                271,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        206,
+                                        271,
+                                        217
+                                    ],
+                                    "type": "text",
+                                    "content": "divide each wnole into equal parts hased on the denominato",
+                                    "score": 0.866
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6308,
+                    "bbox": [
+                        80,
+                        220,
+                        203,
+                        243
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                219,
+                                204,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        219,
+                                        204,
+                                        243
+                                    ],
+                                    "type": "text",
+                                    "content": "□ □□□",
+                                    "score": 0.675
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        51,
+                        246,
+                        264,
+                        287
+                    ],
+                    "index": 6,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.6972,
+                    "bbox": [
+                        77,
+                        289,
+                        223,
+                        313
+                    ],
+                    "index": 7,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                288,
+                                224,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        288,
+                                        224,
+                                        314
+                                    ],
+                                    "type": "text",
+                                    "content": "□OOO",
+                                    "score": 0.618
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9543,
+                    "bbox": [
+                        49,
+                        317,
+                        266,
+                        383
+                    ],
+                    "index": 8,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                367,
+                                133,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        367,
+                                        133,
+                                        382
+                                    ],
+                                    "type": "text",
+                                    "content": "the deromsnator",
+                                    "score": 0.544
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5483,
+                    "bbox": [
+                        285,
+                        74,
+                        540,
+                        151
+                    ],
+                    "index": 9,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                275,
+                                71,
+                                549,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        275,
+                                        71,
+                                        549,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "COUISIDES INSIDES",
+                                    "score": 0.713
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7863,
+                    "bbox": [
+                        290,
+                        163,
+                        346,
+                        201
+                    ],
+                    "index": 10,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                289,
+                                162,
+                                347,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        289,
+                                        162,
+                                        347,
+                                        187
+                                    ],
+                                    "type": "text",
+                                    "content": "Physical",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                290,
+                                180,
+                                347,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        180,
+                                        347,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Traits",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5165,
+                    "bbox": [
+                        291,
+                        205,
+                        340,
+                        222
+                    ],
+                    "index": 11,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                289,
+                                204,
+                                342,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        289,
+                                        204,
+                                        342,
+                                        223
+                                    ],
+                                    "type": "text",
+                                    "content": "",
+                                    "score": 0.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6974,
+                    "bbox": [
+                        473,
+                        169,
+                        527,
+                        188
+                    ],
+                    "index": 12,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.7331,
+                    "bbox": [
+                        290,
+                        225,
+                        353,
+                        258
+                    ],
+                    "index": 13,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                290,
+                                223,
+                                355,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        223,
+                                        355,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "What we",
+                                    "score": 0.976
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                241,
+                                336,
+                                256
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        241,
+                                        336,
+                                        256
+                                    ],
+                                    "type": "text",
+                                    "content": "see",
+                                    "score": 0.974
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9333,
+                    "bbox": [
+                        295,
+                        261,
+                        356,
+                        329
+                    ],
+                    "index": 14,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                296,
+                                261,
+                                354,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        296,
+                                        261,
+                                        354,
+                                        273
+                                    ],
+                                    "type": "text",
+                                    "content": "brown hair",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                297,
+                                282,
+                                354,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        282,
+                                        354,
+                                        294
+                                    ],
+                                    "type": "text",
+                                    "content": "brown eyes",
+                                    "score": 0.984
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                292,
+                                309,
+                                355,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        309,
+                                        355,
+                                        328
+                                    ],
+                                    "type": "text",
+                                    "content": "green shirti",
+                                    "score": 0.74
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7302,
+                    "bbox": [
+                        295,
+                        350,
+                        382,
+                        381
+                    ],
+                    "index": 15,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                294,
+                                349,
+                                382,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        294,
+                                        349,
+                                        382,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "Understanding",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                295,
+                                363,
+                                383,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        295,
+                                        363,
+                                        383,
+                                        382
+                                    ],
+                                    "type": "text",
+                                    "content": "Characters",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.736,
+                    "bbox": [
+                        466,
+                        227,
+                        505,
+                        244
+                    ],
+                    "index": 16,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.7044,
+                    "bbox": [
+                        449,
+                        266,
+                        525,
+                        302
+                    ],
+                    "index": 17,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                447,
+                                263,
+                                526,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        447,
+                                        263,
+                                        526,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "Personality",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                467,
+                                284,
+                                522,
+                                300
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        467,
+                                        284,
+                                        522,
+                                        300
+                                    ],
+                                    "type": "text",
+                                    "content": "Traits",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5864,
+                    "bbox": [
+                        457,
+                        307,
+                        531,
+                        376
+                    ],
+                    "index": 18,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                457,
+                                307,
+                                515,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        457,
+                                        307,
+                                        515,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": "What we",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                460,
+                                320,
+                                530,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        320,
+                                        530,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "learn based",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                460,
+                                331,
+                                529,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        331,
+                                        529,
+                                        345
+                                    ],
+                                    "type": "text",
+                                    "content": "on what the",
+                                    "score": 0.987
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                458,
+                                344,
+                                514,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        458,
+                                        344,
+                                        514,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "Character",
+                                    "score": 0.962
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                457,
+                                352,
+                                519,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        457,
+                                        352,
+                                        519,
+                                        364
+                                    ],
+                                    "type": "text",
+                                    "content": "says, does,",
+                                    "score": 0.973
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                456,
+                                362,
+                                530,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        456,
+                                        362,
+                                        530,
+                                        376
+                                    ],
+                                    "type": "text",
+                                    "content": "thinks feels",
+                                    "score": 0.97
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7689,
+                    "bbox": [
+                        364,
+                        381,
+                        468,
+                        396
+                    ],
+                    "index": 19,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                363,
+                                381,
+                                467,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        363,
+                                        381,
+                                        467,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "TEACHERTRAP.COM",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": []
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,2445 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Union City Administrative Efectiveness Framework"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                120,
+                114,
+                877,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Modeled after Danielson, tailored for non-instructional administrators)"
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                154,
+                805,
+                172
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Framework Overview"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                215,
+                380,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This framework mirrors Danielson’s four-domain structure (Planning/Preparation, Classroom Environment, Instruction, Professionalism) but is adapted for non-instructional administrators such as the Maintenance Supervisor, Bus/Transportation Supervisor, Athletic Director, and Food Service Director."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                248,
+                818,
+                323
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domains:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                332,
+                202,
+                352
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Leadership & Vision – Strategic planning, alignment to mission, resource management."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                362,
+                771,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Operations & Management – Safety, efficiency, compliance, crisis response."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                409,
+                799,
+                430
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Collaboration & Communication – Stakeholder engagement, team leadership, conflict resolution."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                439,
+                880,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Professionalism & Growth – Ethical practice, continuous learning, contribution to district culture."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                487,
+                838,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Each domain includes four levels of performance:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                535,
+                549,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                564,
+                256,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                594,
+                181,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                623,
+                215,
+                642
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                652,
+                250,
+                672
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Maintenance Supervisor"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                90,
+                367,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 1: Leadership & Vision"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                122,
+                390,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Lacks a facilities plan; responds only when problems arise."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                152,
+                776,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Maintains a basic schedule of repairs and communicates some goals."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                183,
+                794,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Develops and follows a preventative maintenance plan aligned to district goals."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                212,
+                851,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Anticipates future facility needs, secures resources, and models innovation in maintenance practices."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                260,
+                813,
+                296
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 2: Operations & Management"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                306,
+                450,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Safety violations or frequent breakdowns occur."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                337,
+                678,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Addresses issues as they arise, but preventive planning is limited."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                366,
+                759,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Consistently maintains safe, efficient facilities with compliance to codes."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                396,
+                844,
+                415
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Creates systems to maximize efficiency, sustainability, and safety across all facilities."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                426,
+                825,
+                462
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 3: Collaboration & Communication"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                472,
+                491,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Rarely communicates with staff or administrators."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                502,
+                694,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Shares updates only when asked."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                532,
+                485,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Regularly updates principals/administrators and responds promptly to concerns."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                561,
+                826,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Builds trust, communicates proactively, and involves stakeholders in planning."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                609,
+                849,
+                647
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 4: Professionalism & Growth"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                656,
+                442,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Does not pursue new practices or demonstrate professionalism."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                686,
+                818,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Complies with minimum requirements."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                717,
+                522,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Engages in professional learning, models ethical practice."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                746,
+                723,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Leads district initiatives (sustainability, safety drills, training others)."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                775,
+                839,
+                795
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Bus/Transportation Supervisor"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                90,
+                429,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 1: Leadership & Vision"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                122,
+                390,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Lacks organized bus routes; little alignment with district goals."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                152,
+                802,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Routes and schedules are functional but inefficient."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                181,
+                633,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Routes are efficient, safe, and support instructional priorities."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                212,
+                750,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Innovates in transportation (technology for tracking, routing efficiency) and plans proactively."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                241,
+                864,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 2: Operations & Management"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                287,
+                450,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Frequent late buses, poor vehicle maintenance, safety lapses."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                319,
+                803,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets minimum compliance with safety inspections."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                348,
+                640,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Ensures reliable routes, maintains vehicles, complies with safety and state guidelines."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                377,
+                867,
+                415
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Implements systems for continuous improvement in safety, efficiency, and service quality."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                425,
+                859,
+                463
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 3: Collaboration & Communication"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                472,
+                491,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Limited communication with parents or schools."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                502,
+                678,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Communicates reactively when problems arise."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                532,
+                601,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Maintains clear communication with drivers, principals, and families."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                561,
+                812,
+                580
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Distinguished: Builds strong partnerships with families, staff, and community;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "anticipates concerns."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                590,
+                797,
+                628
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 4: Professionalism & Growth"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                638,
+                442,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Does not enforce safety or professional standards with staff."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                667,
+                785,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Provides occasional training or reminders to drivers."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                699,
+                642,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Regularly trains drivers and models professionalism."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                727,
+                678,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Leads regional/state transportation initiatives and mentors peers."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                757,
+                821,
+                776
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Athletic Director"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                90,
+                282,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 1: Leadership & Vision"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                122,
+                390,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: No clear vision; athletic program lacks direction."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                152,
+                681,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Provides scheduling and oversight but limited long-term planning."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                181,
+                756,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Develops programs aligned with district mission, ensuring opportunities for all students."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                212,
+                869,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Champions student-athlete growth, equity, and excellence; anticipates trends and innovates."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                260,
+                867,
+                296
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 2: Operations & Management"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                306,
+                450,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Frequent scheduling conflicts, noncompliance with MHSAA rules, or safety issues."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                337,
+                856,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets compliance but with some errors or inefficiencies."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                385,
+                676,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Ensures smooth operations, compliance, and safe facilities."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                414,
+                740,
+                433
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Builds efficient systems, maximizes participation, and ensures high-quality experiences for athletes and families."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                444,
+                797,
+                481
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 3: Collaboration & Communication"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                491,
+                491,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Rare communication with coaches, parents, or community."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                521,
+                772,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Communicates only essential information reactively."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                550,
+                640,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Maintains strong relationships with coaches, parents, and administrators."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                579,
+                854,
+                599
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Builds community partnerships, promotes athletics as an integral part of district culture."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                609,
+                882,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 4: Professionalism & Growth"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                656,
+                441,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Displays bias or unprofessional behavior."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                686,
+                622,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets compliance but does not model professional growth."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                715,
+                700,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Models fairness, seeks professional learning, enforces standards."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                746,
+                792,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Mentors coaches, engages in regional/state leadership, promotes holistic student-athlete development."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                775,
+                828,
+                813
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Food Service Director"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                90,
+                343,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 1: Leadership & Vision"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                122,
+                390,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Program lacks clear goals; poor alignment with student nutrition needs."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                152,
+                882,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets federal/state requirements but lacks vision."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                181,
+                620,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Plans nutritious menus aligned with district goals and student well-being."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                212,
+                852,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Innovates menus, integrates farm-to-school or wellness initiatives, anticipates future needs."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                241,
+                831,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 2: Operations & Management"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                287,
+                450,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Health code violations, frequent shortages, or inefficiencies."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                318,
+                782,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets minimum compliance with some lapses."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                348,
+                596,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Ensures safe, efficient, and cost-effective operations."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                377,
+                683,
+                396
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Implements innovative systems for sustainability, cost savings, and improved service."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                407,
+                839,
+                444
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 3: Collaboration & Communication"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                454,
+                491,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Poor communication with staff, students, or families."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                484,
+                717,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Shares limited updates or responds only when asked."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                513,
+                655,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Maintains effective communication with stakeholders and staff."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                542,
+                766,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Engages families, promotes nutrition education, builds positive community partnerships."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                573,
+                802,
+                611
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 4: Professionalism & Growth"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                619,
+                441,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Lacks professional standards; does not seek improvement."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                650,
+                776,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets compliance with limited growth."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                679,
+                519,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Seeks professional learning, models ethical practice, supports staff."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                709,
+                807,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Leads wellness initiatives, mentors peers, and contributes to districtwide student success goals."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                739,
+                784,
+                776
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Technology Director"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                90,
+                325,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 1: Leadership & Vision"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                122,
+                390,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: No technology plan; reacts to issues."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                152,
+                586,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Maintains systems with limited planning."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                183,
+                539,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Develops and implements a district technology plan aligned to goals."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                212,
+                818,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Anticipates future needs, drives innovation, aligns vision with instructional priorities."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                241,
+                787,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 2: Operations & Management"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                287,
+                450,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Frequent outages, poor data security."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                319,
+                591,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Resolves issues reactively; compliance inconsistent."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                348,
+                643,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Maintains reliable infrastructure, ensures compliance, protects data.."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                377,
+                816,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Implements proactive systems, maximizes efficiency, ensures robust cybersecurity."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                406,
+                854,
+                444
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 3: Collaboration & Communication"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                454,
+                491,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Rarely communicates with staff/admin.."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                484,
+                606,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Provides updates only when asked."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                513,
+                498,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Communicates effectively with staff, leaders, and vendors."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                542,
+                728,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Proactively engages stakeholders, builds trust, and empowers staff with training."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                573,
+                880,
+                611
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 4: Professionalism & Growth"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                619,
+                442,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Unsatisfactory: Avoids learning new tech, lacks professionalism."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                650,
+                686,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Basic: Meets compliance with limited growth."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                679,
+                519,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Proficient: Seeks professional learning, models ethics, supports staff."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                709,
+                728,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Distinguished: Leads district innovation, mentors peers, contributes to regional/state initiatives.)."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                739,
+                857,
+                776
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Business Manager"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                94,
+                426,
+                126
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 1: Leadership & Management"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                143,
+                442,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Unsatisfactory: Fails to provide oversight of district finances; budgets are inaccurate or incomplete; does not comply with legal requirements."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                178,
+                869,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Basic: Maintains budgets and financial processes but with occasional errors; limited communication with stakeholders."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                213,
+                839,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Proficient: Consistently manages budgets accurately, ensures compliance, and communicates financial information clearly to stakeholders."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                247,
+                797,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Distinguished: Anticipates financial needs, proactively guides district leaders, and uses financial data to strategically support district goals."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                282,
+                866,
+                319
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 2: Fiscal Responsibility & Compliance"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                335,
+                511,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Unsatisfactory: Frequently late or inaccurate with state/federal reporting; financial audits reveal serious deficiencies."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                371,
+                882,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Basic: Completes reports and audits with occasional corrections needed; limited long-term financial planning."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                405,
+                808,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Proficient: Reports are accurate, timely, and audits are clean; engages in sound financial forecasting."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                440,
+                872,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Distinguished: Provides exemplary transparency, identifies cost-saving opportunities, and secures additional revenue streams (e.g., grants, partnerships)."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                474,
+                852,
+                511
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 3: Communication & Collaboration"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                527,
+                490,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Unsatisfactory: Withholds or provides unclear financial information; limited communication with administrators or board."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                561,
+                784,
+                597
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Basic: Shares required information but without context or clarity; collaboration is limited."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                598,
+                882,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Proficient: Provides clear, understandable financial information to administrators, board, and community; works collaboratively on budget priorities."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                616,
+                877,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Distinguished: Proactively engages stakeholders, builds financial literacy in the district, and creates a culture of trust and transparency."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                650,
+                870,
+                685
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain 4: Professionalism & Ethical Standards"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                702,
+                521,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Unsatisfactory: Engages in unethical practices or conflicts of interest; disregards district policy."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                737,
+                875,
+                771
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Basic: Adheres to policies but may lack transparency or initiative."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                772,
+                696,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Proficient: Demonstrates integrity, confidentiality, and adherence to policies and laws."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                790,
+                859,
+                808
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● Distinguished: Models the highest ethical standards, mentors others in ethical practice, and safeguards district resources with exceptional stewardship."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                808,
+                862,
+                843
+            ]
+        }
+    ]
+]

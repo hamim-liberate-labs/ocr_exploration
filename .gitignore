@@ -44,6 +44,8 @@ __pycache__/
 *.egg-info/
 .ipynb_checkpoints/
 .venv/
+# per-converter venvs (.venv-mineru, .venv-marker, .venv-pymupdf4llm, .venv-markitdown) — multi-GB
+.venv-*/
 venv/
 env/
 
@@ -53,3 +55,9 @@ env/
 *.zip
 *.tar
 *.tar.gz
+
+# =============================================================================
+# PDF→Markdown converter notebooks (see notebooks/CONVERTERS.md)
+# Only out/ and html/ are produced, and both ARE tracked as results per the
+# standard. Engine model caches live in ~/.cache & ~/Library/Caches (outside repo).
+# =============================================================================

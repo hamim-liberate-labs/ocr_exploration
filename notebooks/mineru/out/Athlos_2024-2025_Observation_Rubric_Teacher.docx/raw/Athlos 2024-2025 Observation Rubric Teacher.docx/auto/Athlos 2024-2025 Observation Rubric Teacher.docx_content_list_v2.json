@@ -1,0 +1,848 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d78c90691ca17744bad66167289a3493e5db9af34801ca52bd83a6605b586f0c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                445,
+                127,
+                553,
+                295
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Athlos Leadership Academy"
+                    }
+                ]
+            },
+            "bbox": [
+                417,
+                316,
+                579,
+                339
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Teacher:"
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                452,
+                88,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Signature:"
+                    }
+                ]
+            },
+            "bbox": [
+                396,
+                450,
+                589,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subject/s:"
+                    }
+                ]
+            },
+            "bbox": [
+                714,
+                450,
+                779,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Observer:"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                493,
+                94,
+                514
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Signature:"
+                    }
+                ]
+            },
+            "bbox": [
+                397,
+                493,
+                595,
+                514
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Grade:"
+                    }
+                ]
+            },
+            "bbox": [
+                714,
+                493,
+                760,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Observation Date:"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                535,
+                141,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Post Meeting Date:"
+                    }
+                ]
+            },
+            "bbox": [
+                397,
+                535,
+                512,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "*This observation rubric will be used for Q-comp observations conducted in accordance with Q-Comp. The results of the observation are not to be construed as a summative evaluation. The results of each observation are considered, though, in the summative evaluation process."
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                647,
+                954,
+                691
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PERFORMANCE RUBRIC I Planning and Preparation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                424,
+                76,
+                573,
+                120
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ebb1c5818a00eb925f4ab21fad475e6a2b3bbdb7c43d27da19ef1874f3f34283.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Performance Levels"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=5>Criteria                            Beginning                                      Developing                         Applying                                Innovating</td></tr><tr><td rowspan=1 colspan=1>A. Demonstratesappropriate knowledgeof content andpedagogy</td><td rowspan=1 colspan=1>Teacher displays minimalknowledge of the content,background knowledge or ofpedagogical issues.</td><td rowspan=1 colspan=1>Teacher displays basic contentknowledge and someawareness of background andpedagogical knowledge, butdoes not anticipate studentmisconceptions.</td><td rowspan=1 colspan=1>Teacher displays solid contentknowledge and makes connectionsbetween the content and otherparts of the discipline. Theteacher&#x27;s pedagogical practicesreflect current research on bestpractices within the discipline.</td><td rowspan=1 colspan=1>Teacher displays extensivecontent knowledge, withevidence of continuingpursuits of such knowledge.Teacher implements arepertoire of pedagogicalpractices based on currentresearch.</td></tr><tr><td rowspan=1 colspan=5>Evidence:</td></tr><tr><td rowspan=1 colspan=1>B. Demonstratesknowledge of Students</td><td rowspan=1 colspan=1>Teacher demonstrates little orno knowledge of students&#x27;backgrounds, skills, abilities, orinterests; and doesn&#x27;t use thisinformation in planning.</td><td rowspan=1 colspan=1>Teacher demonstrates partialknowledge of students&#x27;backgrounds, skills, interests,and abilities and attempts touse this in planning for theclass as a whole.</td><td rowspan=1 colspan=1>Teacher demonstrates thoroughknowledge of students&#x27;backgrounds, skills, interests, andabilities and attempts to use this inplanning for the class as a wholeand for groups.</td><td rowspan=1 colspan=1>Teacher demonstratesextensive knowledge ofstudents&#x27; backgrounds, skills,interests, and abilities andattempts to use this inplanning for individualstudent learning.</td></tr><tr><td rowspan=1 colspan=5>Evidence:</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                181,
+                963,
+                816
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                58,
+                931,
+                76
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f58dd483b99c1cbc6b8266b67eff931a130e24443d6eba7d3c957dc07d7c6656.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">C. Setting InstructionalOutcomes</td><td colspan=\"1\" rowspan=\"1\">Instructional outcomes focuson insignificant learning ratherthan contentstandards/outcomes orcurricular framework.Instructional outcomes are notsuitable for the diversity, age,or development levels ofstudents.</td><td colspan=\"1\" rowspan=\"1\">Instructional outcomes focuson significant contentstandards/ outcomes orcurricular framework, but arenot suitable for the studentsin the class; they includeinstructional activities, someof which permit an authenticmeans of assessment.</td><td colspan=\"1\" rowspan=\"1\">Instructional outcomes focus onsignificant contentstandards/outcomes or curricularframework that are suitable formost students in the class; theyreflect opportunities for integrationand permit an authentic means ofassessment.</td><td colspan=\"1\" rowspan=\"1\">Instructional outcomesreflect high-level learningrelated to the contentstandards/outcomes orcurricular frameworks. Theyare adapted wherenecessary, to the needs ofindividual students, andpermit varied and authenticmethods of assessment.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">D. Demonstratesknowledge of resources</td><td colspan=\"1\" rowspan=\"1\">Teacher does not use availableresources consistently forinstruction or for supportingstudent learning.</td><td colspan=\"1\" rowspan=\"1\">Teacher demonstrates limitedusage of available resourcesfor instruction or forsupporting student learning.</td><td colspan=\"1\" rowspan=\"1\">Teacher fully utilizes availableresources for instruction or forsupporting student learning.</td><td colspan=\"1\" rowspan=\"1\">Teacher seeks out additionalresources to enhance andsupplement instruction andfor supporting studentlearning.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">E. Designs coherentInstruction</td><td colspan=\"1\" rowspan=\"1\">Various elements of theteacher's instructional designdo not support the statedinstructional goals or engagestudents in meaningful,relevant work; teacher'sinstructional plan has noevidence of designed structure.</td><td colspan=\"1\" rowspan=\"1\">Most of the elements of theteacher's instructional designsupport the statedinstructional goals or engagestudents in meaningful,relevant work to a limitedextent; teacher's instructionalplan has a recognizablestructure and sequence.</td><td colspan=\"1\" rowspan=\"1\">All of the elements of the teacher'sinstructional design support thestated instructional goals andengage students in meaningful,relevant work; teacher'sinstructional plan has a clearstructure and sequence.</td><td colspan=\"1\" rowspan=\"1\">All the elements of theteacher's instructional designsupport the statedinstructional goals andengage students inmeaningful, relevant work;teacher's instructional plan ishighly coherent, showingclear structure and sequence.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">F. Designing StudentAssessment</td><td colspan=\"1\" rowspan=\"1\">Teacher's approach toassessing student learninglacks alignment with theinstructional goals and containsno clear criteria or standardsfor student performance;assessment results are notused to design futureinstruction and studentassessment.</td><td colspan=\"1\" rowspan=\"1\">Teacher's assessment plan ispartially aligned with theinstructional goals andincludes criteria and standardsfor student performance thatare not clear or understood bystudents; assessment resultsare used to design futureinstruction and checks forunderstanding for the wholeclass.</td><td colspan=\"1\" rowspan=\"1\">Teacher's assessment plan isaligned with the instructional goalsand the criteria and standards forstudent performance have beenclearly communicated and areunderstood by students;assessment results are used todesign future instruction andchecks for understanding forgroups of students and individuals.</td><td colspan=\"1\" rowspan=\"1\">Teacher's assessment plan isaligned with the instructionalgoals; criteria and standardsfor student performancehave been developed withstudent input and clearlycommunicated; studentsmonitor own progress inachieving goals; assessmentresults are used to designfuture work for individualstudents.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">G. Data-Driven Planning</td><td colspan=\"1\" rowspan=\"1\">The teacher's lesson plansreflect little or no evidence thatthe instructional planningprocess uses data to plan formeeting students' needs.</td><td colspan=\"1\" rowspan=\"1\">The teacher uses minimal datain the instructional planningprocess.</td><td colspan=\"1\" rowspan=\"1\">Teacher uses data to optimizeresources in the planning process.</td><td colspan=\"1\" rowspan=\"1\">The teacher uses data to planappropriate curricula,implement instructionalstrategies, and use resourcesto promote learning for allstudents.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                73,
+                963,
+                852
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                98,
+                963,
+                838
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PERFORMANCE AREA II Instruction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                429,
+                76,
+                569,
+                120
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/44c161bba0defb76ceea5e21415227c8f6614505c715963cf0379451ffc964c0.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Performance Levels"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Criteria</td><td>Beginning</td><td>Developing</td><td>Applying</td><td>Innovating</td></tr><tr><td>A. Communicating with Students</td><td>Teacher's oral and written communication is unclear and/ or is inappropriate to students; does not include learning objectives or establish clear expectations.</td><td>Teacher's oral and written communication is somewhat clear and makes an attempt to connect the learning objective with the instruction and establishes clear expectations.</td><td>Teacher's oral and written communication is clear and appropriate to students. The communication includes learning objectives establishes clear expectations.</td><td>Teacher's oral and written communication is clearly expressed; includes learning objectives and clear expectations, and indicates the anticipation of possible student misconceptions.</td></tr><tr><td colspan=\"5\">Evidence:</td></tr><tr><td>B. Using Questioning and Discussion Techniques</td><td>Little use of higher-level questioning and discussion techniques to drive instruction and guide student learning. Minimal student participation.</td><td>Some use of higher questioning and discussion techniques utilized to drive instruction and guide student learning, attempts to engage students in discussion and moderate student</td><td>Teacher's use of questioning and discussion techniques reflect higher level questioning, varied ideas, and consistent participation by most students.</td><td>Teacher consistently uses higher level question and discussion techniques. Teacher's students formulate many higher-level questions and assume responsibility for participation of all students in discussions.</td></tr><tr><td colspan=\"5\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">C. Engages students inLearning</td><td colspan=\"1\" rowspan=\"1\">Few students are intellectuallyengaged in learning as a resultof ineffective activities and/ormaterials, lack of instruction, orlack of appropriate structureand or pacing.</td><td colspan=\"1\" rowspan=\"1\">Some students areintellectually engaged inlearning as a result of lack ofineffective activities,instruction, structure and/orpacing.</td><td colspan=\"1\" rowspan=\"1\">Most students are intellectuallyengaged throughout the learningas a result of effective activitiesand materials, instructiverepresentatives of content andsuitable structure and pacing.</td><td colspan=\"1\" rowspan=\"1\">All students are highly engagedthroughout the learning andmake high-level contributionsto the representation ofcontent, the activities, and thematerials; the structure andpacing of learning allowstudents time to reflect andhave closure.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">D. DemonstratesFlexibility andResponsiveness</td><td colspan=\"1\" rowspan=\"1\">Teacher is unaware of studentunderstanding or lacks abilityto adjust instructional plan inspite of evidence of poorstudent understanding.</td><td colspan=\"1\" rowspan=\"1\">Teacher demonstrates limitedflexibility and responsivenessto students' needs andinterest during the learning;teacher assumes some of theresponsibility for studentsuccess but does not activelyseek ways to ensuresuccessful learning for allstudents.</td><td colspan=\"1\" rowspan=\"1\">Teacher makes appropriateadjustments to instructionalplans and responds to students'interest and questions during thelearning; teacher actively seeksways to ensure successfullearning for all students.</td><td colspan=\"1\" rowspan=\"1\">Teacher is highly responsiveand makes appropriateadjustments in instructionalplans as a result of students'interests and questions duringthe learning; teacher persists inensuring the success of allstudents throughout the entirelesson into the next lesson.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                181,
+                963,
+                869
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                122,
+                963,
+                833
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7e4dcaacd7631364ffcf84d058a6e5923346722cdca40e17a1a01e8645063238.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "PERFORMANCE AREA III Professional Responsibilities"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Performance Levels"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Criteria</td><td>Beginning</td><td>Developing</td><td>Applying</td><td>Innovating</td></tr><tr><td>A. Reflecting on Teaching</td><td>Teacher lacks the ability to self- reflect on instruction, student work, and products. Teacher struggles to bring solutions to the table for improvement.</td><td>Teacher has some ability to reflect on instruction, student work and products. Teacher can make appropriate suggestions for improvement.</td><td>Teacher's reflection on instruction, student work, and products are accurate. Teacher can cite general characteristics and make specific suggestions for improvement or alternative</td><td>Teacher's reflection on instruction, student work, and products are highly accurate and perceptive; teacher can cite specific examples and draw on extensive repertoire to suggest alternative strategies.</td></tr><tr><td colspan=\"5\">Evidence:</td></tr><tr><td>B. Maintains Accurate Records</td><td>maintaining accurate records and documents resulting in confusion for students. i.e. homework system. Teacher does not make use of Campus technologies to ensure that student information is</td><td>maintaining accurate records and documents resulting in organization and order for students. i.e. homework system. Teacher makes use of Campus technologies to ensure that</td><td>Teacher has systems for maintaining accurate records and documents resulting in organization and order for students. i.e. homework system. Teacher makes use of Campus technologies to ensure that student information is current and accurate</td><td>All teacher's systems for maintaining accurate records and documents resulting in organization and order for students. i.e. homework system, are in place and function without interruption. Teacher makes use of Campus technologies to ensure that</td></tr><tr><td colspan=\"5\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">C. Communication withFamilies</td><td colspan=\"1\" rowspan=\"1\">Teacher provides little or noinformation to families andmakes minimal attempt toengage them in theinstructional program.</td><td colspan=\"1\" rowspan=\"1\">Teacher complies with schoolprocedure for communicatingwith families and makes aneffort to engage them in theinstructional program; limitedcommunication techniquesare used.</td><td colspan=\"1\" rowspan=\"1\">Teacher communicatesfrequently with families andactively seeks ways to engagethem in the instructionalprogram; varied communicationtechniques are used.</td><td colspan=\"1\" rowspan=\"1\">Teacher communicatesfrequently and sensitively withfamilies and successfullyengages them in theinstructional program; teacheruses a wide range ofcommunication techniques,students participate incommunicating with families.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">D. ShowingProfessionalism</td><td colspan=\"1\" rowspan=\"1\">Teacher is not alert to students'needs; teacher contributes toschool practices that are self-serving or ineffective tostudents.</td><td colspan=\"1\" rowspan=\"1\">Teacher makes a genuine butinconsistent attempt to servestudents' social and emotionalneeds; teacher generallycontributes to practices thatserve and support students.</td><td colspan=\"1\" rowspan=\"1\">Teacher makes genuine andsuccessful efforts to servestudents' needs; teacherpresents a positive professionalimage.</td><td colspan=\"1\" rowspan=\"1\">Teacher assumes a leadershipposition to guarantee thatschool practices andprocedures serve all students'social/emotional needs,particularly those underserved;teacher presents a professionalimage and serves as a positiverole model for students.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">E. Contribution to theSchool/District</td><td colspan=\"1\" rowspan=\"1\">Teacher's relationships withcolleagues, staff, andadministration are removed;teacher avoids being involvedin school initiatives i.e. spiritdays.</td><td colspan=\"1\" rowspan=\"1\">Teacher maintains cordialrelationships with colleagues,staff, and administration tofulfill the duties that theschool requires; teacher hasminimal participation in team,grade level, and schoolinitiatives i.e. spirit days.</td><td colspan=\"1\" rowspan=\"1\">Teacher's support andcooperation characterizesrelationships with colleagues,staff, and administration; teacherparticipates actively in team,grade level, and school initiativesi.e. spirit days.</td><td colspan=\"1\" rowspan=\"1\">Teacher makes a substantialcontribution to theprofessional culture of theschool.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">F. Participating inProfessional Community</td><td colspan=\"1\" rowspan=\"1\">Teacher engages in littleprofessional development toenhance own skills orknowledge.</td><td colspan=\"1\" rowspan=\"1\">Teacher participates in somerequired staff developmentactivities.</td><td colspan=\"1\" rowspan=\"1\">Teacher participates regularly inprofessional development toenhance content knowledge,skills, and professional culture ofthe school and participates fullyin all school sponsored PD.</td><td colspan=\"1\" rowspan=\"1\">Teacher participates regularlyin professional development toenhance content knowledge,skills, and professional cultureof the school and participatesfully in all school sponsored PD.Teacher actively pursues ownprofessional developmentoutside of school.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">G. Utilizing Technology</td><td colspan=\"1\" rowspan=\"1\">Teacher incorporates littletechnology in preparation ordelivery of instruction andprovides minimal access tostudents as a resource; attimes, teacher utilizes email,voice mail, or communicates inother ways.</td><td colspan=\"1\" rowspan=\"1\">Teacher occasionallyincorporates technology inpreparation or delivery ofinstruction and provideslimited access to students as aresource; teacher occasionallyutilizes email, voice mail, orcommunicates in other ways.</td><td colspan=\"1\" rowspan=\"1\">Teacher incorporates technologyin preparation and delivery ofinstruction; teacher readilyprovides students access totechnology as a resource; teacherutilizes email, voice mail, or otheror communicates in other ways.</td><td colspan=\"1\" rowspan=\"1\">Teacher fully integratestechnology in preparation anddelivery of instruction; teacherensures access to technologyas a resource for students;teacher utilizes email, voicemail, or other or communicatesin other ways.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                202,
+                963,
+                834
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                70,
+                963,
+                887
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                122,
+                963,
+                702
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                58,
+                931,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                58,
+                931,
+                76
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/00745508287199bf1c7b921dc504bed6c520345e2201f15be37d36433587a45a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>H. Using Assessment inInstruction</td><td rowspan=1 colspan=1>Assessment is somewhat usedin instruction, either throughstudents&#x27; awareness of theassessment criteria, monitoringof progress by teacher orstudents, or through feedbackto students.</td><td rowspan=1 colspan=1>Assessment is occasionallyused in instruction, throughsome monitoring of progressof learning by teacher and/orstudents. Feedback tostudents is uneven, andstudents are aware of onlysome of the assessmentcriteria used to evaluate theirwork.</td><td rowspan=1 colspan=1>Assessment is regularly used ininstruction, through self-assessment by students,monitoring of progress oflearning by teacher and/orstudents, and through highquality feedback to students.Students are fully aware of theassessment criteria used toevaluate their work.</td><td rowspan=1 colspan=1>Assessment is used in asophisticated manner ininstruction, through studentinvolvement in establishing theassessment criteria, self-assessment by students andmonitoring of progress by bothstudents and teachers, andhigh-quality feedback tostudents from a variety of</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                29,
+                73,
+                962,
+                297
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3b0ad2318a7d7f03aa933665ef3830ae6af41a17d7da3345b313dc599ce21425.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td></td><td></td><td>sources.</td></tr><tr><td>Evidence:</td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                29,
+                341,
+                962,
+                544
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Area IV Classroom Environment"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                589,
+                569,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Levels"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                656,
+                558,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Applying"
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                700,
+                642,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Innovating"
+                    }
+                ]
+            },
+            "bbox": [
+                787,
+                700,
+                854,
+                720
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Developing"
+                    }
+                ]
+            },
+            "bbox": [
+                398,
+                699,
+                469,
+                722
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Criteria"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                700,
+                79,
+                718
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Beginning"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                700,
+                255,
+                722
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/564ee582e9cc87ce6b0b211175fb993f236ae2d1883b4f080cf2f5f5d5743f32.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>A. Organization ofPhysical Space</td><td rowspan=1 colspan=1>Teachers classroom feels fairlysafe and some activities areaccessible to students; somefurniture is arranged to supportthe learning environment andthere is some evidence thatstudent work is displayed;teacher has little mix of wholegroup, small group, and/orindividual instruction.</td><td rowspan=1 colspan=1>Teacher&#x27;s classroom is safeand learning activities areaccessible to most students;furniture arrangementpartially supports learningenvironment; some studentwork is displayed; teacherattempts to vary appropriatemix of whole group, smallgroup, and /or individualinstruction.</td><td rowspan=1 colspan=1>Teacher&#x27;s classroom is safe andlearning activities are accessibleto all students; furniturearrangement supports learningenvironment; student work isdisplayed; teacher uses anappropriate mix of whole group,small group, and individualinstruction.</td><td rowspan=1 colspan=1>Teacher&#x27;s classroom is safe andlearning activities areaccessible to all students;furniture is deliberatelyarranged to supports learningactivities; student work isconsistently displayed andupdated; teacher consistentlyuses a mix of whole group,small group, and individualinstruction.</td></tr><tr><td rowspan=1 colspan=5>Evidence:</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                73,
+                962,
+                408
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ecc9563daa01738e65c6bae524fb7e3bc72f00648fbefe596026ce5b64da9cac.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">B. Managing Classroomprocedures</td><td colspan=\"1\" rowspan=\"1\">Some classroom routines andprocedures are existent withsome loss of instructional time.</td><td colspan=\"1\" rowspan=\"1\">Classroom routines andprocedures have beenestablished but functioninconsistently, with some lossof instructional time.</td><td colspan=\"1\" rowspan=\"1\">Classroom routines andprocedures have beenestablished by the teacher andfunction smoothly with little lossof instructional time.</td><td colspan=\"1\" rowspan=\"1\">Classroom routines andprocedures have beenestablished with student inputand are consistent in theiroperation; with studentsassuming considerableresponsibility for theirimplementation.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">C. Establish a Culture forLearning</td><td colspan=\"1\" rowspan=\"1\">The classroom does notconsistently reflect anestablished culture forlearning; teacher displays somecommitment to content, andhas moderate studentexpectations.</td><td colspan=\"1\" rowspan=\"1\">Classroom environmentreflects an established culturefor learning, teacher displayslittle commitment to content,modest student expectations,inconsistent studentexpectations, and students areperforming at the minimallevel.</td><td colspan=\"1\" rowspan=\"1\">Classroom environment reflects apositive culture for learningwhere teacher displays acommitment to the content, highexpectations for studentachievement, and students arepersistent and take pride in theirwork.</td><td colspan=\"1\" rowspan=\"1\">Classroom environmentreflects a genuine culture forlearning. Students assumemuch of the responsibility forthe culture by persisting andtaking pride in their work,initiating improvements totheir products, and holdingtheir work to the higheststandards.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Evidence:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">D. Creating anEnvironment of Respectand Rapport</td><td colspan=\"1\" rowspan=\"1\">Interactions in teacher'sclassroom amongstudents/teacher areinconsistent, without muchevidence of positive characterbeing shown.</td><td colspan=\"1\" rowspan=\"1\">Interactions in teacher'sclassroom are generallyappropriate and classmatesshow positive charactertowards each other.</td><td colspan=\"1\" rowspan=\"1\">Interactions in teacher'sclassroom reflect general warmthand caring and are respectful ofthe culture and developmentaldifferences among groups ofstudents. Positive characteramong classmates is evident.</td><td colspan=\"1\" rowspan=\"1\">Interactions in teacher'sclassroom are highly respectful,reflecting genuine warmth andcaring towards individuals.Students themselves ensuremaintenance of high levels ofpositive character amongclassmates.</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                29,
+                455,
+                962,
+                725
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                71,
+                963,
+                584
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7f0c7499f017946864b8676ea5e179a3d4002b06d13a1802d3c387faba6be8f2.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Evidence:</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                30,
+                630,
+                962,
+                723
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Performance Observation 2024-2025"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                58,
+                931,
+                76
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/78677e53c06907e42445c5170b3f36e978cc0a299d99a41c6d6e98c574942d0d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>E. Managing Student Behavior</td><td>Student behavior in classroom is inconsistent; teacher has established no clear expectations, some monitoring of student behavior is evident, and responses to students is inconsistent.</td><td>Student behavior in classroom is somewhat consistent. Teacher makes an effort to establish clear expectations for students, to monitor student behavior and to appropriately respond to student misbehavior</td><td>Student behavior in classroom is consistently correct. Teacher is aware of student behavior, has established clear expectations and responds to student misbehavior appropriately, respectfully, and logically.</td><td>Student behavior in the classroom is entirely appropriate with evidence of student participation in setting expectations and monitoring of behavior. Teacher monitoring is subtle and preventative responses to students&#x27; misbehavior are sensitive to</td></tr><tr><td>Evidence:</td><td>consistently.</td><td></td><td></td><td>individual students needs.</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                27,
+                71,
+                962,
+                408
+            ]
+        }
+    ]
+]

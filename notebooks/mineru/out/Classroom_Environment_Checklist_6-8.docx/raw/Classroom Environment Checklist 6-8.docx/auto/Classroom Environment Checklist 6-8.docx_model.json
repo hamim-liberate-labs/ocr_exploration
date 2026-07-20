@@ -1,0 +1,1366 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5218,
+                "bbox": [
+                    442,
+                    99,
+                    1183,
+                    202
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    97,
+                    245,
+                    1625,
+                    2043
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>Classroom Expectations</td><td rowspan=1 colspan=1>Completed (Y or N)Additional Comments</td></tr><tr><td rowspan=1 colspan=1>Classroom DoorsWelcoming classroom doors with teacher namesGlass must be kept clear (chart paper will be provided for drills)Remember that all classroom doors must be closed and lockedif your room is not in use.Classroom Schedule &amp; Teacher/Class Name posted (will beprovided by Admin)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Sign Out ClipboardBathroom/Water/Nurse/Main Office/Provider Sheet (available in themain office)Students who are physically leaving the classroom must sign out everytime they leave. If a provider picks them up from the classroom theymust sign them out.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Posted on Whiteboard (front of the room)Current DateLearning Target (I will be able to / IWBAT...)Lesson Agenda - An overview of the flow of the lesson for thatperiod. The agenda shows the lesson chunks and theapproximate times.Example of Lesson Agenda:Do Now (5 min)Video (10 min)Discussion (10 min)Independent Work (12 min)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Unit of Study AreaDesignated area on classroom wall/bulletin board to post informationdisplaying the current unit of study for each class/grade levelCurrent Unit of StudyEssential or Focusing QuestionsEnd of Unit Task</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Classroom Agreements /CharterCollaboratively created classroom agreements that are positivelyphrased and posted (e.g. We stay focused and try our best, We treateach other with respect, etc.)</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    448,
+                    106,
+                    1177,
+                    142
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    599,
+                    160,
+                    1027,
+                    196
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9877,
+                "bbox": [
+                    97,
+                    97,
+                    1626,
+                    2085
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>Lesson PlansLesson plan must be easily accessible to administration. It is best as ahard copy, but if it is a soft copy, then you will be asked to send it toadministration electronically by 2:25pm. Click here for links to lessonplan templates</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Vocabulary AreasUnit/Academic Vocabulary - This section should containvocabulary words that are relevant to your current unit of study.This section will change with your units. Include pictures anddefinitions with each word (i.e. - hieroglyphics, fertile crescent,equator).</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Clean ClassroomsNo clutter (e.g. empty boxes, random papers, brokencomputers)Windowsills cleared off (e.g. no loose papers)Shelving units are kept tidyAnchor Charts are visible to students and currentPosters are not torn, wrinkled, or oldCounters and tables are kept clean and organized (e.g. nopencil shavings, dust, student belongings, etc.)Student desks are kept clean and emptyTeacher desk is organized and clean</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>SignageAll areas of the classroom must be clearly labeled (e.g.. classroomlibrary, portfolios, bulletin boards, notebooks, bins, binders). Whenpossible signs should be electronically printed. If they arehandwritten, they must be legible, attractive and neat</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Instructional Charts/Anchor ChartsInstructional charts are vital for displaying what you have beenteaching. Students use these as a resource, and they bring the unitsalive in your classroom. All charts should be current and relevant,hanging straight, and not torn or crumpled.*See bottom of checklist for examples*</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Portfolio Assessment FoldersDesignated folder which includes:Table of Contents for Performance Tasks(indicates if piece isdigital or on paper)•Table of Contents for Unit Assessment (e.g. tests, quizzes)</td><td rowspan=1 colspan=1></td></tr></table>"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    94,
+                    95,
+                    1626,
+                    2055
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>All items in this folder must include rubrics and feedback.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Bulletin Boards (Classroom and Hallway)All backing paper must be replaced for the 2024-2025 schoolyear.Designated sections for each content area, clearly labeled, withauthentic student work of varying levels (at least 10 student samples)and meaningful feedback based on a rubric.Feedback should include a specific next step and a strategy for gettingthere, as well as one area of celebration, both based on the rubric.Bulletin Boards should include: Teacher name(s), Date, Standardsaddressed, Task, Rubric, Student work with feedback.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Classroom Library/Resource Center (labeled as such)All bins/books should be easily accessible to students, and bins shouldbe maintained and kept tidy. All ELA/ENL rooms must have a clearlylabeled library withbooks organized by genre.. All other contentsshould have content specific libraries/resource centers.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>SafetyVisible and accessible Red Emergency Folder (includesAssembly Cards) and updated student rostersAllergy notification system (ie. Nut Free Zone sign provided byAdmin) as needed</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Additional Classroom Expectations:Food and Drinks: No glass bottles are permitted in the schoolbuilding. If you permit students to eat in the classroom, ensurethat all trash is properly removed.Outer Clothing: Make sure students have removed their hoods,caps, hats and jackets when they are in your room. If studentsare cold, they are permitted to wear long sleeves under theiruniform shirts.School Bags: Make sure that all school bags have beenremoved and placed on the back of students&#x27; chairs.Sports Equipment: Sports equipment is not allowed to bevisible in the classroom or hallways during instructional timeIf sports equipment becomes a distraction to teaching andlearning it must be taken from the student.</td><td rowspan=1 colspan=1></td></tr></table>"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9753,
+                "bbox": [
+                    101,
+                    95,
+                    1625,
+                    482
+                ],
+                "index": 1,
+                "html": "<table><tr><td>• Cell Phones: Phones are collected in the morning and returned at the end of the school day. They are not allowed in the classroom.</td><td></td></tr><tr><td>SMART/Promethean Boards All boards need to be turned off, and equipment stored properly when not in use. Please do not tape items to the touch screen portion of the board.</td><td></td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6146,
+                "bbox": [
+                    94,
+                    577,
+                    489,
+                    619
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5721,
+                "bbox": [
+                    114,
+                    636,
+                    666,
+                    850
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9153,
+                "bbox": [
+                    699,
+                    736,
+                    982,
+                    858
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.624,
+                "bbox": [
+                    153,
+                    903,
+                    981,
+                    1025
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8894,
+                "bbox": [
+                    185,
+                    1022,
+                    704,
+                    1065
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8768,
+                "bbox": [
+                    186,
+                    1059,
+                    760,
+                    1135
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9175,
+                "bbox": [
+                    188,
+                    1132,
+                    681,
+                    1179
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6727,
+                "bbox": [
+                    147,
+                    1178,
+                    814,
+                    1277
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6831,
+                "bbox": [
+                    138,
+                    1342,
+                    872,
+                    1393
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9037,
+                "bbox": [
+                    136,
+                    1407,
+                    392,
+                    1509
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.819,
+                "bbox": [
+                    206,
+                    1517,
+                    407,
+                    1556
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8153,
+                "bbox": [
+                    204,
+                    1551,
+                    407,
+                    1584
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8729,
+                "bbox": [
+                    205,
+                    1580,
+                    423,
+                    1620
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5671,
+                "bbox": [
+                    509,
+                    1418,
+                    904,
+                    1598
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.61,
+                "bbox": [
+                    527,
+                    1596,
+                    906,
+                    1667
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    586,
+                    483,
+                    616
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    638,
+                    291,
+                    698
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    674,
+                    667,
+                    776
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    271,
+                    768,
+                    606,
+                    847
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    704,
+                    769,
+                    978,
+                    815
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    701,
+                    807,
+                    981,
+                    858
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    698,
+                    735,
+                    980,
+                    776
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    902,
+                    875,
+                    956
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    946,
+                    977,
+                    1000
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    987,
+                    519,
+                    1025
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1019,
+                    704,
+                    1066
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1053,
+                    758,
+                    1114
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    236,
+                    1098,
+                    419,
+                    1135
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1129,
+                    681,
+                    1180
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1175,
+                    282,
+                    1235
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    420,
+                    1179,
+                    510,
+                    1227
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    675,
+                    1180,
+                    760,
+                    1232
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1222,
+                    315,
+                    1273
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    425,
+                    1223,
+                    562,
+                    1265
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    712,
+                    1223,
+                    807,
+                    1264
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1342,
+                    871,
+                    1390
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1409,
+                    364,
+                    1444
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1441,
+                    367,
+                    1474
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1474,
+                    391,
+                    1504
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    1513,
+                    410,
+                    1560
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    1550,
+                    408,
+                    1585
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    1576,
+                    424,
+                    1623
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    510,
+                    1419,
+                    829,
+                    1453
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    508,
+                    1457,
+                    899,
+                    1489
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    510,
+                    1493,
+                    864,
+                    1524
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    510,
+                    1528,
+                    854,
+                    1558
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    512,
+                    1560,
+                    811,
+                    1596
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    526,
+                    1598,
+                    905,
+                    1629
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    525,
+                    1632,
+                    902,
+                    1661
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.64,
+                "bbox": [
+                    152,
+                    142,
+                    743,
+                    226
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9613,
+                "bbox": [
+                    149,
+                    233,
+                    752,
+                    317
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.934,
+                "bbox": [
+                    151,
+                    328,
+                    717,
+                    414
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9541,
+                "bbox": [
+                    148,
+                    494,
+                    756,
+                    608
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6308,
+                "bbox": [
+                    223,
+                    612,
+                    566,
+                    675
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9587,
+                "bbox": [
+                    142,
+                    684,
+                    735,
+                    799
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6972,
+                "bbox": [
+                    215,
+                    803,
+                    621,
+                    872
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9543,
+                "bbox": [
+                    137,
+                    883,
+                    740,
+                    1066
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5483,
+                "bbox": [
+                    792,
+                    206,
+                    1502,
+                    421
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7863,
+                "bbox": [
+                    807,
+                    453,
+                    962,
+                    559
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5165,
+                "bbox": [
+                    809,
+                    572,
+                    946,
+                    617
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6974,
+                "bbox": [
+                    1316,
+                    471,
+                    1465,
+                    524
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7331,
+                "bbox": [
+                    808,
+                    626,
+                    983,
+                    717
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9333,
+                "bbox": [
+                    820,
+                    725,
+                    989,
+                    916
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7302,
+                "bbox": [
+                    820,
+                    973,
+                    1063,
+                    1061
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.736,
+                "bbox": [
+                    1296,
+                    632,
+                    1405,
+                    679
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7044,
+                "bbox": [
+                    1249,
+                    739,
+                    1459,
+                    839
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5864,
+                "bbox": [
+                    1271,
+                    854,
+                    1475,
+                    1046
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7689,
+                "bbox": [
+                    1013,
+                    1060,
+                    1300,
+                    1102
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    141,
+                    744,
+                    227
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    232,
+                    751,
+                    269
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    258,
+                    749,
+                    310
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    326,
+                    716,
+                    368
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    220,
+                    377,
+                    700,
+                    412
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    221,
+                    356,
+                    462,
+                    387
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    527,
+                    545,
+                    552
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    496,
+                    746,
+                    532
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    543,
+                    749,
+                    581
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    205,
+                    574,
+                    753,
+                    605
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    220,
+                    609,
+                    567,
+                    675
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    687,
+                    734,
+                    725
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    802,
+                    623,
+                    873
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    866,
+                    789,
+                    1115
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    643,
+                    970,
+                    662,
+                    976
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    251,
+                    1003,
+                    280,
+                    1013
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    351,
+                    1013,
+                    494,
+                    1026
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    190,
+                    1022,
+                    370,
+                    1063
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    884,
+                    739,
+                    928
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    765,
+                    199,
+                    1527,
+                    425
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    804,
+                    451,
+                    966,
+                    521
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    807,
+                    502,
+                    964,
+                    561
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    803,
+                    567,
+                    951,
+                    621
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1310,
+                    465,
+                    1468,
+                    527
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    806,
+                    620,
+                    987,
+                    681
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    844,
+                    672,
+                    935,
+                    713
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    726,
+                    986,
+                    761
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    785,
+                    985,
+                    819
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    861,
+                    987,
+                    913
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1011,
+                    1065,
+                    1063
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    970,
+                    1062,
+                    1025
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1291,
+                    628,
+                    1408,
+                    683
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1244,
+                    731,
+                    1462,
+                    808
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1298,
+                    790,
+                    1451,
+                    835
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1270,
+                    855,
+                    1431,
+                    893
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1279,
+                    891,
+                    1473,
+                    927
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1280,
+                    921,
+                    1471,
+                    959
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1273,
+                    956,
+                    1430,
+                    984
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1272,
+                    979,
+                    1442,
+                    1013
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1269,
+                    1007,
+                    1474,
+                    1045
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1011,
+                    1060,
+                    1299,
+                    1102
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1700,
+            "height": 2200
+        }
+    }
+]

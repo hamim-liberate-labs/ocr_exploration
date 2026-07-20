@@ -1,0 +1,642 @@
+{
+ "table_of_contents": [
+  {
+   "title": "Athlos Leadership Academy",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     330.64453125,
+     195.43359375
+    ],
+    [
+     458.6009826660156,
+     195.43359375
+    ],
+    [
+     458.6009826660156,
+     207.1373291015625
+    ],
+    [
+     330.64453125,
+     207.1373291015625
+    ]
+   ]
+  },
+  {
+   "title": "PERFORMANCE RUBRIC I\nPlanning and Preparation",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     337.9921875,
+     49.47772216796875
+    ],
+    [
+     454.7988586425781,
+     49.47772216796875
+    ],
+    [
+     454.7988586425781,
+     73.90545654296875
+    ],
+    [
+     337.9921875,
+     73.90545654296875
+    ]
+   ]
+  },
+  {
+   "title": "Performance Levels",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     351.140625,
+     89.6484375
+    ],
+    [
+     442.3138122558594,
+     89.6484375
+    ],
+    [
+     442.3138122558594,
+     100.76092529296875
+    ],
+    [
+     351.140625,
+     100.76092529296875
+    ]
+   ]
+  },
+  {
+   "title": "PERFORMANCE AREA II",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     341.859375,
+     49.306640625
+    ],
+    [
+     450.0933837890625,
+     49.306640625
+    ],
+    [
+     450.0933837890625,
+     60.47772216796875
+    ],
+    [
+     341.859375,
+     60.47772216796875
+    ]
+   ]
+  },
+  {
+   "title": "Performance Levels",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     351.140625,
+     89.6484375
+    ],
+    [
+     442.3138122558594,
+     89.6484375
+    ],
+    [
+     442.3138122558594,
+     100.760986328125
+    ],
+    [
+     351.140625,
+     100.760986328125
+    ]
+   ]
+  },
+  {
+   "title": "PERFORMANCE AREA III",
+   "heading_level": null,
+   "page_id": 6,
+   "polygon": [
+    [
+     339.92578125,
+     49.306640625
+    ],
+    [
+     451.5586853027344,
+     49.306640625
+    ],
+    [
+     451.5586853027344,
+     60.47772216796875
+    ],
+    [
+     339.92578125,
+     60.47772216796875
+    ]
+   ]
+  },
+  {
+   "title": "Performance Levels",
+   "heading_level": null,
+   "page_id": 6,
+   "polygon": [
+    [
+     350.3671875,
+     103.095703125
+    ],
+    [
+     442.3138122558594,
+     103.095703125
+    ],
+    [
+     442.3138122558594,
+     114.18896484375
+    ],
+    [
+     350.3671875,
+     114.18896484375
+    ]
+   ]
+  }
+ ],
+ "page_stats": [
+  {
+   "page_id": 0,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     109
+    ],
+    [
+     "Line",
+     9
+    ],
+    [
+     "TableCell",
+     9
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Picture",
+     1
+    ],
+    [
+     "SectionHeader",
+     1
+    ],
+    [
+     "Form",
+     1
+    ],
+    [
+     "Footnote",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 1,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     413
+    ],
+    [
+     "TableCell",
+     24
+    ],
+    [
+     "Line",
+     21
+    ],
+    [
+     "SectionHeader",
+     2
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 2,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     637
+    ],
+    [
+     "TableCell",
+     155
+    ],
+    [
+     "Line",
+     93
+    ],
+    [
+     "Text",
+     1
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 3,
+   "text_extraction_method": "surya",
+   "block_counts": [
+    [
+     "TableCell",
+     15
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Table",
+     1
+    ],
+    [
+     "Line",
+     1
+    ],
+    [
+     "Span",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 4,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     395
+    ],
+    [
+     "Line",
+     62
+    ],
+    [
+     "TableCell",
+     30
+    ],
+    [
+     "SectionHeader",
+     2
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Text",
+     1
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 5,
+   "text_extraction_method": "surya",
+   "block_counts": [
+    [
+     "TableCell",
+     20
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Table",
+     1
+    ],
+    [
+     "Line",
+     1
+    ],
+    [
+     "Span",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 6,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     516
+    ],
+    [
+     "Line",
+     74
+    ],
+    [
+     "TableCell",
+     25
+    ],
+    [
+     "SectionHeader",
+     2
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Text",
+     1
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 7,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     576
+    ],
+    [
+     "TableCell",
+     185
+    ],
+    [
+     "Line",
+     86
+    ],
+    [
+     "Text",
+     1
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 8,
+   "text_extraction_method": "surya",
+   "block_counts": [
+    [
+     "TableCell",
+     25
+    ],
+    [
+     "PageHeader",
+     1
+    ],
+    [
+     "Table",
+     1
+    ],
+    [
+     "Line",
+     1
+    ],
+    [
+     "Span",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 9,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     321
+    ],
+    [
+     "TableCell",
+     81
+    ],
+    [
+     "Line",
+     45
+    ],
+    [
+     "Text",
+     4
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 10,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     475
+    ],
+    [
+     "TableCell",
+     95
+    ],
+    [
+     "Line",
+     68
+    ],
+    [
+     "Text",
+     3
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 11,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     439
+    ],
+    [
+     "TableCell",
+     110
+    ],
+    [
+     "Line",
+     67
+    ],
+    [
+     "Text",
+     2
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 12,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     241
+    ],
+    [
+     "TableCell",
+     55
+    ],
+    [
+     "Line",
+     36
+    ],
+    [
+     "Text",
+     1
+    ],
+    [
+     "Table",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  }
+ ],
+ "debug_data_path": "debug_data/Athlos 2024-2025 Observation Rubric Teacher.docx"
+}

@@ -1,0 +1,3079 @@
+[
+    {
+        "type": "text",
+        "text": "app",
+        "bbox": [
+            46,
+            140,
+            70,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "macro trend analysis",
+        "bbox": [
+            45,
+            176,
+            156,
+            196
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Super Essence Report Generation Interface",
+        "text_level": 1,
+        "bbox": [
+            324,
+            181,
+            890,
+            287
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Report Type",
+        "bbox": [
+            324,
+            315,
+            392,
+            336
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Special Instructions",
+        "bbox": [
+            614,
+            315,
+            720,
+            334
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brand",
+        "bbox": [
+            337,
+            356,
+            376,
+            377
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Only analyze cultural and social relevance",
+        "bbox": [
+            625,
+            361,
+            873,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Company Name ★",
+        "bbox": [
+            324,
+            410,
+            425,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abercrombie and Fitch",
+        "bbox": [
+            335,
+            449,
+            473,
+            472
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LLM Model Configuration",
+        "text_level": 2,
+        "bbox": [
+            324,
+            519,
+            588,
+            555
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Model",
+        "bbox": [
+            324,
+            575,
+            361,
+            593
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claude 3.7 (Anthropic)",
+        "bbox": [
+            335,
+            614,
+            469,
+            637
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data Sources",
+        "text_level": 2,
+        "bbox": [
+            324,
+            684,
+            465,
+            715
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/4199915f6ae1aed811f1ae2ebe546d157577139cb28f79eab74c950392a52150.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"7\">Source: glassdoor</td><td>URL:</td><td>Weight:</td><td>Date: 2022-</td><td>Dimensions:</td><td>■</td></tr><tr><td>https://www.glass</td><td>10</td><td>08-09 to</td><td>Cultural &amp; Social</td><td>Del</td></tr><tr><td>door.com/Review</td><td></td><td>2025-08-09</td><td>Relevance</td><td>ete</td></tr><tr><td>s/Abercrombie-</td><td></td><td></td><td></td><td>Sou</td></tr><tr><td>and-Fitch-</td><td></td><td></td><td></td><td>rce</td></tr><tr><td>Reviews-</td><td></td><td></td><td></td><td>1</td></tr><tr><td>E6756.htm</td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            320,
+            735,
+            895,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            641,
+            40
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1/37",
+        "bbox": [
+            949,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/48d7884b041512e1d6d68424298e776ea25fa2ffef7c4fa5aa82843f8f66b240.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            337,
+            653,
+            353,
+            674
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fbdec094404022ca3557374c7dcdcff0be29d1f434a8bfd15dec6c3b9de0a30.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"5\">Source: indeed</td><td>URL:</td><td>Weight:</td><td>Date: 2022-</td><td>Dimensions:</td><td>■</td></tr><tr><td>https://www.inde ed.com/cmp/Aber</td><td>10</td><td>08-09 to 2025-08-09</td><td>Cultural &amp; Social</td><td>Del ete</td></tr><tr><td></td><td></td><td></td><td>Relevance</td><td>Sou</td></tr><tr><td>crombie-&amp;- Fitch/reviews</td><td></td><td></td><td></td><td>rce 2</td></tr><tr><td>URL:</td><td>Weight:</td><td>Date: 2022-</td><td></td><td>■</td></tr><tr><td rowspan=\"4\">Source: trustpilot</td><td>https://www.trust</td><td>t 10</td><td>08-09 to</td><td>Dimensions: Cultural &amp; Social</td><td>Del</td></tr><tr><td>pilot.com/review/</td><td></td><td>2025-08-09</td><td>Relevance</td><td>ete</td></tr><tr><td>www.abercrombi</td><td></td><td></td><td></td><td>Sou</td></tr><tr><td>e.com</td><td></td><td></td><td></td><td>rce 3</td></tr><tr><td>Select Data Source</td><td></td><td>Source URL</td><td></td><td>Weight</td><td></td></tr><tr><td>Trustpilot</td><td>✓</td><td></td><td>https://www.trustpilot.com/review/ww</td><td>10</td><td>1 +</td></tr><tr><td>Start Date</td><td>End Date</td><td></td><td>Select Dimensions</td><td></td><td>②</td></tr><tr><td>2022/08/09</td><td>2025/08/09</td><td></td><td>Cultural &amp; Social... ×</td><td></td><td><img src=\"images/908e64bb423b7ed59d33cd146ef5711354f442a4dc7159b7b08f9ada6676f064.jpg\"/></td></tr></table>",
+        "bbox": [
+            321,
+            44,
+            895,
+            629
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "<sup>➕</sup> Add Selected Source",
+        "bbox": [
+            337,
+            653,
+            479,
+            678
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Google News",
+        "text_level": 2,
+        "bbox": [
+            325,
+            723,
+            464,
+            758
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf415d355c8f3aa6d9c7572b2b24d223aaebdcefe37973e36eabede350e72dec.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            325,
+            777,
+            357,
+            800
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Include Google News",
+        "bbox": [
+            361,
+            779,
+            487,
+            802
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Search Query",
+        "bbox": [
+            325,
+            825,
+            397,
+            846
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Number of Articles",
+        "bbox": [
+            709,
+            825,
+            808,
+            844
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abercrombie",
+        "bbox": [
+            337,
+            864,
+            416,
+            885
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20",
+        "bbox": [
+            720,
+            866,
+            739,
+            885
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Date Range",
+        "bbox": [
+            325,
+            919,
+            387,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Select Dimensions",
+        "bbox": [
+            521,
+            919,
+            618,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7193d96cc2327a61336e016fd1d5e317e62201237fe46dc796564d6905e0fce2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            877,
+            918,
+            893,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            22,
+            641,
+            40
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2/37",
+        "bbox": [
+            949,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb8f732b846e58fea65902a7a5175f8d9cf3bbffb81e48354a4c1fc619ed154c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            844,
+            49,
+            883,
+            73
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Past Year",
+        "bbox": [
+            337,
+            55,
+            393,
+            78
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cultural & Social…",
+        "bbox": [
+            535,
+            49,
+            667,
+            73
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Custom Data",
+        "text_level": 2,
+        "bbox": [
+            324,
+            125,
+            462,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Click to add custom data",
+        "bbox": [
+            338,
+            191,
+            470,
+            217
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Text Data",
+        "text_level": 2,
+        "bbox": [
+            339,
+            246,
+            441,
+            281
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Name",
+        "bbox": [
+            338,
+            302,
+            376,
+            323
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Raw Text",
+        "bbox": [
+            503,
+            300,
+            556,
+            325
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Select Dimensions",
+        "bbox": [
+            667,
+            300,
+            768,
+            325
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Choose an option",
+        "bbox": [
+            678,
+            341,
+            785,
+            369
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Add Text Data",
+        "bbox": [
+            351,
+            464,
+            436,
+            490
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Webpages",
+        "text_level": 2,
+        "bbox": [
+            338,
+            534,
+            452,
+            573
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "URL:",
+        "bbox": [
+            339,
+            589,
+            372,
+            614
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "https://www.abercrombie.com/shop/wd/about-us",
+        "bbox": [
+            338,
+            619,
+            638,
+            647
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural &",
+        "bbox": [
+            650,
+            589,
+            790,
+            614
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Social Relevance",
+        "bbox": [
+            650,
+            619,
+            755,
+            643
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "URL: https://corporate.abercrombie.com/ourimpact/",
+        "bbox": [
+            338,
+            735,
+            611,
+            790
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural &",
+        "bbox": [
+            650,
+            735,
+            789,
+            761
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Social Relevance",
+        "bbox": [
+            650,
+            764,
+            755,
+            789
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "️",
+        "bbox": [
+            832,
+            589,
+            853,
+            619
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Delete Webpa",
+        "bbox": [
+            821,
+            625,
+            867,
+            679
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ge 1",
+        "bbox": [
+            829,
+            684,
+            859,
+            709
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "️",
+        "bbox": [
+            832,
+            736,
+            853,
+            764
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Delete Webpa ge 2",
+        "bbox": [
+            821,
+            769,
+            868,
+            856
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3/37",
+        "bbox": [
+            949,
+            957,
+            970,
+            973
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            641,
+            40
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            26,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Super Essence Report Generation Interface",
+        "text_level": 2,
+        "bbox": [
+            460,
+            22,
+            641,
+            40
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab07c36b34e154ad0da925c824a1e271cb49bb36df96c5aaa33481e5ef51b52b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>URL:</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■</td></tr><tr><td>https://www.abercrombie.com/shop/wd/help/Acc essibility</td><td></td><td>Delete Webpa ge 3</td></tr><tr><td>URL: https://corporate.abercrombie.com/our- commitment/</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa</td></tr><tr><td>URL: https://corporate.abercrombie.com/sustainability/Social Relevance</td><td>Dimensions: Cultural &amp;</td><td>ge 4 ■</td></tr><tr><td></td><td></td><td>Delete Webpa ge 5</td></tr><tr><td>URL: https://www.instagram.com/abercrombie/? hl=en</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa ge 6</td></tr><tr><td>URL: https://www.tiktok.com/@abercrombie? lang=en</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa</td></tr><tr><td>URL: https://www.facebook.com/search/top? q=abercrombie%20%26%20fitch</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>ge 7 ■ Delete Webpa ge 8</td></tr><tr><td>URL: https://x.com/abercrombie?lang=en</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa</td></tr><tr><td>URL: https://trends.google.com/trends/explore? geo=US&amp;q=%2Fg%2F1pp331h_c,%2Fg%2F11h81n 828j,%2Fm%2F0rnzg9c,%2Fg%2F1hf5c375z&amp;hl=en</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>ge 9 ■ Delete Webpa</td></tr><tr><td>URL: https://www.youtube.com/abercrombie</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>ge 10 ■ Delete Webpa ge 11</td></tr><tr><td>URL: https://finance.yahoo.com/news/abercrombie- fitch-company-anf-attracting-130004707.html</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa ge 12</td></tr><tr><td>URL: https://www.cosmopolitan.com/style- beauty/fashion/a65592872/abercrombie-viral- denim-sale/</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa</td></tr><tr><td>URL: https://finance.yahoo.com/news/abercrombie-</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>ge 13</td></tr><tr><td>fitch-co-anf-bull-203351129.html</td><td></td><td>■ Delete Webpa</td></tr><tr><td>URL: https://www.whowhatwear.com/fashion/shopping /fall-2025-arrivals-jcrew-abercrombie-old-navy</td><td>Dimensions: Cultural &amp; g Social Relevance</td><td>■ Delete Webpa ge 15</td></tr><tr><td>URL: https://www.popsugar.com/fashion/best- abercrombie-jeans-tiktok-48284504</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa ge 16</td></tr><tr><td>URL: https://adage.com/influencers-creators/aa- creator-trends-abercrombie-airbnb-kia- neutrogena/</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa ge 17</td></tr><tr><td>URL: https://www.bbc.com/news/articles/ce8vmy56yer 0</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa</td></tr><tr><td>URL: https://www.bbc.com/news/articles/cp31nknxgwl</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>ge 18 ■ Delete</td></tr><tr><td>0 URL: https://nymag.com/strategist/article/abercrombie-Social Relevance</td><td>Dimensions: Cultural &amp;</td><td>Webpa ge 19 ■ Delete</td></tr><tr><td>URL: https://finance.yahoo.com/news/investors- abercrombie-fitch-nyse-anf-135904034.html</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa ge 21</td></tr><tr><td>URL: https://www.ft.com/content/86e2be28-ccd7-</td><td>Dimensions: Cultural &amp;</td><td>■</td></tr><tr><td>4ef3-a715-ad5b5f5fb06d</td><td>Social Relevance</td><td>Delete Webpa ge 22</td></tr><tr><td>URL: https://www.instyle.com/abercrombie- spring-dresses-review-11710335</td><td>Dimensions: Cultural &amp; Social Relevance</td><td>■ Delete Webpa ge 23</td></tr><tr><td>URL:</td><td>Dimensions: Cultural &amp;</td><td>■</td></tr><tr><td>https://www.abercrombie.com/shop/wd/p/beade</td><td>Social Relevance</td><td>Delete</td></tr><tr><td>d-flowy-midi-dress-60711827? seq=02&amp;pagefm=navigation-</td><td></td><td>Webpa</td></tr><tr><td>edit&amp;dataText=bag+product&amp;dataAction=click</td><td></td><td>ge 24</td></tr><tr><td>Add Webpage URL</td><td>Select Dimensions</td><td><img src=\"images/dbe97a6800c9c3ba85c1973c47206139ae9e087cf705a8c45029c93add09e3b2.jpg\"/></td></tr></table>",
+        "bbox": [
+            329,
+            40,
+            885,
+            901
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            26,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4/37",
+        "bbox": [
+            948,
+            959,
+            970,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            328,
+            39,
+            883,
+            898
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            22,
+            641,
+            40
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            26,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5/37",
+        "bbox": [
+            949,
+            959,
+            970,
+            973
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            329,
+            40,
+            886,
+            897
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            26,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6/37",
+        "bbox": [
+            948,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            334,
+            39,
+            881,
+            673
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "<sup>➕</sup> Add Webpage",
+        "bbox": [
+            352,
+            745,
+            455,
+            772
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fc6fdd921e15fda5f0a8e22f63f01596237ee0a99a84841b8b4138d7dcee20a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            352,
+            745,
+            368,
+            767
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Upload Files",
+        "text_level": 2,
+        "bbox": [
+            340,
+            816,
+            472,
+            851
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cultural …",
+        "bbox": [
+            718,
+            684,
+            810,
+            707
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "File: Sold out \\_ r\\_AbercrombieandFitch.pdf",
+        "bbox": [
+            338,
+            872,
+            507,
+            926
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social",
+        "bbox": [
+            559,
+            872,
+            734,
+            897
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Relevance",
+        "bbox": [
+            559,
+            901,
+            623,
+            924
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/06632871c48df02bfe77a9f1a97b88f3d28730cbe848d922c4fb6ace60b6732b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            829,
+            684,
+            868,
+            707
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea07e692ecbeecc47f6468c25f1b3a3968fbc50677b584734ef055aa6041c0dd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            874,
+            815,
+            900
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "File 1",
+        "bbox": [
+            811,
+            908,
+            848,
+            929
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            22,
+            640,
+            40
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7/37",
+        "bbox": [
+            949,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/65fbf416e5962e4df133f507ba87b21bcb6f31d5a551347253e52deab852b0a1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            576,
+            815,
+            598
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: Anyone disappointed with collection this year \\_ \\_ r\\_AbercrombieandFitch.pdf",
+        "bbox": [
+            338,
+            47,
+            526,
+            129
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: Abercrombie alternatives\\_ \\_ r\\_AbercrombieandFitch.pdf",
+        "bbox": [
+            339,
+            151,
+            535,
+            205
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: A lot of influencers are advertising Abercrombie. What does everyone think about this store \\_ \\_ r\\_NYCinfluencersnark.pdf",
+        "bbox": [
+            338,
+            228,
+            547,
+            339
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: The surprisingly subdued resurrection of Abercrombie & Fitch \\_ r\\_malefashionadvice.pdf",
+        "bbox": [
+            338,
+            361,
+            532,
+            444
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: Just wandered into an Abercrombie & Fitch for the first time in ages and the clothes were actually decent, the staff was diverse and Woods is back a\u0000er a 20+ year hiatus with the classic 2001 packaging. \\_ r\\_Xennials.pdf",
+        "bbox": [
+            338,
+            467,
+            539,
+            666
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: Does anyone know anyone who buys Abercrombie and Fitch (ANF) clothes\\_\\_\\_ WTF Daily and Monthly chart \\_",
+        "bbox": [
+            338,
+            687,
+            534,
+            799
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: I miss the old Abercrombie and Fitch \\_ r\\_unpopularopinion.pdf",
+        "bbox": [
+            338,
+            849,
+            527,
+            931
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            558,
+            47,
+            734,
+            99
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            124,
+            734,
+            176
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            199,
+            734,
+            251
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            276,
+            734,
+            326
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            352,
+            734,
+            401
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            428,
+            734,
+            478
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            503,
+            734,
+            553
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            578,
+            734,
+            630
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            655,
+            734,
+            705
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            732,
+            734,
+            781
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            807,
+            734,
+            857
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            558,
+            882,
+            736,
+            934
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/62a45d90877875e06c533389c8768e5249d9d1d91a2d90f4100434107f2d32b8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            52,
+            815,
+            76
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            818,
+            57,
+            861,
+            76
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File 2",
+        "bbox": [
+            811,
+            86,
+            847,
+            106
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/43569c9da8733d465afe1ff0e7c722f2a3f1575d33effccb16f65cc07f090a29.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            140,
+            815,
+            163
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 3",
+        "bbox": [
+            797,
+            140,
+            861,
+            194
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e2e6e9201271bde5e0b0b16d11924ec8874a7932b396eabe7718786dcf080ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            227,
+            815,
+            250
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 4",
+        "bbox": [
+            797,
+            227,
+            859,
+            282
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcf0220766a725391ffc76bd337ef6a1391e36e2032717351ee852dddb17c0ca.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            313,
+            815,
+            338
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 5",
+        "bbox": [
+            813,
+            316,
+            859,
+            367
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/627acf43c1436fb1738c188e16392bcc331a709a55b0338f041912fe632c451b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            401,
+            815,
+            426
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 6",
+        "bbox": [
+            799,
+            401,
+            859,
+            455
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2c3646d7f6dcac9bfb5357e9a63ccdf3b0c17252e700bf19ab10da344b6f090.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            488,
+            815,
+            513
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 7",
+        "bbox": [
+            797,
+            488,
+            859,
+            542
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 8",
+        "bbox": [
+            797,
+            575,
+            861,
+            630
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1662e32f676ba81ca6f9ebf3d2e75f6990d7f8320ad49ac4d4ffc42286e050ce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            663,
+            815,
+            686
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/26a34f6e8b3ad9b1619820d44363d1327649fdc16e407961254ab3bb160c1b38.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            750,
+            815,
+            774
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            753,
+            861,
+            774
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File 10",
+        "bbox": [
+            808,
+            784,
+            851,
+            803
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a228e25affcf00ae748e4d660e91db9fd6fcb0e749311990fdd601d42a5f16c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            838,
+            815,
+            861
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 11",
+        "bbox": [
+            797,
+            838,
+            861,
+            892
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            641,
+            40
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8/37",
+        "bbox": [
+            949,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "File: Abercrombie & Fitch\\_ WTF is going on \\_ r\\_wallstreetbets.pdf",
+        "bbox": [
+            338,
+            47,
+            536,
+            102
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: Abercrombie and Fitch\\_ \\_ r\\_butchlesbians.pdf",
+        "bbox": [
+            339,
+            122,
+            520,
+            178
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: How Abercrombie & Fitch turned from teen castoff to market trend \\_ r\\_Fauxmoi.pdf",
+        "bbox": [
+            338,
+            199,
+            545,
+            282
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: WTF Is Going On At Abercrombie & Fitch \\_ r\\_wallstreetbets.pdf",
+        "bbox": [
+            339,
+            303,
+            482,
+            385
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: Abercrombie rebrand made their clothes boring. \\_ r\\_unpopularopinion.pdf",
+        "bbox": [
+            338,
+            408,
+            532,
+            491
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: Remember Abercrombie &   \nFitch\\_   \nr\\_Millennials.pdf",
+        "bbox": [
+            338,
+            514,
+            526,
+            596
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: Abercrombie & Fitch is back… and it’s not bad\\_ \\_ r\\_Xennials.pdf",
+        "bbox": [
+            339,
+            619,
+            542,
+            671
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: Is Abercrombie somewhere you would shop nowadays\\_ \\_ r\\_asianamerican.pdf",
+        "bbox": [
+            338,
+            694,
+            530,
+            777
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File: What’s better quality Hollister or Abercrombie\\_ \\_ r\\_malefashionadvice.pdf",
+        "bbox": [
+            338,
+            799,
+            542,
+            882
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            49,
+            734,
+            101
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            124,
+            734,
+            176
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            200,
+            734,
+            251
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            276,
+            734,
+            328
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            352,
+            734,
+            405
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            428,
+            734,
+            480
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            503,
+            734,
+            555
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            581,
+            734,
+            632
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            656,
+            734,
+            707
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            732,
+            734,
+            784
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            559,
+            807,
+            734,
+            861
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dimensions: Cultural & Social Relevance",
+        "bbox": [
+            558,
+            883,
+            736,
+            936
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/87e953530c42d543498cff5aeb5ecb91dcd5fd7f7c2e85c9590fc11a2fc7aee8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            49,
+            815,
+            73
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            53,
+            861,
+            73
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File 12",
+        "bbox": [
+            808,
+            83,
+            851,
+            104
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/96a59e1c2f14ffe5fbca87ad98e59a3c47ae0eaba90ab93cab0bfcb965800e86.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            135,
+            815,
+            160
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            140,
+            861,
+            161
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File 13",
+        "bbox": [
+            808,
+            171,
+            851,
+            191
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4169a8412e1c5c6e2d07f46c57c56d12aff06788797b550d5d42ad2c4994c89c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            223,
+            815,
+            246
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 14",
+        "bbox": [
+            797,
+            223,
+            861,
+            279
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2d0de0eead1534a3b0fd792caf762ff79b6a3ae38dc89c8ba8f7937caaa1e06.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            312,
+            815,
+            334
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 15",
+        "bbox": [
+            799,
+            312,
+            859,
+            366
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e519c7331632d01cd37f56b31941e1e6603cee405bcbcd561e05df30ed99023.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            398,
+            815,
+            421
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            401,
+            859,
+            423
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File 16",
+        "bbox": [
+            808,
+            431,
+            851,
+            450
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/adbb4f21e97fdb844c7af6010b6346a1392118e44db4d4de70013b85f95bb34f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            485,
+            815,
+            509
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 17",
+        "bbox": [
+            797,
+            485,
+            859,
+            540
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/81dc62c77a2c469220cf4da62d28d285e9101903dfa0d11429f2a45e8186f78d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            573,
+            815,
+            596
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            576,
+            859,
+            598
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File 18",
+        "bbox": [
+            808,
+            606,
+            851,
+            627
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b86d180f5bfbace13f96a67b9b09e426845643b0d46e180e4cf5c6151b721c5f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            660,
+            815,
+            683
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            663,
+            859,
+            684
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File 19",
+        "bbox": [
+            808,
+            694,
+            849,
+            714
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ff5909a7d95125630110e9e0304fc5ab16a9a2c4a7f5b37caf08378ddb32468.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            799,
+            746,
+            815,
+            771
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            751,
+            861,
+            772
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "File 20",
+        "bbox": [
+            808,
+            781,
+            851,
+            800
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/80c4769bbe9fdef299d0adf5fb9de99d7a0b634fef9734bdf7f12f2cf00d65a4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            834,
+            815,
+            857
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete File 21",
+        "bbox": [
+            797,
+            834,
+            861,
+            888
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            22,
+            641,
+            40
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9/37",
+        "bbox": [
+            948,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Super Essence Report Generation Interface",
+        "text_level": 2,
+        "bbox": [
+            460,
+            22,
+            640,
+            40
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: How Abercrombie Became Cool Again \\_ r\\_malefashionadvice.pdf",
+        "bbox": [
+            338,
+            47,
+            527,
+            130
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: Modern Abercrombie is over consumption at it's finest \\_ r\\_AbercrombieandFitch.pdf",
+        "bbox": [
+            338,
+            151,
+            536,
+            235
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: How does Abercrombie's quality compare to Uniqlo\\_ \\_ r\\_malefashionadvice.pdf",
+        "bbox": [
+            338,
+            258,
+            517,
+            339
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: Is Abercrombie a good “buy it   \nfor life” brand\\_ \\_   \nr\\_BuyItForLife.pdf",
+        "bbox": [
+            338,
+            361,
+            544,
+            446
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: How did Abercrombie & Fitch do it\\_ \\_ r\\_Millennials.pdf",
+        "bbox": [
+            338,
+            465,
+            541,
+            519
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: Abercrombie and Fitch opinions\\_ \\_ r\\_malefashionadvice.pdf",
+        "bbox": [
+            339,
+            542,
+            503,
+            625
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: multiTimeline (36).csv",
+        "bbox": [
+            339,
+            647,
+            501,
+            669
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File: geoMap (66).csv",
+        "bbox": [
+            339,
+            694,
+            465,
+            718
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Choose files",
+        "bbox": [
+            340,
+            740,
+            406,
+            761
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/68b97d1b231bed42f10f2729b778d9eb6ceb683678c43fededa18d17661ecbeb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            354,
+            795,
+            390,
+            830
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Drag and drop files here Limit 200MB per file • PDF, TXT, CSV",
+        "bbox": [
+            398,
+            790,
+            582,
+            843
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Browse files",
+        "bbox": [
+            594,
+            803,
+            670,
+            825
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/92d7d367c51e592ff9f078ed10acd05669244255578e6bf07230d1e999051545.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            361,
+            879,
+            382,
+            910
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "geoMap (66).csv 1.5KB",
+        "bbox": [
+            400,
+            880,
+            535,
+            905
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2019257ca229b458a4dcefa6c0eb50f3646e887fa29966474493049b2c09eb33.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            661,
+            883,
+            678,
+            905
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ad74212bfb48bb889f88ed79335d8c4cee36c047fb32be1a22537f17c99ecb8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            49,
+            815,
+            73
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            53,
+            861,
+            73
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File 22",
+        "bbox": [
+            808,
+            83,
+            851,
+            104
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0028aa835aedb9831e5886b6382df81cb3df604f89eab5f69e25203f068f67f7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            135,
+            815,
+            160
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            818,
+            140,
+            861,
+            161
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File 23",
+        "bbox": [
+            808,
+            171,
+            851,
+            191
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/de4d05fc88a177ae6960c94dde8d10742af4e326e6fa9af703ca3139de75905b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            223,
+            815,
+            246
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "<sup>️</sup> Delete",
+        "bbox": [
+            797,
+            223,
+            861,
+            248
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File 24",
+        "bbox": [
+            808,
+            258,
+            851,
+            277
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cbbf717cc721df99b4abac2237355f6df36707873c792240a614afcd31bb393.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            797,
+            312,
+            815,
+            334
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Delete",
+        "bbox": [
+            819,
+            315,
+            859,
+            336
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "File 25",
+        "bbox": [
+            808,
+            344,
+            851,
+            364
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Select Dimensions",
+        "text_level": 2,
+        "bbox": [
+            704,
+            740,
+            803,
+            761
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a749e7e95084cd8d174e1585173b34bd51af5bb7903a88adc1e7220509eb6ba.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            863,
+            740,
+            878,
+            761
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cultural …",
+        "bbox": [
+            719,
+            781,
+            786,
+            802
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b41452305c37d394233c645c07b812ea4bf50bd88ab6a994082dc54d73955aa9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            830,
+            781,
+            847,
+            802
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10/37",
+        "bbox": [
+            944,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a41721953a70ab6debdc34719b3a61340dae1f29bf835cf32375d24f960d29e3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            661,
+            55,
+            678,
+            76
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e59703cb74da692388aa277ff8e4bf2d9db70f2234340d30c0024d19f5c1b5f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            361,
+            99,
+            382,
+            132
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "D multiTimeline (36).csv 1.4KB",
+        "bbox": [
+            361,
+            50,
+            570,
+            81
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "D Abercrombie and Fitch opinions\\_ \\_ … 1.3MB",
+        "bbox": [
+            361,
+            101,
+            678,
+            130
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Showing page 1 of 9",
+        "bbox": [
+            353,
+            150,
+            460,
+            173
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            640,
+            150,
+            674,
+            171
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Add Files",
+        "bbox": [
+            349,
+            217,
+            409,
+            240
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Generate Report",
+        "bbox": [
+            335,
+            300,
+            438,
+            325
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Report generation completed successfully!",
+        "bbox": [
+            338,
+            372,
+            590,
+            397
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Brand Analysis Report",
+        "text_level": 2,
+        "bbox": [
+            325,
+            464,
+            704,
+            514
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This report provides a comprehensive analysis of Brand performance across multiple dimensions.",
+        "bbox": [
+            324,
+            537,
+            895,
+            562
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Dimension Scores",
+        "text_level": 2,
+        "bbox": [
+            325,
+            602,
+            568,
+            642
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Brand Awareness",
+        "text_level": 2,
+        "bbox": [
+            324,
+            684,
+            508,
+            715
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Score: 3.0/5.0 Data confidence: 52/100 Summary: Brand Awareness for Abercrombie & Fitch cannot be robustly assessed due to a lack of direct survey, recognition, and media share data. The only strong evidence is for Brand Search Volume, which is high and consistent. Other subdimensions are scored neutral due to insufficient supporting data.",
+        "bbox": [
+            321,
+            738,
+            896,
+            851
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            22,
+            641,
+            40
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            26,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11/37",
+        "bbox": [
+            944,
+            957,
+            970,
+            973
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/23ceb3a525aff2e2c539e03b68b775a2f12be227e9daf7b3694f381a5da66945.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Sub-Dimension</td><td colspan=\"1\" rowspan=\"1\">Score</td><td colspan=\"1\" rowspan=\"1\">Justification</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UnaidedBrand Recall</td><td colspan=\"1\" rowspan=\"1\">3.0</td><td colspan=\"1\" rowspan=\"1\">Available data does not include direct survey-based recallpercentages or spontaneous mention frequency from researchpanels. No internal or external survey results, CRM logs, or sociallistening data are present to quantify unaided recall. As such, thescore is set to neutral, reflecting insufficient evidence to support ahigher or lower assessment. [data_confidence: 40/100]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Aided BrandRecognition</td><td colspan=\"1\" rowspan=\"1\">3.0</td><td colspan=\"1\" rowspan=\"1\">There is no evidence of prompted recognition statistics,recognition testing scores, or brand lift percentages from researchstudies or internal surveys. No data from customer feedback logs,recognition testing, or public recognition studies is available. Thescore is neutral due to the absence of quantitative or qualitativerecognition data. [data_confidence: 40/100]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Share ofVoice</td><td colspan=\"1\" rowspan=\"1\">3.0</td><td colspan=\"1\" rowspan=\"1\">No quantitative or qualitative data is provided regarding therelative frequency of Abercrombie &amp; Fitch mentions versuscompetitors in media, industry discussions, or public platforms.There are no competitive brand mention frequencies, mediamonitoring reports, or social listening outputs. The score is neutraldue to lack of evidence. [data_confidence: 40/100]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">BrandSearchVolume</td><td colspan=\"1\" rowspan=\"1\">4.0</td><td colspan=\"1\" rowspan=\"1\">Google Trends data (multiTimeline (36).csv) shows Abercrombie &amp;Fitch maintains high and consistent search volume, with regularspikes during key periods. The brand's search interest iscomparable to or exceeds several direct competitors, reflectingstrong and sustained consumer curiosity and engagement.However, the search volume is not at the absolute peak of thecategory, as some mass-market brands occasionally surpass it.[manual_data:multiTimeline (36).csv]</td></tr><tr><td>Sub- Dimension</td><td>Score Justification</td><td></td></tr><tr><td>Brand Visibility</td><td>3.0</td><td>No direct data is available on total impressions, ad views, or cross- channel presence scores. There are no marketing campaign performance reports, media tracking, or survey data on where customers see the brand. The score is set to neutral due to insufficient evidence. [data_confidence: 40/100]</td></tr></table>",
+        "bbox": [
+            325,
+            44,
+            893,
+            926
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            640,
+            40
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            26,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12/37",
+        "bbox": [
+            944,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            327,
+            44,
+            892,
+            276
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Detailed Analysis:",
+        "text_level": 2,
+        "bbox": [
+            324,
+            299,
+            435,
+            320
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The available data for Abercrombie & Fitch's Brand Awareness is limited, with only Brand Search Volume supported by quantitative evidence from Google Trends. This shows the brand maintains high and consistent search interest, indicating strong consumer engagement during key periods. [manual\\_data:multiTimeline (36).csv]",
+        "bbox": [
+            323,
+            346,
+            891,
+            457
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For Unaided Brand Recall, Aided Brand Recognition, Share of Voice, and Brand Visibility, there is a lack of direct survey data, recognition testing, or media monitoring reports. As a result, these subdimensions are scored neutral, reflecting the absence of verifiable evidence. [data\\_confidence: 40/100]",
+        "bbox": [
+            323,
+            478,
+            895,
+            591
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Overall, the Brand Awareness score is constrained by data gaps in critical sub-dimensions. The assessment is therefore conservative, with high confidence only in search volume trends and low confidence in other aspects due to missing data.",
+        "bbox": [
+            323,
+            614,
+            890,
+            696
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brand Trust",
+        "text_level": 2,
+        "bbox": [
+            324,
+            787,
+            450,
+            818
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Score: 2.6/5.0 Data confidence: 95/100 Summary: Abercrombie & Fitch's brand trust is hindered by persistent internal reliability and communication issues, as reported by employees. While",
+        "bbox": [
+            323,
+            843,
+            887,
+            897
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            640,
+            40
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13/37",
+        "bbox": [
+            944,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "some progress in ethics and responsibility is noted, ongoing skepticism about management transparency and workplace consistency continues to undermine overall trust.",
+        "bbox": [
+            323,
+            47,
+            861,
+            101
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7abedb09b98d9ceb9382c6b508c28c3536ea6885c2cd0cd6d02f6cc929aad19.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Sub-Dimension</td><td colspan=\"1\" rowspan=\"1\">Score</td><td colspan=\"1\" rowspan=\"1\">Justification</td></tr><tr><td colspan=\"1\" rowspan=\"1\">PerceivedReliability</td><td colspan=\"1\" rowspan=\"1\">2.0</td><td colspan=\"1\" rowspan=\"1\">Employee reviews on Glassdoor and Indeed consistentlyhighlight concerns about inconsistent management practices,unreliable scheduling, and frequent changes in work hours.Many employees report unpredictability in shift allocation andjob security, which undermines perceptions of the company'sreliability as an employer. These reliability issues are persistentthemes in recent workplace feedback, indicating a lack ofdependable internal processes. [glassdoor_reviews],[indeed_reviews]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Transparency &amp;Authenticity</td><td colspan=\"1\" rowspan=\"1\">2.0</td><td colspan=\"1\" rowspan=\"1\">Workplace reviews reveal that communication frommanagement is often unclear or perceived as disingenuous,especially regarding scheduling, advancement opportunities,and company policies. Employees frequently mention a lack oftransparency in decision-making and inconsistent messagingfrom leadership, leading to skepticism about the authenticity ofinternal communications. This pattern is evident across bothGlassdoor and Indeed feedback. [glassdoor_reviews],[indeed_reviews]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Security &amp;</td><td colspan=\"1\" rowspan=\"2\">3.0</td><td colspan=\"1\" rowspan=\"2\">There is limited evidence of significant employee concernregarding data security or privacy breaches within the company.While some reviews mention issues with internal systems orcommunication, there are no widespread reports ofmishandling personal information or major security incidents.The overall perception among employees is neutral, with no</td></tr><tr><td colspan=\"1\" rowspan=\"1\">PrivacyPerception</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">strong positive or negative trends. [glassdoor_reviews],[indeed_reviews]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Social Proof &amp;Reviews</td><td colspan=\"1\" rowspan=\"1\">2.5</td><td colspan=\"1\" rowspan=\"1\">Employee sentiment is highly polarized, with some staffpraising the workplace environment and peer relationships,while others express dissatisfaction with management,compensation, and advancement. The ratio of negative topositive reviews is relatively balanced but leans towardinstability, as trust in leadership and company direction isfrequently questioned. This mixed review landscape isconsistent across both Glassdoor and Indeed.[glassdoor_reviews],[indeed_reviews]</td></tr><tr><td colspan=\"1\" rowspan=\"1\">CorporateEthics &amp;Responsibility</td><td colspan=\"1\" rowspan=\"1\">2.5</td><td colspan=\"1\" rowspan=\"1\">While some employees acknowledge improvements in diversity,inclusion, and sustainability initiatives, ongoing concerns aboutethical leadership and fair treatment persist. Reviews referencepast controversies and skepticism about the company'scommitment to ethical practices, particularly in managementconduct and advancement fairness. These concerns areregularly cited in both Glassdoor and Indeed reviews.[glassdoor_reviews],[indeed_reviews]</td></tr></table>",
+        "bbox": [
+            325,
+            119,
+            893,
+            954
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            26,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            641,
+            40
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14/37",
+        "bbox": [
+            944,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            325,
+            44,
+            893,
+            702
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Detailed Analysis:",
+        "text_level": 2,
+        "bbox": [
+            324,
+            725,
+            435,
+            748
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Employee feedback on Glassdoor and Indeed reveals ongoing concerns about the reliability of internal processes, particularly around scheduling, job security, and management consistency. These issues contribute to a perception of unpredictability and undermine trust in the company's dependability as an employer. [glassdoor\\_reviews],[indeed\\_reviews]",
+        "bbox": [
+            323,
+            772,
+            892,
+            883
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "8/9/25, 5:15 PM",
+        "bbox": [
+            27,
+            24,
+            98,
+            39
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Super Essence Report Generation Interface",
+        "bbox": [
+            460,
+            24,
+            640,
+            40
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "https://superessence.kalimamzad.com",
+        "bbox": [
+            27,
+            959,
+            184,
+            975
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15/37",
+        "bbox": [
+            944,
+            959,
+            969,
+            973
+        ],
+        "page_idx": 14
+    }
+]

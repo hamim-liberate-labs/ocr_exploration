@@ -1,0 +1,1485 @@
+{
+ "table_of_contents": [
+  {
+   "title": "Code of Ordinances",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     39.46875,
+     33.1201171875
+    ],
+    [
+     138.15431213378906,
+     33.1201171875
+    ],
+    [
+     138.15431213378906,
+     43.802978515625
+    ],
+    [
+     39.46875,
+     43.802978515625
+    ]
+   ]
+  },
+  {
+   "title": "SUPPLEMENT HISTORY TABLE",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     51.75,
+     51.42333984375
+    ],
+    [
+     198.73590087890625,
+     51.42333984375
+    ],
+    [
+     198.73590087890625,
+     63.302978515625
+    ],
+    [
+     51.75,
+     63.302978515625
+    ]
+   ]
+  },
+  {
+   "title": "PART I - CHARTER AND RELATED LAWS",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     51.3916015625,
+     72.302978515625
+    ],
+    [
+     240.5418701171875,
+     72.302978515625
+    ],
+    [
+     240.5418701171875,
+     82.802978515625
+    ],
+    [
+     51.3916015625,
+     82.802978515625
+    ]
+   ]
+  },
+  {
+   "title": "Subpart A - CHARTER",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     62.9033203125,
+     91.51611328125
+    ],
+    [
+     168.59527587890625,
+     91.51611328125
+    ],
+    [
+     168.59527587890625,
+     102.30294799804688
+    ],
+    [
+     62.9033203125,
+     102.30294799804688
+    ]
+   ]
+  },
+  {
+   "title": "BILL OF RIGHTS",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     74.826171875,
+     109.23828125
+    ],
+    [
+     153.7125244140625,
+     109.23828125
+    ],
+    [
+     153.7125244140625,
+     121.05294799804688
+    ],
+    [
+     74.826171875,
+     121.05294799804688
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 2. - LEGISLATIVE",
+   "heading_level": null,
+   "page_id": 0,
+   "polygon": [
+    [
+     74.4150390625,
+     245.7861328125
+    ],
+    [
+     198.35723876953125,
+     245.7861328125
+    ],
+    [
+     198.35723876953125,
+     256.8029479980469
+    ],
+    [
+     74.4150390625,
+     256.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 4. - PROCEDURES OF COUNCIL",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     85.9267578125,
+     51.42333984375
+    ],
+    [
+     286.4779357910156,
+     51.42333984375
+    ],
+    [
+     286.4779357910156,
+     63.302978515625
+    ],
+    [
+     85.9267578125,
+     63.302978515625
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 5. - INITIATIVE AND REFERENDUM",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     87.75,
+     207.14599609375
+    ],
+    [
+     302.68658447265625,
+     207.14599609375
+    ],
+    [
+     302.68658447265625,
+     218.55294799804688
+    ],
+    [
+     87.75,
+     218.55294799804688
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 6. - CITY AUDITOR",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     87.16015625,
+     245.7861328125
+    ],
+    [
+     224.84381103515625,
+     245.7861328125
+    ],
+    [
+     224.84381103515625,
+     256.8029479980469
+    ],
+    [
+     87.16015625,
+     256.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 7. - ELECTED OFFICIALS COMPENSATION COMMISSION",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     87.75,
+     420.68359375
+    ],
+    [
+     405.2529296875,
+     420.68359375
+    ],
+    [
+     405.2529296875,
+     431.5529479980469
+    ],
+    [
+     87.75,
+     431.5529479980469
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 3. - EXECUTIVE",
+   "heading_level": null,
+   "page_id": 1,
+   "polygon": [
+    [
+     74.00390625,
+     536.89453125
+    ],
+    [
+     188.65415954589844,
+     536.89453125
+    ],
+    [
+     188.65415954589844,
+     547.8029479980469
+    ],
+    [
+     74.00390625,
+     547.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 1. - THE MAYOR",
+   "heading_level": null,
+   "page_id": 2,
+   "polygon": [
+    [
+     87.75,
+     32.5390625
+    ],
+    [
+     214.32843017578125,
+     32.5390625
+    ],
+    [
+     214.32843017578125,
+     43.802978515625
+    ],
+    [
+     87.75,
+     43.802978515625
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 2. - CHIEF OPERATING OFFICER",
+   "heading_level": null,
+   "page_id": 2,
+   "polygon": [
+    [
+     87.5712890625,
+     187.39013671875
+    ],
+    [
+     288.19757080078125,
+     187.39013671875
+    ],
+    [
+     288.19757080078125,
+     199.05294799804688
+    ],
+    [
+     87.5712890625,
+     199.05294799804688
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 3. - CITY DEPARTMENTS",
+   "heading_level": null,
+   "page_id": 2,
+   "polygon": [
+    [
+     87.16015625,
+     245.49560546875
+    ],
+    [
+     252.7220458984375,
+     245.49560546875
+    ],
+    [
+     252.7220458984375,
+     256.8029479980469
+    ],
+    [
+     87.16015625,
+     256.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 4. - BOARDS, AUTHORITIES, COMMISSIONS, AND OTHER SIMILAR BODIES",
+   "heading_level": null,
+   "page_id": 2,
+   "polygon": [
+    [
+     87.16015625,
+     361.416015625
+    ],
+    [
+     492.8787841796875,
+     361.416015625
+    ],
+    [
+     492.8787841796875,
+     373.0529479980469
+    ],
+    [
+     87.16015625,
+     373.0529479980469
+    ]
+   ]
+  },
+  {
+   "title": "[CHAPTER 5. - CIVIL SERVICE SYSTEM]",
+   "heading_level": null,
+   "page_id": 2,
+   "polygon": [
+    [
+     87.16015625,
+     419.521484375
+    ],
+    [
+     269.3309326171875,
+     419.521484375
+    ],
+    [
+     269.3309326171875,
+     431.5529479980469
+    ],
+    [
+     87.16015625,
+     431.5529479980469
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 5. - ELECTIONS, REMOVAL AND CONFLICTS OF INTEREST",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     73.181640625,
+     168.21533203125
+    ],
+    [
+     393.4754638671875,
+     168.21533203125
+    ],
+    [
+     393.4754638671875,
+     179.55294799804688
+    ],
+    [
+     73.181640625,
+     179.55294799804688
+    ]
+   ]
+  },
+  {
+   "title": "[CHAPTER 1. - CONDUCT OF ELECTIONS]",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     85.9267578125,
+     187.6806640625
+    ],
+    [
+     285.2039794921875,
+     187.6806640625
+    ],
+    [
+     285.2039794921875,
+     199.05294799804688
+    ],
+    [
+     85.9267578125,
+     199.05294799804688
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 2. - COUNCIL DISTRICTS; REAPPORTIONMENT",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     87.75,
+     322.19482421875
+    ],
+    [
+     358.6458740234375,
+     322.19482421875
+    ],
+    [
+     358.6458740234375,
+     334.8029479980469
+    ],
+    [
+     87.75,
+     334.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 3. - REMOVAL OF ELECTED OFFICIALS",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     87.16015625,
+     380.5908203125
+    ],
+    [
+     317.8343505859375,
+     380.5908203125
+    ],
+    [
+     317.8343505859375,
+     392.5529479980469
+    ],
+    [
+     87.16015625,
+     392.5529479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 4. - CONFLICTS OF INTEREST",
+   "heading_level": null,
+   "page_id": 4,
+   "polygon": [
+    [
+     86.7490234375,
+     477.91748046875
+    ],
+    [
+     275.4405517578125,
+     477.91748046875
+    ],
+    [
+     275.4405517578125,
+     489.3029479980469
+    ],
+    [
+     86.7490234375,
+     489.3029479980469
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 6. - REVENUE AND FUND ADMINISTRATION",
+   "heading_level": null,
+   "page_id": 5,
+   "polygon": [
+    [
+     74.00390625,
+     71.76025390625
+    ],
+    [
+     330.145263671875,
+     71.76025390625
+    ],
+    [
+     330.145263671875,
+     82.802978515625
+    ],
+    [
+     74.00390625,
+     82.802978515625
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 1. - REVENUE",
+   "heading_level": null,
+   "page_id": 5,
+   "polygon": [
+    [
+     86.337890625,
+     90.93505859375
+    ],
+    [
+     201.23638916015625,
+     90.93505859375
+    ],
+    [
+     201.23638916015625,
+     102.30294799804688
+    ],
+    [
+     86.337890625,
+     102.30294799804688
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 2. - BORROWING AND INDEBTEDNESS",
+   "heading_level": null,
+   "page_id": 5,
+   "polygon": [
+    [
+     87.16015625,
+     245.49560546875
+    ],
+    [
+     322.8280029296875,
+     245.49560546875
+    ],
+    [
+     322.8280029296875,
+     256.8029479980469
+    ],
+    [
+     87.16015625,
+     256.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 3. - FISCAL CONTROL",
+   "heading_level": null,
+   "page_id": 5,
+   "polygon": [
+    [
+     87.75,
+     459.90478515625
+    ],
+    [
+     239.47914123535156,
+     459.90478515625
+    ],
+    [
+     239.47914123535156,
+     470.5529479980469
+    ],
+    [
+     87.75,
+     470.5529479980469
+    ]
+   ]
+  },
+  {
+   "title": "CHAPTER 4. - PROCUREMENT AND DISPOSITION OF PROPERTY",
+   "heading_level": null,
+   "page_id": 6,
+   "polygon": [
+    [
+     85.515625,
+     245.205078125
+    ],
+    [
+     394.13385009765625,
+     245.205078125
+    ],
+    [
+     394.13385009765625,
+     256.8031921386719
+    ],
+    [
+     85.515625,
+     256.8031921386719
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 7. - INTERIM AND GENERAL PROVISIONS",
+   "heading_level": null,
+   "page_id": 6,
+   "polygon": [
+    [
+     73.181640625,
+     323.35693359375
+    ],
+    [
+     315.8985595703125,
+     323.35693359375
+    ],
+    [
+     315.8985595703125,
+     334.8031921386719
+    ],
+    [
+     73.181640625,
+     334.8031921386719
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 8. - THE OFFICE OF THE INSPECTOR GENERAL",
+   "heading_level": null,
+   "page_id": 7,
+   "polygon": [
+    [
+     75.6484375,
+     32.5390625
+    ],
+    [
+     339.5953674316406,
+     32.5390625
+    ],
+    [
+     339.5953674316406,
+     43.802978515625
+    ],
+    [
+     75.6484375,
+     43.802978515625
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE 9. - THE ETHICS OFFICE",
+   "heading_level": null,
+   "page_id": 7,
+   "polygon": [
+    [
+     73.181640625,
+     225.73974609375
+    ],
+    [
+     231.65167236328125,
+     225.73974609375
+    ],
+    [
+     231.65167236328125,
+     237.30294799804688
+    ],
+    [
+     73.181640625,
+     237.30294799804688
+    ]
+   ]
+  },
+  {
+   "title": "APPENDIX I. - COUNCIL DISTRICTS",
+   "heading_level": null,
+   "page_id": 7,
+   "polygon": [
+    [
+     73.5927734375,
+     362.5529479980469
+    ],
+    [
+     242.3011474609375,
+     362.5529479980469
+    ],
+    [
+     242.3011474609375,
+     373.0529479980469
+    ],
+    [
+     73.5927734375,
+     373.0529479980469
+    ]
+   ]
+  },
+  {
+   "title": "APPENDIX II. - HOUSING COMMISSION",
+   "heading_level": null,
+   "page_id": 7,
+   "polygon": [
+    [
+     73.181640625,
+     382.0529479980469
+    ],
+    [
+     265.843017578125,
+     382.0529479980469
+    ],
+    [
+     265.843017578125,
+     392.5529479980469
+    ],
+    [
+     73.181640625,
+     392.5529479980469
+    ]
+   ]
+  },
+  {
+   "title": "APPENDIX III. - CIVIL SERVICE BOARD\nSection 1. - Civil service board.\nAPPENDIX IV. - CITIZEN REVIEW BOARD\nSection 1. - Establishment of the Atlanta Citizen Review Board.\nSection 2. - Definitions.\nSection 3. - Appointment of members.\nSection 4. - Composition of board.\nSection 5. - Time limit on appointments.\nSection 6. - Training of board members.\nSection 7. - Vacancies.\nSection 8. - Organization; rules; consultations.\nSection 9. - Officers.\nSection 10. - Compensation; conflict of interest; removal.\nSection 11. - Quorum; voting.\nSection 12. - Powers and duties of the board.\nSection 13. - Finding of necessity.\nSection 14. - Reconsideration.\nSection 15. - Resolution Review.\nSubpart B - RELATED LAWS\nChapter 2 - ADMINISTRATION\nARTICLE I. - IN GENERAL\nSec. 2-1. - City paid golf professionals.\nSecs. 2-2—2-35. - Reserved.\nARTICLE II. - FINANCE",
+   "heading_level": null,
+   "page_id": 8,
+   "polygon": [
+    [
+     63.75,
+     1.162109375
+    ],
+    [
+     391.0152587890625,
+     1.162109375
+    ],
+    [
+     391.0152587890625,
+     493.896484375
+    ],
+    [
+     63.75,
+     493.896484375
+    ]
+   ]
+  },
+  {
+   "title": "DIVISION 2. - BONDS, REVENUE CERTIFICATES AND OTHER INSTRUMENTS OF INDEBTEDNESS",
+   "heading_level": null,
+   "page_id": 9,
+   "polygon": [
+    [
+     87.16015625,
+     51.42333984375
+    ],
+    [
+     541.5284423828125,
+     51.42333984375
+    ],
+    [
+     541.5284423828125,
+     63.302978515625
+    ],
+    [
+     87.16015625,
+     63.302978515625
+    ]
+   ]
+  },
+  {
+   "title": "Chapter 3 - COMMUNITY DEVELOPMENT",
+   "heading_level": null,
+   "page_id": 9,
+   "polygon": [
+    [
+     62.9033203125,
+     244.6240234375
+    ],
+    [
+     263.5093994140625,
+     244.6240234375
+    ],
+    [
+     263.5093994140625,
+     256.8029479980469
+    ],
+    [
+     62.9033203125,
+     256.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE I. - IN GENERAL",
+   "heading_level": null,
+   "page_id": 9,
+   "polygon": [
+    [
+     73.5927734375,
+     265.25146484375
+    ],
+    [
+     193.96937561035156,
+     265.25146484375
+    ],
+    [
+     193.96937561035156,
+     276.3029479980469
+    ],
+    [
+     73.5927734375,
+     276.3029479980469
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE II. - COMMUNITY IMPROVEMENT DISTRICTS",
+   "heading_level": null,
+   "page_id": 9,
+   "polygon": [
+    [
+     74.00390625,
+     322.77587890625
+    ],
+    [
+     330.9461669921875,
+     322.77587890625
+    ],
+    [
+     330.9461669921875,
+     334.8029479980469
+    ],
+    [
+     74.00390625,
+     334.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "Chapter 4 - COURTS",
+   "heading_level": null,
+   "page_id": 10,
+   "polygon": [
+    [
+     62.9033203125,
+     129.86572265625
+    ],
+    [
+     162.9278564453125,
+     129.86572265625
+    ],
+    [
+     162.9278564453125,
+     140.55294799804688
+    ],
+    [
+     62.9033203125,
+     140.55294799804688
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE II. - CITY COURTS",
+   "heading_level": null,
+   "page_id": 10,
+   "polygon": [
+    [
+     73.181640625,
+     187.6806640625
+    ],
+    [
+     201.9981689453125,
+     187.6806640625
+    ],
+    [
+     201.9981689453125,
+     199.05294799804688
+    ],
+    [
+     73.181640625,
+     199.05294799804688
+    ]
+   ]
+  },
+  {
+   "title": "Chapter 4.5 - RESERVED",
+   "heading_level": null,
+   "page_id": 11,
+   "polygon": [
+    [
+     62.4921875,
+     244.6240234375
+    ],
+    [
+     181.96453857421875,
+     244.6240234375
+    ],
+    [
+     181.96453857421875,
+     256.8029479980469
+    ],
+    [
+     62.4921875,
+     256.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "Chapter 5 - HEALTH AND SANITATION",
+   "heading_level": null,
+   "page_id": 11,
+   "polygon": [
+    [
+     62.9033203125,
+     283.84521484375
+    ],
+    [
+     250.479736328125,
+     283.84521484375
+    ],
+    [
+     250.479736328125,
+     295.8029479980469
+    ],
+    [
+     62.9033203125,
+     295.8029479980469
+    ]
+   ]
+  },
+  {
+   "title": "Chapter 6 - PENSIONS",
+   "heading_level": null,
+   "page_id": 11,
+   "polygon": [
+    [
+     63.7255859375,
+     342.822265625
+    ],
+    [
+     173.0484619140625,
+     342.822265625
+    ],
+    [
+     173.0484619140625,
+     354.443359375
+    ],
+    [
+     63.7255859375,
+     354.443359375
+    ]
+   ]
+  },
+  {
+   "title": "ARTICLE II. - NONUNIFORMED OFFICERS AND EMPLOYEES",
+   "heading_level": null,
+   "page_id": 11,
+   "polygon": [
+    [
+     73.181640625,
+     459.32373046875
+    ],
+    [
+     358.5599365234375,
+     459.32373046875
+    ],
+    [
+     358.5599365234375,
+     470.5529479980469
+    ],
+    [
+     73.181640625,
+     470.5529479980469
+    ]
+   ]
+  },
+  {
+   "title": "DIVISION 2. - BOARD OF TRUSTEES",
+   "heading_level": null,
+   "page_id": 14,
+   "polygon": [
+    [
+     86.7490234375,
+     304.18212890625
+    ],
+    [
+     258.1104736328125,
+     304.18212890625
+    ],
+    [
+     258.1104736328125,
+     315.3029479980469
+    ],
+    [
+     86.7490234375,
+     315.3029479980469
+    ]
+   ]
+  },
+  {
+   "title": "DIVISION 3. - BENEFITS",
+   "heading_level": null,
+   "page_id": 14,
+   "polygon": [
+    [
+     86.7490234375,
+     420.1025390625
+    ],
+    [
+     200.7449951171875,
+     420.1025390625
+    ],
+    [
+     200.7449951171875,
+     431.5529479980469
+    ],
+    [
+     86.7490234375,
+     431.5529479980469
+    ]
+   ]
+  }
+ ],
+ "page_stats": [
+  {
+   "page_id": 0,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     307
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     21
+    ],
+    [
+     "SectionHeader",
+     6
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 1,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     373
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     22
+    ],
+    [
+     "SectionHeader",
+     5
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 2,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     357
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     22
+    ],
+    [
+     "SectionHeader",
+     5
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 3,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     381
+    ],
+    [
+     "Text",
+     27
+    ],
+    [
+     "Line",
+     27
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 4,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     423
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "ListItem",
+     22
+    ],
+    [
+     "SectionHeader",
+     5
+    ],
+    [
+     "ListGroup",
+     5
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 5,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     389
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     23
+    ],
+    [
+     "SectionHeader",
+     4
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 6,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     365
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     25
+    ],
+    [
+     "SectionHeader",
+     2
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 7,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     401
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "ListItem",
+     23
+    ],
+    [
+     "SectionHeader",
+     4
+    ],
+    [
+     "ListGroup",
+     3
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 8,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     309
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     3
+    ],
+    [
+     "SectionHeader",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 9,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     367
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "ListItem",
+     22
+    ],
+    [
+     "SectionHeader",
+     4
+    ],
+    [
+     "ListGroup",
+     3
+    ],
+    [
+     "Code",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 10,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     403
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     23
+    ],
+    [
+     "SectionHeader",
+     2
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 11,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     395
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "Text",
+     23
+    ],
+    [
+     "SectionHeader",
+     4
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 12,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     615
+    ],
+    [
+     "ListItem",
+     27
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "ListGroup",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 13,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     569
+    ],
+    [
+     "ListItem",
+     27
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "ListGroup",
+     1
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  },
+  {
+   "page_id": 14,
+   "text_extraction_method": "pdftext",
+   "block_counts": [
+    [
+     "Span",
+     413
+    ],
+    [
+     "Line",
+     27
+    ],
+    [
+     "ListItem",
+     25
+    ],
+    [
+     "ListGroup",
+     3
+    ],
+    [
+     "SectionHeader",
+     2
+    ]
+   ],
+   "block_metadata": {
+    "llm_request_count": 0,
+    "llm_error_count": 0,
+    "llm_tokens_used": 0,
+    "previous_text": "",
+    "previous_type": "",
+    "previous_order": 0
+   }
+  }
+ ],
+ "debug_data_path": "debug_data/Atlanta, GA Code of Ordinances"
+}
